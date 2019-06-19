@@ -1,50 +1,36 @@
 ---
 layout: page
 title: About
+nav_exclude: true
 permalink: /about/
 ---
-## About Me
-I'm transitioning to teaching from an engineer.
-In college I started out as a Math and Engineering major, but found engineering classes rather boring.
-Hence I started to take more Physics classes instead.
-However my engineering advisor convinced me to go to graduate school for engineering.
-After graduating undergrad with degrees in Math and Physics, and a Music minor, I headed off to get a PhD in Engineering.
+# About
+This page was created and maintained by the JCHS Physical Science teachers to act as a resource for our students.
 
-My one claim to fame is that I recieved an NSF Graduate Research Fellowship.
-I did not finish my PhD, though not for lack of effort, more for a mismatch between my advisor and myself.
-Before finally turning my PhD work into a Masters though, I did work for about 8 years as a research engineer in my advisors company studying microcavitation.
-In regular people terms, little tiny bubbles that go 'pop'.
+We had previously used CK-12 to maintain a textbook for our class but we had several issues.
 
-In transitioning out of engineering I sat down, not in one sitting of course, and figured out that my needs were not being met as an engineer because I needed more positive social interaction and to contribute more directly to helping people.
-Hence, I decided that becoming a teacher would be best.
+  * The output was a very large PDF that was hard to distribute to students
+  * After the initial distribution it was practially impossible to update any of the material throughout the year.
+  * It was difficult to maintain.
+  * It was difficult for students to both take notes and view the book on their devices.  The PDF did not resize well.
+  * We are completely overhauling our units this year and it will be easier to port the old book to a more flexible format than it is to adjust it in place.
 
-Thus far, I'm loving it.
-It is more work than I've ever had to do, but it is good work so I'm happy.
+The goal of this site is to aliviate some of those problems.
+Editing will still be tricky as only one of us is fully comfortable with the system involved.
+At the very least however everytime a student accesses the website, it will be the latest version.
 
-## About this website
-As I believe in the open source community all of my content is saved on Github and hence I'm using Github Pages.
-This allows for all past versions of lesson plans and materials to be available without cluttering up folders.
-Allowing for their to be one, and only one, file tree for my teaching materials.
+## To Do
+  * Offline version - some students will not have internet access at home, so there needs to be clear instructions or a clear way to have an offline version.
 
-This is the based on the default Jekyll theme minima.
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-In addition to the Jekyll documentation, I also went through the [Jekyll for Web Designers tutorial](https://github.com/jameswillweb/jekyll-for-designers) [lynda.com](https://www.lynda.com) course.
+## Future options
+Currently the organization name jchs-science is intended as a universal name for the whole science department.
+It is unlikely anytime soon this will branch from just the physical science department to multiple departments, but there is that option.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+To do that:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+  * Move all of the physical science content to a physical science folder.
+  * Setup those folders to have their children be the current units.
+  * Make folders for the other classes.
+  * Set the side bar order.
 
-
-[jekyll-organization]: https://github.com/jekyll
-
-## Past ideas
-This is my website containing resources and plannbook.
-It is divided into two general segments, students and educators.
-The students should see blog posts indicating what is done on each day with links to any needed info as well as assignments.
-The edu page will list the units for which I have taught, then link to the unit lesson plans as well as the reflection pages over how each lesson went.
-There should be a 1:1 corrolation with student assignment/resource posts with edu assignment/resource/reflection posts.
-The front matter will be the same with the addition of a reflection section.
+Effectively we are just adding another layer to the folder structure.

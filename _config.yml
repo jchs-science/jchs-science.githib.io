@@ -1,6 +1,6 @@
 # in the templates via {{ site.myvariable }}.
 title: JCHS Science
-description: Herein lies knowledge of science
+description: Course material for Physical Science
 
 # Build settings
 markdown: kramdown
