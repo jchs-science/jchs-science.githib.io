@@ -26,7 +26,7 @@ nav_order: 1
 | 3 & 4 | Energy | <ul><li>item1</li><li>item2</li></ul> |
 
 ## Additional Resources
-This should contain any additional resources that are helpful but not deemed essential or included in the unit plan.
+  * This should contain any additional resources that are helpful but not deemed essential or included in the unit plan.
 
 ## Proficiency Scales
 This should contain the proficiency scales for this unit.

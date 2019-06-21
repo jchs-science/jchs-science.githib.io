@@ -4,6 +4,7 @@ description: Course material for Physical Science
 
 # Build settings
 markdown: kramdown
+mathjax: true
 # markdown: CommonMarkGhPages
 remote_theme: pmarsceill/just-the-docs
 
