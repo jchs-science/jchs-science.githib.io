@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fores
+title: Forces
 parent: Mechanics
 nav_order: 2
 ---

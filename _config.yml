@@ -4,7 +4,10 @@ description: Course material for Physical Science
 
 # Build settings
 markdown: kramdown
+# markdown: CommonMarkGhPages
 remote_theme: pmarsceill/just-the-docs
+
+
 
 # Enable or disable the site search
 search_enabled: true
