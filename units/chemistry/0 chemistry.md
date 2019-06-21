@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Atoms and the Periodic Table
+title: Chemistry
 nav_order: 8
 has_children: true
 permalink: /units/chemistry
