@@ -15,7 +15,7 @@ Our goal is to increase clarity when communicating what students actually know o
 A standard is a level of knowledge or demonstration of skill that your student shows.
 Rather than work towards and accumulate points, it is the demonstration of a skill or idea that earns a grade.
 
-To emphasize this difference we are shifting from a percentage based system to a numerical scale; 0, 1, 2, 3, and 4.
+To emphasize this difference we are shifting from a percentage based system to a numerical scale; 1, 2, 3, and 4.
 
 A 1 means that the student is just developing the concepts.
 A 2 means that the student possesses the foundational knowledge required.
