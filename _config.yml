@@ -3,7 +3,7 @@ title: JCHS Science
 description: Course material for Physical Science
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
 mathjax: true
 # markdown: CommonMarkGhPages
 remote_theme: pmarsceill/just-the-docs
