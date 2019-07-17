@@ -6,8 +6,9 @@ description: Course material for Physical Science
 # markdown: kramdown
 mathjax: true
 # markdown: CommonMarkGhPages
-# theme: "just-the-docs"
-remote_theme: pmarsceill/just-the-docs
+theme: "just-the-docs"
+# remote_theme: pmarsceill/just-the-docs
+
 
 # Enable or disable the site search
 search_enabled: true

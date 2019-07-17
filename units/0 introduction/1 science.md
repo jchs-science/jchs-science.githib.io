@@ -14,7 +14,8 @@ Where does it fit, why does it exist, why do you have an entire class about it i
 
 So give it a shot
 
-  >With your group, come up with a definition of science and put it down in your lab notebook.
+_In your lab notebook: With your group, come up with a definition of science._
+{: .fs-6 .fw-300 .text-blue-000}
 
 ---
 <!-- table of contents for the page -->
@@ -66,9 +67,8 @@ When you are done, compare your story with those in your group.
 ### Reflection Question
 {: .no_toc}
 
-*The block quotes that follow indicate that it is something you should be writing in your lab notebook, you probably don't have one yet, so don't worry, but for the future.*
-
->Why do you think you and your partners did not agree on either your inferences or story about the tracks?
+_In your lab notebook: Why do you think you and your partners did not agree on either your inferences or story about the tracks?_
+{: .fs-6 .fw-300 .text-blue-000}
 
 
 ## Models
