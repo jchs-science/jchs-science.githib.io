@@ -34,7 +34,7 @@ The gossip is making and inference.
 
 ### Activity 1 $$\approx$$ 5 minutes
 {: .no_toc}
-Practice making observations and inferences by writing out the chart below either in your lab notebook or on a blank sheet of paper, or [there is a handout](./Images/observation_inferences/observation_inferences.pdf){: .btn .btn-outline }.
+Practice making observations and inferences by writing out the chart below either in your lab notebook or on a blank sheet of paper, or [there is a handout](./Images/observation_inferences/observation_inferences.pdf){: .btn .btn-outline } that can be printed.
 
 First come up with 10 observations either about the room or something else you have seen recently.
 Then, come up with your inference.
@@ -73,6 +73,10 @@ _In your lab notebook: Why do you think you and your partners did not agree on e
 
 ## Models
 The simplest way to
+
+Test link.
+
+[Forces Lab](/units/1 mechanics/resources/forces.doc)
 
 
 
