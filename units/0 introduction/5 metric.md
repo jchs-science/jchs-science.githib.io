@@ -2,7 +2,7 @@
 layout: default
 title: The Metric System
 parent: Introduction to Science
-nav_order: 4
+nav_order: 5
 mathjax: true
 ---
 

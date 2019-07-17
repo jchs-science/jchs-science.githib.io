@@ -2,7 +2,7 @@
 layout: default
 title: Practice Assessment
 parent: Introduction to Science
-nav_order: 5
+nav_order: 6
 mathjax: true
 ---
 

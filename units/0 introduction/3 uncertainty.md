@@ -2,7 +2,7 @@
 layout: default
 title: Uncertainty in Science
 parent: Introduction to Science
-nav_order: 2
+nav_order: 3
 mathjax: true
 ---
 

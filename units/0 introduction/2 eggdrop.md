@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Egg Drop
-parent: Introduction
-nav_order: 1
+parent: Introduction to Science
+nav_order: 2
 mathjax: true
 ---
 

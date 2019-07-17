@@ -2,7 +2,7 @@
 layout: default
 title: Self Advocacy and Technology
 parent: Introduction to Science
-nav_order: 3
+nav_order: 4
 mathjax: true
 ---
 
