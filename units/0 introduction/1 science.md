@@ -26,7 +26,7 @@ _In your lab notebook: With your group, come up with a definition of science._
 {:toc}
 
 ---
-# Class Introduction $\approx$ 30 min
+# Class Introduction
 We (the Physical Science teachers of JCHS) welcome you!
 But, we are all different people so, to each their own!
 
@@ -42,7 +42,7 @@ Another way to think of inference is like a
 or 
 [assumption](https://translate.google.com/#view=home&op=translate&sl=en&tl=es&text=assumption){: .btn .btn-outline }
 
-## Activity - Observations and Inferences $$\approx$$ 10 minutes
+## Activity - Observations and Inferences
 Practice making observations and inferences by writing out the chart below either in your lab notebook or on a blank sheet of paper, or [there is a handout](./Images/observation_inferences/observation_inferences.pdf){: .btn .btn-outline } that can be printed.
 
 First come up with 10 observations either about the room or something else you have seen recently.
@@ -65,7 +65,7 @@ Next, fold the paper so that your inference is covered up and you can only see t
 
 When you are both done, compare your inference with your partner and talk about the differences.
 
-## Activity - Tracks $$\approx$$ 10 minutes
+## Activity - Tracks
 Look at the image below and write up a story based on it.
 ![Tracks](./Images/tracks.png)
 
@@ -84,7 +84,7 @@ New observations either support and strengthen the model or make us doubt the mo
 One way that scientists improve a model is by letting other scientists look at it and give their opinion about the model. 
 Many breakthroughs have come as the result of one scientist providing key insights to another.
 
-## Activity - Jumping Shampoo $\approx$ 10 min
+## Activity - Jumping Shampoo
 Watch the demonstration done by your teacher.
   
   1. Create a model that explains this strange phenomenon (by yourself).
@@ -93,7 +93,7 @@ Watch the demonstration done by your teacher.
   4. Share your group’s model with the class .
   5. Are there experiments that you could do that would distinguish between your models?
 
-## Activity - Why Doesn't the Moon Fall $\approx$ 5 min
+## Activity - Why Doesn't the Moon Fall
 Watch the 
 [following video](https://youtu.be/BXnhEDMUJt8?list=PL224464F48007F658){: .btn .btn-outline} 
 where Alice and Bob come up with a model for why the moon doesn't fall.
@@ -105,7 +105,7 @@ With your group discuss these three questions (after a while we will talk as a c
   3. Can you find any flaws in their thinking?
 
 
-## Activity - The Black Box $\approx$ 5 min
+## Activity - The Black Box
 Watch your teacher interact with the black box.
 
   1. Sketch a model of what is happening (by yourself).
@@ -113,7 +113,7 @@ Watch your teacher interact with the black box.
   3. Discuss your models and suggest improvements to each other’s work.
   4. Is there an experiment that you could do to distinguish between your models?
 
-## Reflection $\approx$ 5 min
+## Reflection
 In your lab notebook (or on a sheet of paper with your name on it) answer these three questions.
 
   1. _How does it feel when someone criticizes your model?_
@@ -121,7 +121,7 @@ In your lab notebook (or on a sheet of paper with your name on it) answer these 
   3. _What role does experiment play in developing good models?_
 {: .fs-6 .fw-300 .text-blue-000}
 
-## Activity - The Teacher $\approx$ 10 min
+## Activity - The Teacher
 Go around the room and make observations and then inferences about your teacher.
 Each student only gets one yes or no question to ask the teacher.
 Record these and turn them in as you leave the room at the end of class.

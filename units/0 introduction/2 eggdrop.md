@@ -27,7 +27,7 @@ _In your lab notebook answer the following: what does it take for a grade to be 
 {:toc}
 
 ---
-# Standards, Rubrics, and Assessments $\approx$ 10
+# Standards, Rubrics, and Assessments
 When talking about models you saw how feedback and critisim are an import part of evaluating and improving models.
 It is exactly the same with learning.
 
@@ -62,24 +62,24 @@ To communicate with you our expectations, here is a rubric.
 At the end of the activity you will write up your description and reflection, and grade yourself.
 
 
-# Activity - Egg Drop $\approx$ 50 min
+# Activity - Egg Drop
 ## Introduction
 [Introduction video](https://vimeo.com/265786367){: .btn .btn-outline}
 
 [Student activity sheet](https://classroom.iihs.org/wp-content/uploads/2019/03/Egg-Crash_Student.pdf){: .btn .btn-outline}
 
-## Work time - 20 min
+## Work time
 If you want, 
 [here is a video](https://vimeo.com/325498965){: .btn .btn-outline} that explains what goes into designing a collision safety device.
 
 BUT, it will take 2 of your 20 minutes, you decide...
 
-## Test time $\approx$ 20 min
+## Test time
   * Start with 1 meter
   * Then 1.5 meters
   * Then 2 meters!?!?
 
-## Discussion $\approx$ 10 min (if time)
+## Discussion
   * [Conclusion video](https://vimeo.com/265787147){: .btn .btn-outline}
   * Finish filling out your worksheet as a group.
 
@@ -94,4 +94,4 @@ The activity was taken from [IIHS.org](https://classroom.iihs.org/egg-crash/){: 
   * Print the [student activity sheet](https://classroom.iihs.org/wp-content/uploads/2019/03/Egg-Crash_Student.pdf){: .btn .btn-outline}
   * Blank paper - each group gets 10 pages
   * Masking tape - each group gets 1 meter
-  * Eggs
+  * Eggs - 2 per group
