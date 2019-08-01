@@ -80,16 +80,16 @@ is how you interpret things differently than other people.
 Bias happens because _everyone_ has different experiences that shape their understanding of the world around them.
 
 _In your lab notebook compare how you think bias played a part in the different theories groups came up with._
-{: .fs-6 .fw-300 .text-color-blue-000}
+{: .fs-6 .fw-300 .text-blue-000}
 
 Now let us look at bias in science.
 Close your eyes and think of a scientist, describe the person you see in your lab notebook.
 _Finish this sentence in your lab notebook:  When I think of a scientist I picture ..._
-{: .fs-6 .fw-300 .text-color-blue-000}
+{: .fs-6 .fw-300 .text-blue-000}
 
 Now examine the bias's your imaginary scientist has.
 _List 5 things that you think matter to your scientist, list 5 things that matter to YOU._
-{: .fs-6 .fw-300 .text-color-blue-000}
+{: .fs-6 .fw-300 .text-blue-000}
 
 ## Gaps in Science
 There are two big problems with science.
@@ -103,13 +103,13 @@ Most medicines are designed for, and only tested on white males.
 How it effects women and people of non-Caucasian races, we usually don't know.
 
 _List 5 things matter to YOU that you have never heard of any research being done on, think of medicine, social problems, regional problems, etc._
-{: .fs-6 .fw-300 .text-color-blue-000}
+{: .fs-6 .fw-300 .text-blue-000}
 
 # Exit Ticket and Reflection
 On the sticky note provided, answer the following and post it on the board as you leave.
 
 _What is one way that your unique view is important to this class._
-{: .fs-6 .text-color-blue-000}
+{: .fs-6 .text-blue-000}
 
 Reflection.
 
