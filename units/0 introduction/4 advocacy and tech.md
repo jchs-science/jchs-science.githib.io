@@ -88,7 +88,11 @@ _In your lab notebook, reflect on which round was easier and why.  Was it easier
 {: .fs-6 .fw-300 .text-blue-000}
 
 # Activity - Advocacy 
-  * Explain activity
+Complete the [handout](./Images/self_advocacy/self_advocacy.pdf){: .btn .btn-outline}
+given to you by your teacher.
+
+In it you will start an organizational system on your computer, and practice communicating with your teacher.
+
 
 # Prep
-  * Print [handouts](){: .btn .btn-outline}
+  * Print [handouts](./Images/self_advocacy/self_advocacy.pdf){: .btn .btn-outline}
