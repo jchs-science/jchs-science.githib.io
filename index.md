@@ -11,6 +11,30 @@ Welcome!
 For the 2019-2020 school year the Physical Science teachers are switching to standards-referenced grading.
 Our goal is to increase clarity when communicating what students actually know or can do.
 
+## Week-by-Week
+
+| Wk | Date | Topic |
+|:--:|:----:|:------|
+|1|12-16 Aug    |[Science](./units/0 introduction/1 science), [Egg drop](./units/0 introduction/2 eggdrop)|
+|2|19-23 Aug    |[Uncertainty](./units/0 introduction/3 uncertainty), [Advocacy](./units/0 introduction/4 advocacy and tech)|
+|3|26-30 Aug    |[Metric System](./units/0 introduction/5 metric), [Assessment](./units/0 introduction/6 assessment practice)|
+|4|3-6 Sep      |[](./units/1 mechanics/), [](./units/1 mechanics/)|
+|5|9-13 Sep     |[](./units/1 mechanics/)|
+|6|16-20 Sep    |[](./units/1 mechanics/)|
+|7|23-27 Sep    |[](./units/1 mechanics/)|
+| Title Cell |||
+|8|30-4 Oct     ||
+|9|7-11 Oct     ||
+|10|15-18 Oct   ||
+|11|21-24 Oct   ||
+|12|28-1 Nov    ||
+|13|4-8 Nov     ||
+|14|12-15 Nov   ||
+|15|18-22 Nov   ||
+|16|2-6 Dec     ||
+|17|9-13 Dec    ||
+|18|16-19 Dec   |Finals|
+
 ## Standards
 A standard is a level of knowledge or demonstration of skill that your student shows.
 Rather than work towards and accumulate points, it is the demonstration of a skill or idea that earns a grade.
