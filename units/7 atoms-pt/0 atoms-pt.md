@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Atoms and the Periodic Table
-nav_order: 7
+nav_order: 8
 has_children: true
 permalink: /units/atoms-pt
 ---
