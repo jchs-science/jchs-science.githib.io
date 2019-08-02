@@ -6,10 +6,19 @@ permalink: /
 ---
 
 # Physical Science
+{: .no_toc }
 Welcome!
 
 For the 2019-2020 school year the Physical Science teachers are switching to standards-referenced grading.
 Our goal is to increase clarity when communicating what students actually know or can do.
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Week-by-Week
 <table>
