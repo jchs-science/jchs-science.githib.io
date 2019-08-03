@@ -71,3 +71,70 @@ _Take your copy of the safety contract home and go over it with your parents and
 
 # Reflection
 ## 2019-2020
+
+# Safety Review of a 2 YouTube Lesson
+{: .no-toc}
+I had difficulty finding an entire lesson to review so I choose two sets of demonstrations, the first set is done by students, and the second is done by the teacher.
+
+## [11 Fascinating Chemistry Experiments (Compilation)](https://www.youtube.com/watch?v=8vyboVwyzfU&t=229s)
+{: .no-toc}
+Since this one is a series of experiments I'll go through each one pointing out the safety violations.
+
+  * First off, the teacher isn't wearing any protective gear.
+  * Blue Bottle
+      - Student is not wearing gloves, or any safety gear.
+      - Hair not pulled back.
+      - Blowing into chemicals with a straw? and now gloves.
+  * Fire starter
+      - Standing right over it as they are mixing it
+      - Hair is falling in front almost into the chemicals
+      - Again, teacher without any safety gear.
+      - No safety glasses!
+      - no ventalation
+  * Potassium
+      - No glasses
+      - no ventalation
+  * Copper
+      - hair down with an open flame.
+      - no safety glasses by either the student or teacher.
+  * Money that doesn't burn
+      - No glasses
+      - hair down
+      - no safety glasses, 
+  * Water thicker
+      - hair down
+      - no glasses
+      - you really shouldn't use regular cups for any experiment
+  * Water gun fire-starter
+      - Finaly has hair back and glasses
+      - not enough ventalation
+  * Gummy bear
+      - Chemicals are left on the edge of the counter open
+      - ventalation
+      - noise?
+  * Elephant tooth paste,
+      - hair in front
+      - no glasses!?!
+      - huge cuffs on her shirt that cause problems.
+      - open fire next to an oxygen producing reaction
+
+An overall reflection is that safety is terrible, or very lax.
+The biggest problem was the almost complete lack of eyewear in every case, with hair/improper clothing being a close second.
+It seems that most of the practices are inherited from the teacher becaues they are always seen in casual clothes with little to no safety gear in the background.  There was a second teacher that did have a coat and gloves but never glasses.
+Because it was a video of showy demonstrations these errors are that much worse because the reactions were often violent and firey in nature.
+
+The video wasn't necessarily long enough, but most containers seemed to be labeled with different utensils used, but I do worry.
+
+## [https://www.youtube.com/watch?v=fnnoSvP3sj8](https://www.youtube.com/watch?v=fnnoSvP3sj8)
+{: .no-toc}
+This is a video of teacher demonstrating acid and base indicators to her students.
+No one has any gloves, eye protection, or PPE of any type.
+
+The next problem is that none of the acids or bases are labeled beyond 'acid' or 'base' with no indication to type or strength.
+All chemicals should be handled equally but having no indication of strength is especially problematic.
+Especially because since the teacher is doing it all without gloves, the students may think that all acids or bases are safe for handling.
+
+In general the clothing and hair is fine because it appears to be a dress code that students have their hair tied, the problem is that most of the girs hair is long and in front of their sholders so they are at risk of fire if they were using fire.
+
+In short the biggest problem is the teachers lack of PPE.  Since no students are handling anything an arguement could be made they do not need any, but they are still close to the table and exposed.
+But the casual handling by the teacher will give students a false sense of comfort as I mentioned earlier.
