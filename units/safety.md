@@ -73,11 +73,11 @@ _Take your copy of the safety contract home and go over it with your parents and
 ## 2019-2020
 
 # Safety Review of a 2 YouTube Lesson
-{: .no-toc}
+{: .no_toc}
 I had difficulty finding an entire lesson to review so I choose two sets of demonstrations, the first set is done by students, and the second is done by the teacher.
 
 ## [11 Fascinating Chemistry Experiments (Compilation)](https://www.youtube.com/watch?v=8vyboVwyzfU&t=229s)
-{: .no-toc}
+{: .no_toc}
 Since this one is a series of experiments I'll go through each one pointing out the safety violations.
 
   * First off, the teacher isn't wearing any protective gear.
@@ -126,7 +126,7 @@ Because it was a video of showy demonstrations these errors are that much worse 
 The video wasn't necessarily long enough, but most containers seemed to be labeled with different utensils used, but I do worry.
 
 ## [https://www.youtube.com/watch?v=fnnoSvP3sj8](https://www.youtube.com/watch?v=fnnoSvP3sj8)
-{: .no-toc}
+{: .no_toc}
 This is a video of teacher demonstrating acid and base indicators to her students.
 No one has any gloves, eye protection, or PPE of any type.
 
