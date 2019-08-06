@@ -28,7 +28,7 @@ Our goal is to increase clarity when communicating what students actually know o
     <th>Topic</th>
   </tr>
   <tr>
-    <th colspan="3" align="center">Introduction</th>
+    <th colspan="3">Introduction</th>
   </tr>
   <tr>
     <td align="center">1</td>
@@ -46,7 +46,7 @@ Our goal is to increase clarity when communicating what students actually know o
     <td><a href='./units/0 introduction/5 metric'>Metric System</a>, <a href='./units/0 introduction/6 assessment practice'>Assessment</a></td>
   </tr>
   <tr>
-    <th colspan="3" align="center">Mechanics</th>
+    <th colspan="3">Mechanics</th>
   </tr>
   <tr>
     <td align="center">4</td>
@@ -69,7 +69,7 @@ Our goal is to increase clarity when communicating what students actually know o
     <td><a href='./units/1 mechanics/6 roller coaster'>Roller Coaster</a></td>
   </tr>
   <tr>
-    <th colspan="3" align="center">E/M &amp; Fields</th>
+    <th colspan="3">E/M &amp; Fields</th>
   </tr>
   <tr>
     <td align="center">8</td>
@@ -87,7 +87,7 @@ Our goal is to increase clarity when communicating what students actually know o
     <td><a href='./units/2 em-fields/'>Efficiency Assessment</a></td>
   </tr>
   <tr>
-    <th colspan="3" align="center">Waves</th>
+    <th colspan="3">Waves</th>
   </tr>
   <tr>
     <td align="center">11</td>
@@ -110,7 +110,7 @@ Our goal is to increase clarity when communicating what students actually know o
     <td><a href='./units/3 waves/'>Absorption Project</a></td>
   </tr>
   <tr>
-    <th colspan="3" align="center">Astronomy</th>
+    <th colspan="3">Astronomy</th>
   </tr>
   <tr>
     <td align="center">15</td>
