@@ -5,12 +5,14 @@ parent: Introduction to Science
 nav_order: 1
 mathjax: true
 ---
-
 # Science
 {: .no_toc }
 The question of the day is, "What is science?".
 
-Where does it fit, why does it exist, why do you have an entire class about it in school, how is it useful for the rest of your life?
+Where does science fit?
+Why does science exist?
+Why do you have an entire class about science in school?
+How is science useful for the rest of your life?
 
 So give it a shot.
 
@@ -26,24 +28,20 @@ _In your lab notebook: With your group, come up with a definition of science._
 {:toc}
 
 ---
-# Class Introduction
-We (the Physical Science teachers of JCHS) welcome you!
-But, we are all different people so, to each their own!
-
 # Observation and Inference
 [Observation](https://translate.google.com/#view=home&op=translate&sl=en&tl=es&text=observation){: .btn .btn-outline }
-means to look at the world around you, what do you see.
+means to look at the world around you, what do you see?
 [Inference](https://translate.google.com/#view=home&op=translate&sl=en&tl=es&text=inference){: .btn .btn-outline }
 means to take what you see and make a guess.
 It is a lot like how gossip works, when you see someone else do something, you then make up a reason for why they are doing it.
-The gossip is making and inference.
+Gossip is making inferences about things you observe.
 Another way to think of inference is like a
 [prediction](https://translate.google.com/#view=home&op=translate&sl=en&tl=es&text=prediction){: .btn .btn-outline } 
 or 
 [assumption](https://translate.google.com/#view=home&op=translate&sl=en&tl=es&text=assumption){: .btn .btn-outline }
 
 ## Activity - Observations and Inferences
-Practice making observations and inferences by writing out the chart below either in your lab notebook or on a blank sheet of paper, or [there is a handout](./Images/observation_inferences/observation_inferences.pdf){: .btn .btn-outline } that can be printed.
+Practice making observations and inferences by writing out the chart below either in your lab notebook, on a blank sheet of paper, or [there is a handout](./Images/observation_inferences/observation_inferences.pdf){: .btn .btn-outline } that can be printed.
 
 First come up with 10 observations either about the room or something else you have seen recently.
 Then, come up with your inference.
@@ -105,6 +103,7 @@ With your group discuss these three questions (after a while we will talk as a c
   3. Can you find any flaws in their thinking?
 
 
+<a name="blackbox"></a>
 ## Activity - The Black Box
 Watch your teacher interact with the black box.
 

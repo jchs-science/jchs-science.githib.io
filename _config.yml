@@ -14,5 +14,9 @@ search_enabled: true
 
 # Aux links for the upper right navigation
 aux_links:
+    "Parent Letter":
+      /parent_letter
+    "Syllabus":
+      /syllabus
     "About":
       /about
