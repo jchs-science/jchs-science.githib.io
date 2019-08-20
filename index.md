@@ -15,7 +15,7 @@ This is the landing page and contains what Mr. Hicks is doing today, and the wee
 
 ## Mr. Hicks' Class Today
 {: .no_toc}
-[Attendance - 20 Aug 2019](https://forms.office.com/Pages/DesignPage.aspx#Analysis=true&FormId=2pNwzRMrok2198ZQP0iNs31cX8DUQ_xEjrOkTCSQz29UNVRZTUJVNVhGSU9ZWVRXMlg2ODUyVFlXVS4u){: .btn .btn-outline}
+[Attendance - 20 Aug 2019](https://forms.office.com/Pages/ResponsePage.aspx?id=2pNwzRMrok2198ZQP0iNs31cX8DUQ_xEjrOkTCSQz29UNVRZTUJVNVhGSU9ZWVRXMlg2ODUyVFlXVS4u){: .btn .btn-outline}
 
 [ClassroomQ](https://classroomq.com/students/){: .btn .btn-outline} - Code: WCDUEU
 
