@@ -15,11 +15,12 @@ This is the landing page and contains what Mr. Hicks is doing today, and the wee
 
 ## Mr. Hicks' Class Today
 {: .no_toc}
-[Attendance - 19 Aug 2019](https://forms.office.com/Pages/ResponsePage.aspx?id=2pNwzRMrok2198ZQP0iNs31cX8DUQ_xEjrOkTCSQz29UNzJCUDdIVEpaWUJYU0o4VExCVlNTNkZQVS4u){: .btn .btn-outline}
+[Attendance - 20 Aug 2019](https://forms.office.com/Pages/DesignPage.aspx#Analysis=true&FormId=2pNwzRMrok2198ZQP0iNs31cX8DUQ_xEjrOkTCSQz29UNVRZTUJVNVhGSU9ZWVRXMlg2ODUyVFlXVS4u){: .btn .btn-outline}
 
 [ClassroomQ](https://classroomq.com/students/){: .btn .btn-outline} - Code: WCDUEU
 
-Today's Lesson - [Advocacy, technology, and language oh my!!!](/units/0 introduction/4 advocacy and tech){: .btn .btn-outline}
+<!-- Today's Lesson - [Advocacy, technology, and language oh my!!!](/units/0 introduction/4 advocacy and tech){: .btn .btn-outline} -->
+Today's Lesson - [Science](/units/0 introduction/1 science){: .btn .btn-outline}
 
 ---
 
