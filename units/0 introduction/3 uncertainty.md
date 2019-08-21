@@ -166,3 +166,7 @@ _Make a list in your lab notebook of 10 things that make up who you are and crea
 
 # Prep
   * Bank statements envelopes
+
+# Notes for Revision
+  * Change the observation, inference to the observe, explain, test, loop.
+    It is easier to explain and there is no reason to teach new/big words.
