@@ -12,7 +12,7 @@ America is one of the three countries (Liberia and Myanmar are the other two) th
 By now you have bee using the metric system for years in your science classes so we would like you to think about if we should adopt the metric system and why we have not.
 
 _In your lab notebook, answer the following two questions: Do you think America should adopt the metric system (explain why)?  Why do you think America has not yet adopted the metric system?_
-{: .fs-6 .fw-300 .text-color-blue-000}
+{: .fs-6 .fw-300 .text-blue-000}
 
 <!-- table of contents for the page -->
 ## Table of contents
@@ -130,9 +130,42 @@ We've given an example for the '--' prefix units.
 For each of your standards you want it to always be approximately 1, that way it is easy to tell what they measure.
 We cheated and went with 5 for watts because a cell phone charger is so common.
 
+# Activity - Measures Lab
+There are four stations that you need to measure various objects.
+At each station, record the requested measurement into your lab notebook.
+Once you are done, put all of your data into [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=2pNwzRMrok2198ZQP0iNs31cX8DUQ_xEjrOkTCSQz29URUtMVERZN1dITDdKREpPSTAxN1QyTUdFWC4u){: .btn .btn-outline}
+
+## Length
+{: .no_toc}
+  * Book
+  * Penny
+  * Table
+
+## Volume
+{: .no_toc}
+  * Cup
+  * Vial
+  * Bottle
+
+## Temperature
+{: .no_toc}
+  * Boiling water
+  * Room temperature water
+  * Ice water
+  * Ice alcohol
+
+## Mass
+{: .no_toc}
+  * Penny
+  * Block
+  * 20mL of Water
+
+
 # Activity - Mini Metric Olympics
 Your teacher will give you the handout and supplies.
 
 # Prep
+  * Measures lab - 4 stations
+      - Print [station instructions](./Images/measures-stations/measures-stations.pdf){: .btn .btn-outline}
   * Mini-olympic activity - handouts, stations, etc setup
 

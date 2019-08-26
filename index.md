@@ -20,7 +20,7 @@ This is the landing page and contains what Mr. Hicks is doing today, and the wee
 [ClassroomQ](https://classroomq.com/students/){: .btn .btn-outline} - Code: WCDUEU
 
 <!-- Today's Lesson - [Advocacy, technology, and language oh my!!!](/units/0 introduction/4 advocacy and tech){: .btn .btn-outline} -->
-Today's Lesson - [Nature of Science](/units/0 introduction/3 uncertainty){: .btn .btn-outline}
+Today's Lesson - [Metric System](/units/0 introduction/5 metric){: .btn .btn-outline}
 
 ---
 
