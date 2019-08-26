@@ -88,7 +88,7 @@ When you can use technology as a tool you can get much more done with much less 
 There is a huge push to stop using paper for a multitude of reasons.
 Let's look at some of those reasons.
 
-   * Paper is bad for the environment.  No, not compared to computers.  Paper comes from trees, one of the most renewable materials on the planet.  We can sustainable produce paper by replanting trees we cut down.  Computers on the other hand are made of many, many different materials many of which require mining that permanently alters the land and causes pollution.  Also, paper is SO much easier to recycle than computers.  To recycle a computer you have to separate all of the different materials, ALL of them...
+   * Paper is bad for the environment.  No, not compared to computers.  Paper comes from trees, one of the most renewable materials on the planet.  We can sustainably produce paper by replanting trees we cut down.  Computers on the other hand are made of many, many different materials many of which require mining that permanently alters the land and causes pollution.  Also, paper is SO much easier to recycle than computers.  To recycle a computer you have to separate all of the different materials, ALL of them...
    * Paper is expensive.  Let's say the computer in front of you cost $1,000.  That is enough to buy 667 pounds of paper, over 133,000 sheets of paper.  If you use that computer for 4 years, you would have the equivalent of 90 sheets of paper a day to use.
 
 There are other reasons to use paper.

@@ -17,3 +17,7 @@ This year is designed to transition you into using the full power of science as 
 Will your models be terrible, undoubtedly.
 **BUT**, with practice they will get better!
 
+# Essential Question
+_How do we communciate in science?_
+{: .fs-6 .fw-300 .text-blue-000}
+

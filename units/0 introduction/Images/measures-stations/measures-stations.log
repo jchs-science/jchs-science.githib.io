@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.6)  25 AUG 2019 20:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.6)  26 AUG 2019 13:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -34,14 +34,14 @@ Package tocbasic Info: omitting babel extension for `toc'
 (tocbasic)             for `toc' on input line 134.
 
 
-Package scrartcl Warning: You've used obsolete option `14pt'.
+Package scrartcl Warning: You've used obsolete option `54pt'.
 (scrartcl)                Usage of this option indicates an old document
 (scrartcl)                and changes compatibility level using
-(scrartcl)                `fontsize=14pt,version=first,
+(scrartcl)                `fontsize=54pt,version=first,
 (scrartcl)                enabledeprecatedfontcommands' that may result
 (scrartcl)                in further warnings.
 (scrartcl)                If you don't want this, you should simply
-(scrartcl)                replace option `14pt' by `fontsize=14pt'.
+(scrartcl)                replace option `54pt' by `fontsize=54pt'.
 
 Class scrartcl Info: Switching compatibility level to `first'.
 
@@ -69,12 +69,11 @@ Class scrartcl Info: You've used standard option `oneside'.
 (scrartcl)           If you'd like to set the option with \KOMAoptions,
 (scrartcl)           you'd have to use `twoside=false' there
 (scrartcl)           instead of `oneside', too.
-Class scrartcl Info: File `size14.clo' used to setup font sizes on input line 2
-162.
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/extsizes/size14.clo
-File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
-)
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <54> not available
+(Font)              size <24.88> substituted on input line 2162.
+
 (/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/typearea.sty
 Package: typearea 2019/02/01 v3.26b KOMA-Script package (type area)
 \ta@bcor=\skip42
@@ -91,33 +90,40 @@ Package typearea Info: You've used standard option `oneside'.
 \footheight=\skip46
 
 
-Package typearea Warning: DIV for 14.0pt and used papersize
+Package typearea Warning: DIV for 54.0pt and used papersize
 (typearea)                not defined!
 (typearea)                Using DIV=calc.
 
 DIV calculation for typearea with good linewidth.
 Package typearea Info: Maybe no optimal type area settings!
-(typearea)             The detected line width is about 44%
+(typearea)             The detected line width is about 64%
 (typearea)             smaller than the heuristically estimated maximum
 (typearea)             limit of typographical good line width.
 (typearea)             You could e.g. increase DIV, decrease fontsize
 (typearea)             or change the papersize.
+
+Package typearea Warning: Very low DIV value!
+(typearea)                DIV values less than 6 result in textwidth/-height
+(typearea)                smaller than total marginwidth/-height.
+(typearea)                You should e.g. increase DIV, increase fontsize or
+(typearea)                change papersize.
+
 Package typearea Info: These are the values describing the layout:
-(typearea)             DIV  = 16
+(typearea)             DIV  = 5
 (typearea)             BCOR = 0.0pt
 (typearea)             \paperwidth      = 614.295pt
-(typearea)              \textwidth      = 499.1147pt
-(typearea)              DIV departure   = 44%
-(typearea)              \evensidemargin = -14.67984pt
-(typearea)              \oddsidemargin  = -14.67984pt
+(typearea)              \textwidth      = 245.71802pt
+(typearea)              DIV departure   = 64%
+(typearea)              \evensidemargin = 112.0185pt
+(typearea)              \oddsidemargin  = 112.0185pt
 (typearea)             \paperheight     = 794.96999pt
-(typearea)              \textheight     = 660.0pt
-(typearea)              \topmargin      = -69.33437pt
-(typearea)              \headheight     = 21.25pt
-(typearea)              \headsep        = 25.5pt
-(typearea)              \topskip        = 14.0pt
-(typearea)              \footskip       = 59.5pt
-(typearea)              \baselineskip   = 17.0pt
+(typearea)              \textheight     = 377.99918pt
+(typearea)              \topmargin      = -91.47554pt
+(typearea)              \headheight     = 80.99979pt
+(typearea)              \headsep        = 97.19975pt
+(typearea)              \topskip        = 54.0pt
+(typearea)              \footskip       = 226.79941pt
+(typearea)              \baselineskip   = 64.79984pt
 (typearea)              on input line 1715.
 )
 \c@part=\count81
@@ -965,11 +971,6 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
 \c@tracingmulticols=\count308
-
-
-Package multicol Warning: May not work with the twocolumn option on input line 
-141.
-
 \mult@box=\box74
 \multicol@leftmargin=\dimen294
 \c@unbalance=\count309
@@ -1015,7 +1016,8 @@ Package multicol Warning: May not work with the twocolumn option on input line
 \mult@nat@firstbox=\box98
 \colbreak@box=\box99
 \mc@col@check@num=\count316
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/multirow/multirow.sty
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
 \multirow@colwidth=\skip80
 \multirow@cntb=\count317
@@ -1176,8 +1178,12 @@ Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-))
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/textcomp.sty
+)
+
+LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <54> not available
+(Font)              size <35.83> substituted on input line 105.
+
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2018/08/11 v2.0j Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -1384,7 +1390,7 @@ LaTeX Font Info:    Try loading font information for T1+ntxtlf on input line 65
 File: t1ntxtlf.fd 2015/01/17 v1.0 font definition file for T1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 14.4pt on input line 65.
+(Font)              scaled to size 54.0pt on input line 65.
 
 (./measures-stations.aux)
 \openout1 = `measures-stations.aux'.
@@ -1427,19 +1433,19 @@ LaTeX Font Info:    ... okay on input line 65.
 * \textheight=740.7675pt
 * \oddsidemargin=-45.16875pt
 * \evensidemargin=-45.16875pt
-* \topmargin=-74.91875pt
-* \headheight=21.25pt
-* \headsep=8.5pt
-* \topskip=14.0pt
-* \footskip=25.5pt
-* \marginparwidth=38.39343pt
+* \topmargin=-158.56845pt
+* \headheight=80.99979pt
+* \headsep=32.39992pt
+* \topskip=54.0pt
+* \footskip=97.19975pt
+* \marginparwidth=122.859pt
 * \marginparsep=12.8401pt
 * \columnsep=10.0pt
-* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=48.59967pt plus 17.99808pt minus 32.40033pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
-* \@twocolumntrue
+* \@twocolumnfalse
 * \@twosidefalse
 * \@mparswitchfalse
 * \@reversemarginfalse
@@ -1523,51 +1529,127 @@ e 164.
 ))
 \c@mv@tabular=\count362
 \c@mv@boldtabular=\count363
-LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <14.4> not available
+LaTeX Font Info:    Calculating math sizes for size <54> on input line 65.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <37.79984> not available
+(Font)              size <24.88> substituted on input line 65.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <27> not available
+(Font)              size <24.88> substituted on input line 65.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <54> not available
+(Font)              size <24.88> substituted on input line 65.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <37.79984> not available
+(Font)              size <24.88> substituted on input line 65.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <27> not available
+(Font)              size <24.88> substituted on input line 65.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <54> not available
+(Font)              size <24.88> substituted on input line 65.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <37.79984> not available
+(Font)              size <24.88> substituted on input line 65.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <27> not available
+(Font)              size <24.88> substituted on input line 65.
+
+
+LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <54> not available
+(Font)              size <24.88> substituted on input line 65.
+
+
+LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <37.79984> not available
+(Font)              size <24.88> substituted on input line 65.
+
+
+LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <27> not available
+(Font)              size <24.88> substituted on input line 65.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <54> not available
+(Font)              size <24.88> substituted on input line 65.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <37.79984> not available
+(Font)              size <24.88> substituted on input line 65.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <27> not available
+(Font)              size <24.88> substituted on input line 65.
+
+
+LaTeX Font Warning: Font shape `OT1/cmtt/m/n' in size <54> not available
+(Font)              size <24.88> substituted on input line 65.
+
+
+LaTeX Font Warning: Font shape `OT1/cmtt/m/n' in size <37.79984> not available
+(Font)              size <24.88> substituted on input line 65.
+
+
+LaTeX Font Warning: Font shape `OT1/cmtt/m/n' in size <27> not available
+(Font)              size <24.88> substituted on input line 65.
+
+LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <54> not available
 (Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 67.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 14.4pt on input line 67.
-LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <24.88> not available
+(Font)              scaled to size 54.0pt on input line 67.
+LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <93.31183> not availabl
+e
 (Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 67.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 24.88pt on input line 67.
+(Font)              scaled to size 93.31183pt on input line 67.
 LaTeX Font Info:    Try loading font information for TS1+ntxtlf on input line 7
 1.
-
 (/usr/local/texlive/2019/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 14.4pt on input line 71.
+(Font)              scaled to size 54.0pt on input line 71.
  [1
 
-{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 194.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 194.
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+ [4]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 152.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 152.
 
 (./measures-stations.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 194.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 194.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 152.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 152.
 Package rerunfilecheck Info: File `measures-stations.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 194.
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 29.12pt have occurred.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 152.
  ) 
 Here is how much of TeX's memory you used:
- 36291 strings out of 492609
- 733272 string characters out of 6129049
- 907150 words of memory out of 5000000
- 39753 multiletter control sequences out of 15000+600000
- 544984 words of font info for 41 fonts, out of 8000000 for 9000
+ 36300 strings out of 492609
+ 733320 string characters out of 6129049
+ 904977 words of memory out of 5000000
+ 39767 multiletter control sequences out of 15000+600000
+ 543817 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,8n,80p,9096b,737s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,8n,80p,9096b,743s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/
 local/texlive/2019/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}</usr/local/
 texlive/2019/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr/local/texliv
 e/2019/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb>
-Output written on measures-stations.pdf (1 page, 49873 bytes).
+Output written on measures-stations.pdf (4 pages, 50807 bytes).
 PDF statistics:
- 28 PDF objects out of 1000 (max. 8388607)
- 22 compressed objects within 1 object stream
- 2 named destinations out of 1000 (max. 500000)
+ 40 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
+ 5 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

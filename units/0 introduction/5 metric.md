@@ -14,6 +14,8 @@ By now you have bee using the metric system for years in your science classes so
 _In your lab notebook, answer the following two questions: Do you think America should adopt the metric system (explain why)?  Why do you think America has not yet adopted the metric system?_
 {: .fs-6 .fw-300 .text-blue-000}
 
+
+
 <!-- table of contents for the page -->
 ## Table of contents
 {: .no_toc .text-delta }
