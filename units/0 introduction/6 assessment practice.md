@@ -13,6 +13,8 @@ The whole point of this unit was to expand your thinking about what science is a
 To that end, we are going to give you a problem to solve that requires you to come up with a solution and then analyze and reflect on your solution.
 It doesn't matter if your solution doesn't work, it matters how well you analyze why your solution failed.
 
+[Here is a link to a word document](./Images/Intro_assessment.docx){: .btn .btn-outline}
+
 
 <!-- table of contents for the page -->
 ## Table of contents
