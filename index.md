@@ -12,16 +12,6 @@ Welcome!
 This is the landing page and contains what Mr. Hicks is doing today, and the week-by-week for the entire year.
 
 ---
-
-
-## Data Uploads
-Put your results for the [measures lab into this form](https://forms.office.com/Pages/ResponsePage.aspx?id=2pNwzRMrok2198ZQP0iNs31cX8DUQ_xEjrOkTCSQz29URUtMVERZN1dITDdKREpPSTAxN1QyTUdFWC4u){: .btn .btn-outline}.
-
-Put your results for the [Metric Olympics into this form](https://forms.office.com/Pages/ResponsePage.aspx?id=2pNwzRMrok2198ZQP0iNs31cX8DUQ_xEjrOkTCSQz29UQ0VORkhVQzhJTVVaRVhHT05QSUJEVE83OS4u){: .btn .btn-outline}
-
-
----
-
 ## Week-by-Week
 <table>
   <tr>
