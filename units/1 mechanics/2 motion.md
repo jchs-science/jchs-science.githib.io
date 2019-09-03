@@ -6,7 +6,7 @@ nav_order: 2
 mathjax: true
 ---
 
-# Title
+# Describing Motion
 {: .no_toc }
 
 <!-- table of contents for the page -->
@@ -17,11 +17,7 @@ mathjax: true
 {:toc}
 
 ---
-## ToDo
-  * Tie back to the metric unit
-
-
-## Units
+# Units
 Motion is described by combinations of length (meters) and time (seconds).
 
 `Distance` is how far apart two things are and is measured in meters.
@@ -38,7 +34,7 @@ $$\frac{ \text{meters} }{ \text{seconds squared} } = \frac{m}{s^2}$$
 
 
 
-## Distance
+# Distance
 `Distance` is how far something is.
 So you have an idea of distances here are some common ones.
 
@@ -67,7 +63,7 @@ The pen is 13cm long because 18cm - 5cm is 13cm.
 Normally we make our lives easier and line the zero up with one side, but that is not always possible.
 
 
-## Vector
+# Vector
 A `vector` is both a distance and a direction, usually represented by an arrow.
 To explain the difference between direction and a vector, consider my weekend trip.
 
@@ -99,7 +95,7 @@ You can also get vectors using the $\delta$ symbol that we used for distance ear
 But that is is more complicated and will be put at the end for those over-achievers out there.
 
 
-## Speed and Velocity
+# Speed and Velocity
 `Speed` is just a distance divided by a time.
 `velocity` is just a vector divided by time.
 
@@ -134,7 +130,7 @@ If you want to calculate instantaneous speed and velocity, well check at the end
 We'll talk more about $\delta$ and instantaneous measurments then.
 
 
-## Acceleration
+# Acceleration
 Speed and velocity looked at how a distance or vector changed in time.
 Acceleration looks at how a speed or velocity changes in time.
 
@@ -163,14 +159,19 @@ What is the difference between the two answers?
 
 In physics, if something is getting faster, it has a positive acceleration, if something is getting slower, it has a negative acceleration.
 
+
+# Add 
+{: .no_toc}
+
 ** to do **
   * talk about how with velocity there is one other thing, changing direction
   * talk about which of the three we can feel.
 
-
 ## Position vs Time Graphs
+{: .no_toc}
   * show examples of position versus time and how to calculate distance, velocity, and acceleration (well you can't calculate acceleration, but you can recognize when it is happening.)
 
 
 ## Instantaneous Velocity and Acceleration
+{: .no_toc}
   * Explain how the change in  can mean a long time, or a short time.  The shorter the time, the more instantaneous the velocity is.

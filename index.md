@@ -13,15 +13,8 @@ This is the landing page and contains what Mr. Hicks is doing today, and the wee
 
 ---
 
-## Mr. Hicks' Class Today
-{: .no_toc}
-[Attendance](https://forms.office.com/Pages/ResponsePage.aspx?id=2pNwzRMrok2198ZQP0iNs31cX8DUQ_xEjrOkTCSQz29UQ1lXNEVBT0s0S1UwVVc2TTM1M0tPNjlBNi4u){: .btn .btn-outline}
 
-[ClassroomQ](https://classroomq.com/students/){: .btn .btn-outline} - Code: WCDUEU
-
-<!-- Today's Lesson - [Advocacy, technology, and language oh my!!!](/units/0 introduction/4 advocacy and tech){: .btn .btn-outline} -->
-Today's Lesson - [Metric System](/units/0 introduction/5 metric){: .btn .btn-outline}
-
+## Data Uploads
 Put your results for the [measures lab into this form](https://forms.office.com/Pages/ResponsePage.aspx?id=2pNwzRMrok2198ZQP0iNs31cX8DUQ_xEjrOkTCSQz29URUtMVERZN1dITDdKREpPSTAxN1QyTUdFWC4u){: .btn .btn-outline}.
 
 Put your results for the [Metric Olympics into this form](https://forms.office.com/Pages/ResponsePage.aspx?id=2pNwzRMrok2198ZQP0iNs31cX8DUQ_xEjrOkTCSQz29UQ0VORkhVQzhJTVVaRVhHT05QSUJEVE83OS4u){: .btn .btn-outline}
