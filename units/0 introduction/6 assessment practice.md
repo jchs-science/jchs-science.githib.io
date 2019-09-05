@@ -15,6 +15,8 @@ It doesn't matter if your solution doesn't work, it matters how well you analyze
 
 [Here is a link to a word document](./Images/Intro_assessment.docx){: .btn .btn-outline}
 
+[Here is a link to a print version](./Images/Assessment/Assessment.pdf){: .btn .btn-outline}
+
 
 <!-- table of contents for the page -->
 ## Table of contents
