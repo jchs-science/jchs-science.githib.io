@@ -5,9 +5,33 @@ nav_exclude: true
 permalink: /mr_hicks
 ---
 # Welcome!
-I realized that I aught to have a place with a link to all those Forms that I have for data input.
+I realized that I aught to have a place with a link to all those Forms that I have for data input, as well as links to pictures of all those note pages I have for you guys.
+
+---
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 # Mechanics
+## Motion - M/T - 9/10 Sep
+[Motion - Notes](/mr-hicks-notes/1.1-motion.pdf){: .btn .btn-outline}
+
+**Check List**
+  * Vocabulary
+  * Graph Matching
+  * Sketching Motion
+  * Calculations
+
+## Forces - W/R - 11/12 Sep
+
+
+## Momentum - M/T - 16/17 Sep
+
+## Energy - W/R - 18/19 Sep
 
 
 # Introduction Unit

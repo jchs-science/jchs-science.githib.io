@@ -6,7 +6,7 @@ nav_order: 2
 mathjax: true
 ---
 
-# Describing Motion
+# Motion
 {: .no_toc }
 
 <!-- table of contents for the page -->
@@ -17,7 +17,84 @@ mathjax: true
 {:toc}
 
 ---
-# Units
+# Vocabulary
+In order to describe motion, we need some to all have the same definitions for a couple of words.
+
+## Position
+Position is where something is.
+Position is written as a point, just like in math, where the x value is time, and the y value is position, (time, position).
+An example is (0s, 3m), so when time is 0s, the position is 3m.
+
+<figure>
+<img src="./images/1.1-motion-position.pdf" alt="drawing" width="90%"/>
+<figcaption>Motion graph for an object with constant position.</figcaption>
+</figure>
+
+### Examples
+  * From your nose to the finger tips of your outstretched hand is 1 meter.
+  * From Junction City to Ikea in KC is 200 km (there is more about this below).
+
+
+## Velocity
+Velocity is **both** speed and direction - how fast **and** which way.
+The units of velocity are meters per second $$\frac{m}{s}$$.
+
+To calculate velocity you take the change in position divided by the change in time:
+
+$$\text{Velocity} = \frac{\text{Change in Position}}{\text{Change in Time}} = \frac{\Delta\text{P}}{\Delta\text{t}}$$
+
+### Examples
+  * Walking speed is 1$$\frac{m}{s}$$
+  * The fastest a person can run is about 10$$\frac{m}{s}$$
+  * A car traveling on the interstate is going 120$$\frac{km}{hr}$$ which is about 34$$\frac{m}{s}$$
+
+When plotting motion, constant velocity is anytime you have a straight line.
+If the line is pointed up, then it is a positive velocity.
+If the line is pointed down, then it is a negative velocity.
+If the line is flat, then it has no velocity, its position is constant.
+
+<figure>
+<img src="./images/1.1-motion-velocity.pdf" alt="drawing" width="90%"/>
+<figcaption>Motion graph for an object with constant position.</figcaption>
+</figure>
+
+
+## Acceleration
+Acceleration is change in velocity.
+Now, since velocity is both speed **AND** direction, then acceleration can be, change in speed **OR** change in direction.
+This means that if I speed up, like when I leave a stop sign in a car, that is accelerating.
+If I turn a corner, but have a constant speed, then I'm also accelerating.
+
+The units of acceleration are $$\frac{\text{meter}}{\text{second}^2} = \frac{m}{s^2}$$.
+
+To calculate acceleration you take the change in velocity divided by the change in time:
+
+$$\text{Acceleration} = \frac{\text{Change in Velocity}}{\text{Change in Time}} = \frac{\Delta\text{V}}{\Delta\text{t}}$$
+
+Note the similarity, position and velocity have the **SAME** relationship as do velocity and acceleration.
+This is because one is the slope of the other.
+Look back at the graphs for velocity, see how they have a constant slope?
+that means they have a constant velocity.
+
+Now look at the graphs for acceleration.
+Note, you cannot tell if the acceleration is constant just by looking, you can only tell that it is accelerating.
+**ANY** time the position versus time graph is curved, the object is accelerating.
+
+<figure>
+<img src="./images/1.1-motion-acceleration.pdf" alt="drawing" width="90%"/>
+<figcaption>Motion graph for an object that is accelerating.  Note how it makes a happy face for positive acceleration, and a frowny face for negative acceleration.</figcaption>
+</figure>
+
+# Activity - Graph Matching
+
+
+# Activity - Graph Sketching
+
+# Calculation Examples
+
+
+# Additional Material
+## Units
 Motion is described by combinations of length (meters) and time (seconds).
 
 `Distance` is how far apart two things are and is measured in meters.
@@ -34,7 +111,7 @@ $$\frac{ \text{meters} }{ \text{seconds squared} } = \frac{m}{s^2}$$
 
 
 
-# Distance
+## Distance
 `Distance` is how far something is.
 So you have an idea of distances here are some common ones.
 
@@ -63,7 +140,7 @@ The pen is 13cm long because 18cm - 5cm is 13cm.
 Normally we make our lives easier and line the zero up with one side, but that is not always possible.
 
 
-# Vector
+## Vector
 A `vector` is both a distance and a direction, usually represented by an arrow.
 To explain the difference between direction and a vector, consider my weekend trip.
 
@@ -95,11 +172,12 @@ You can also get vectors using the $\delta$ symbol that we used for distance ear
 But that is is more complicated and will be put at the end for those over-achievers out there.
 
 
-# Speed and Velocity
+## Speed and Velocity
 `Speed` is just a distance divided by a time.
 `velocity` is just a vector divided by time.
 
 $$\text{Speed} = \frac{\text{Distance}}{\text{Time}}$$
+
 $$\text{Velocity} = \frac{\text{Vector}}{\text{Time}}$$
 
 A couple of good speeds to remember are:
@@ -130,7 +208,7 @@ If you want to calculate instantaneous speed and velocity, well check at the end
 We'll talk more about $\delta$ and instantaneous measurments then.
 
 
-# Acceleration
+## Acceleration
 Speed and velocity looked at how a distance or vector changed in time.
 Acceleration looks at how a speed or velocity changes in time.
 
