@@ -25,6 +25,13 @@ I realized that I aught to have a place with a link to all those Forms that I ha
   * Graph Matching
   * Sketching Motion
   * Calculations
+  * Journal
+      1. How would you rate your behavior today? (1-10)
+      2. On your way to school, when did you have a constant velocity?
+      3. When did you speed up?
+      4. When did you slow down?
+      5. When did you change direction?
+      6. Pick a favorite sport - describe the motion in that sport.
 
 ## Forces - W/R - 11/12 Sep
 
