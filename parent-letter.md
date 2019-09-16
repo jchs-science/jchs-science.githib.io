@@ -2,7 +2,7 @@
 layout: page
 title: Parent Letter
 nav_exclude: true
-permalink: /parent_letter
+permalink: /parent-letter
 ---
 # Welcome!
 For the 2019-2020 school year the Physical Science teachers are switching to standards-referenced grading.

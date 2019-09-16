@@ -15,9 +15,9 @@ search_enabled: true
 # Aux links for the upper right navigation
 aux_links:
     "Mr. Hicks":
-      /mr_hicks
+      /mr-hicks
     "Parent Letter":
-      /parent_letter
+      /parent-letter
     "Syllabus":
       /syllabus
     "About":
