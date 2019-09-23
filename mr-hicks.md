@@ -64,7 +64,7 @@ Go [here](/index){: .btn .btn-outline}, or click through the side bar for additi
 ## Forces
 [Forces Notes](/mr-hicks/1.2-forces.pdf){: .btn .btn-outline}
 
-[Forces Lab - Logger Pro File](/mr-hicks/Forces Lab.cmbl){: .btn .btn-outline}
+[Forces Lab - Logger Pro File](/mr-hicks/1.2 Forces Lab.cmbl){: .btn .btn-outline}
 
 **Check List**
   * Forces
@@ -88,7 +88,7 @@ Go [here](/index){: .btn .btn-outline}, or click through the side bar for additi
 
 [Truck - Car Collision](https://www.youtube.com/watch?v=YKXz1n4n2tk){: .btn .btn-outline}
 
-[Momentum - Logger Pro File](/mr-hicks/Momentum Lab.cmbl){: .btn .btn-outline}
+[Momentum - Logger Pro File](/mr-hicks/1.3 Momentum Lab.cmbl){: .btn .btn-outline}
 
 **Check List**
   * Momentum
@@ -106,7 +106,7 @@ Go [here](/index){: .btn .btn-outline}, or click through the side bar for additi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aRhkQTQxm4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Energy Lab - Logger Pro File](/mr-hicks/Energy Lab.cmbl){: .btn .btn-outline}
+[Energy Lab - Logger Pro File](/mr-hicks/1.4 Energy Lab.cmbl){: .btn .btn-outline}
 
 **Check List**
   * Energy
