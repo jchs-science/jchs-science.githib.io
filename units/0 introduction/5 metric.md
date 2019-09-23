@@ -90,6 +90,12 @@ As you can see all of those vary by factos of 1000.
 There is one prefix that is common in America that does not fall on that scale and it is c, centi, 0.01, $$10^{-2}$$.
 This is because a cm (centi-meter) is the closest metric unit to an inch.
 
+Here is a visualization method that can help with coverting prefixes.
+<figure>
+<img src="./Images/Prefix Stair.pdf" alt="drawing" width="90%"/>
+<figcaption>Stair visualization to help with converting prefixes.</figcaption>
+</figure>
+
 Here is a video that helps you understand just how much can change with each power of 10.  [IBM Powers of 10](https://www.youtube.com/watch?v=0fKBhvDjuy0){: .btn .btn-outline}
 
 ## Conversions
