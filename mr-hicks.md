@@ -72,7 +72,7 @@ Go [here](/index){: .btn .btn-outline}, or click through the side bar for additi
   * Forces Lab
     - Setup Notebook
     - Lab
-    - Fill out [Forces Lab - Excel Document](/mr-hicks/Forces Lab.xlsx){: .btn .btn-outline}
+    - Fill out [Forces Lab - Excel Document](/mr-hicks/1.2 Forces Lab.xlsx){: .btn .btn-outline}
       Download the excel document, and save to your 'Science folder'.
       Ask if you don't have one setup.
     - Fill out [Forces Form](https://forms.office.com/Pages/ResponsePage.aspx?id=2pNwzRMrok2198ZQP0iNs31cX8DUQ_xEjrOkTCSQz29UQVBRSzc4QVlQVEZGTkNKSENYVUpUVDcxOC4u){: .btn .btn-outline}
@@ -96,7 +96,7 @@ Go [here](/index){: .btn .btn-outline}, or click through the side bar for additi
   * Momentum Lab
       - Setup Notebook
       - Lab
-      - Fill out [Momentum Lab - Excel Document](/mr-hicks/Momentum Lab.xlsx){: .btn .btn-outline}
+      - Fill out [Momentum Lab - Excel Document](/mr-hicks/1.3 Momentum Lab.xlsx){: .btn .btn-outline}
       - Fill out [Momentum Form](https://forms.office.com/Pages/ResponsePage.aspx?id=2pNwzRMrok2198ZQP0iNs31cX8DUQ_xEjrOkTCSQz29UNUJJQ1lMRkxMSkJCMlo3M1JVODJSOFM4NC4u){: .btn .btn-outline}
   * Journal
       - Use conservation of momentum to describe what happens when a stopped car is hit from behind by a teenager texting while driving.
