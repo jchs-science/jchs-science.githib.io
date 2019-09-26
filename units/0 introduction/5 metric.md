@@ -62,7 +62,7 @@ And here are the most common combinations that you will run across.
 | Symbol | Name   | What it measures | Equivalent combination |
 |--------|--------|------------------|------------------------|
 | L      | liter  | volume           | $$m^3$$                |
-| --     | --     | density          | $$\frac{g}{cm^3}$$     |
+| $$\rho$$     | --     | density          | $$\frac{g}{cm^3}$$     |
 | N      | newton | force            | $$kg\cdot m /s^2$$     |
 | J      | joule  | energy           | $$N\cdot m$$           |
 | W      | watt   | power            | $$\frac{J}{s}$$        |
