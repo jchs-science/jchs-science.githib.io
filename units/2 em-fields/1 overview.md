@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Overview
-parent: Electricity, Magnetism, and Gravity
+parent: Fields, Electricity, and Magnetism
 nav_order: 1
 ---
 
@@ -27,12 +27,12 @@ nav_order: 1
     </tr>
     <tr>
       <td align="center"> 1 </td>
-      <td align="center">Coulombs Law and Gravity (Fields)</td>
+      <td align="center">Fields and Electric Charge</td>
       <td><ul><li>Demonstrations</li><li><a href="https://phet.colorado.edu/en/simulation/legacy/electric-hockey">Hockey PhEt</a></li><li>Calculation Practice</li></ul></td>
     </tr>
     <tr>
       <td align="center"> 2 </td>
-      <td align="center">Electricity and Magnetism</td>
+      <td align="center">Magnetism and Electric Current</td>
       <td><ul><li>Exploration Stations</li><li>Electro-magnets</li><li>Simple Motor</li></ul></td>
     </tr>
     <tr>
@@ -42,12 +42,6 @@ nav_order: 1
     </tr>
   </tbody>
 </table>
-
-## Additional Resources
-  * This should contain any additional resources that are helpful but not deemed essential or included in the unit plan.
-
-## Proficiency Scales
-This should contain the proficiency scales for this unit.
 
 ## State Standards
 ### PS2-4
