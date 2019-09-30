@@ -29,7 +29,12 @@ Go [here](/index){: .btn .btn-outline}, or click through the side bar for additi
   <tr>
     <td align="center">7</td>
     <td align="center">23-26 Sep</td>
-    <td><a href='/mr-hicks#energy'>M/T Energy</a>, <a href='/mr-hicks#roller-coaster'>W/R Roller Coaster</a></td>
+    <td><a href='/mr-hicks#energy'>M/T Energy</a>, W/R Work Day</td>
+  </tr>
+  <tr>
+    <td align="center">8</td>
+    <td align="center">30-4 Oct</td>
+    <td><a href='/mr-hicks#roller-coaster'>W-R Roller Coaster</a></td>
   </tr>
   <tr>
     <th colspan="3" align="left">Introduction</th>
