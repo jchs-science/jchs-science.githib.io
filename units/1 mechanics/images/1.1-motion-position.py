@@ -18,6 +18,6 @@ ax.set_ylabel('postion (m)')
 ax.grid()
 
 plt.tight_layout()
-plt.savefig('1.1-motion-position.pdf', format='pdf')
+plt.savefig('1.1-motion-position.png', format='png')
 
 plt.show()

@@ -33,6 +33,6 @@ ax.set_title('Constant Negative Velocity')
 
 
 plt.tight_layout()
-plt.savefig('1.1-motion-velocity.pdf', format='pdf')
+plt.savefig('1.1-motion-velocity.png', format='png')
 
 plt.show()

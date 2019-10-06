@@ -26,7 +26,7 @@ Position is written as a point, just like in math, where the x value is time, an
 An example is (0s, 3m), so when time is 0s, the position is 3m.
 
 <figure>
-<img src="./images/1.1-motion-position.pdf" alt="drawing" width="90%"/>
+<img src="./images/1.1-motion-position.png" alt="drawing" width="90%"/>
 <figcaption>Motion graph for an object with constant position.</figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ If the line is pointed down, then it is a negative velocity.
 If the line is flat, then it has no velocity, its position is constant.
 
 <figure>
-<img src="./images/1.1-motion-velocity.pdf" alt="drawing" width="90%"/>
+<img src="./images/1.1-motion-velocity.png" alt="drawing" width="90%"/>
 <figcaption>Motion graph for an object with constant position.</figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ Note, you cannot tell if the acceleration is constant just by looking, you can o
 **ANY** time the position versus time graph is curved, the object is accelerating.
 
 <figure>
-<img src="./images/1.1-motion-acceleration.pdf" alt="drawing" width="90%"/>
+<img src="./images/1.1-motion-acceleration.png" alt="drawing" width="90%"/>
 <figcaption>Motion graph for an object that is accelerating.  Note how it makes a happy face for positive acceleration, and a frowny face for negative acceleration.</figcaption>
 </figure>
 

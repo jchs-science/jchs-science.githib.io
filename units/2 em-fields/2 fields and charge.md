@@ -53,7 +53,7 @@ Note, the farther you get from Earth, the less force you feel due to gravity, he
 Also, notice that the arrows always point towards Earth, that is another property of gravity, it pulls things together.
 
 <figure>
-<img src="/units/2 em-fields/images/gravity.pdf" alt="drawing" width="90%"/>
+<img src="/units/2 em-fields/images/gravity.png" alt="drawing" width="90%"/>
 <figcaption>Arrows indicate the forces of a field.  The bigger the arrow, the stronger the force felt.</figcaption>
 </figure>
 
@@ -86,7 +86,7 @@ However, that is not enough because you also have to know what type of charge th
 It is assumed then that you are ALWAYS interacting with a positive charge, just so everyone knows.
 
 <figure>
-<img src="/units/2 em-fields/images/charges.pdf" alt="drawing" width="90%"/>
+<img src="/units/2 em-fields/images/charges.png" alt="drawing" width="90%"/>
 <figcaption>Field for positive and negative charges, ASSUMING that the other charge is positive.</figcaption>
 </figure>
 

@@ -33,6 +33,6 @@ ax.set_title('Negative Acceleration')
 
 
 plt.tight_layout()
-plt.savefig('1.1-motion-acceleration.pdf', format='pdf')
+plt.savefig('1.1-motion-acceleration.png', format='png')
 
 plt.show()

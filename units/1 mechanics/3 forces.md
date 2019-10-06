@@ -51,7 +51,7 @@ So, what is the difference you ask?
 Well compare parts A and B in the image below.
 
 <figure>
-<img src="images/ball-drop.pdf" alt="drawing" width="90%"/>
+<img src="images/ball-drop.png" alt="drawing" width="90%"/>
 <figcaption>Demonstration of sum of all forces.</figcaption>
 </figure>
 

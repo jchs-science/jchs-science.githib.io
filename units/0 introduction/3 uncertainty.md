@@ -154,12 +154,12 @@ _List 5 things matter to YOU that you have never heard of any research being don
 On the sticky note provided, answer the following and post it on the board as you leave.
 
 _What is one way that your unique view is important to this class._
-{: .fs-6 .text-blue-000}
+{: .fs-6 .fw-300 .text-blue-000}
 
 Reflection in your lab notebook.
 
 _Make a list in your lab notebook of 10 things that make up who you are and create the bias you see the world.  Considering those 10 things, if you could research anything in the world, what would it be and why?_
-{: .fs-6 .text-blue-000}
+{: .fs-6 .fw-300  .text-blue-000}
 
 # References
   * Hubenthal, Michael, and Mike Gallagher. “NSTA 2019.” NSTA, Accounting for Uncertainty in Scientific Argumentation, 2019.
