@@ -14,6 +14,14 @@ The links below go to the course material covered in class.
 Go [here](/index){: .btn .btn-outline}, or click through the side bar for additional materials.
 <table>
   <tr>
+    <th colspan="3" align="left">Fields and Charge</th>
+  </tr>
+  <tr>
+    <td align="center">9</td>
+    <td align="center">7-11 Oct</td>
+    <td><a href='/mr-hicks#fields'>M/T Fields</a>, <a href='/mr-hicks#charge'>W/R Charge</a></td>
+  </tr>
+  <tr>
     <th colspan="3" align="left">Mechanics</th>
   </tr>
   <tr>
@@ -47,6 +55,28 @@ Go [here](/index){: .btn .btn-outline}, or click through the side bar for additi
 </table>
 
 ---
+# Electricity and Magnetism (E/M)
+## Fields
+[Fields Notes](/mr-hicks/2.1 Fields.pdf){: .btn .btn-outline}
+
+**Check List**
+  * Fields
+  * Sticky Tape Lab - fill out form below
+  * Journal
+    1. How did I behave in class today?
+    2. What can I do to better contribute to a positive classroom environment?
+    3. Come up with a model to explain what you saw in the sticky tape lab.
+
+<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=2pNwzRMrok2198ZQP0iNs31cX8DUQ_xEjrOkTCSQz29UODVDTjhRM0tUT1lNUUk0N0JBTEdCMFpMVi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
+## Charge
+[Charge Notes](/mr-hicks/2.2 Charge.pdf){: .btn .btn-outline}
+
+## Magnetism
+
+## Current
+
+## Assessment
 
 # Mechanics
 ## Motion

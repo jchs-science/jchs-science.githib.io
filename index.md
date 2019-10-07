@@ -14,13 +14,15 @@ This is the landing page and contains what Mr. Hicks is doing today, and the wee
 ---
 ## [Mr. Hicks Links](/mr-hicks)
 {: .no_toc}
-[Motion](/mr-hicks#motion){: .btn .btn-outline},
-[Forces](/mr-hicks#forces){: .btn .btn-outline},
-[Momentum](/mr-hicks#momentum){: .btn .btn-outline},
-[Energy](/mr-hicks#energy){: .btn .btn-outline}
-[Roller Coaster - Assessment](/mr-hicks#roller-coaster){: .btn .btn-outline}
+[Fields](/mr-hicks#fields){: .btn .btn-outline},
+[Charge](/mr-hicks#charge){: .btn .btn-outline},
+<!-- [](/mr-hicks#){: .btn .btn-outline},
+[](/mr-hicks#){: .btn .btn-outline}
+[](/mr-hicks#){: .btn .btn-outline}
+ -->
 
 ---
+
 ## Week-by-Week - Physical Science Department Plan
 <table>
   <tr>
