@@ -72,6 +72,15 @@ Go [here](/index){: .btn .btn-outline}, or click through the side bar for additi
 ## Charge
 [Charge Notes](/mr-hicks/2.2 Charge.pdf){: .btn .btn-outline}
 
+**Check List**
+  * Charges
+  * Sticky Tape Review
+  * PhET Simulations
+    - Balloons
+    - John Travoltage
+    - PhET Hockey
+  * [Exit Ticket](/mr-hicks/2.2ExitTicket/2.2ExitTicket.pdf){: .btn .btn-outline}
+
 ## Magnetism
 
 ## Current

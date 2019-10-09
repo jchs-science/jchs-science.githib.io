@@ -91,6 +91,17 @@ It is assumed then that you are ALWAYS interacting with a positive charge, just 
 </figure>
 
 ### Activity - Sticky tape lab
+Short version of the video:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ibQTiyB9KFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Longer one with more experiments:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mvIrMwcITH8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Link to the instructions](/units/2 em-fields/images/2.1 Sticky Tape Instructions.docx){: .btn .btn-outline}
+
+[Link to the Additional Questions](/units/2 em-fields/images/2.1 Sticky Tape Additional Questions.docx){: .btn .btn-outline}
+
+
 
 ## Quantitative Description
 Pictures are well and good, but sometimes you just need a good old equation.
@@ -120,20 +131,36 @@ Take a second to appreciate just how much of a change you get as you get farther
 <iframe src="https://phet.colorado.edu/sims/html/balloons-and-static-electricity/latest/balloons-and-static-electricity_en.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
 
 _In your lab notebook, answer the following:_
+{: .fs-6 .fw-300 .text-blue-000}
   
-  1. Rub the balloon on the shirt. 
-      a. What overall charge does the balloon now have?
-      b. What overall charge does the shirt now have?
-  2. What happens when you drag the balloon away from the shirt and let it go? Why?
-  3. Move the balloon over to the wall.
-    a. What happens to the negative charges in the wall when you move the balloon near it? 
-    b. What happens to the positive charges in the wall when you move the balloon near it? 
+1. Rub the balloon on the shirt. 
+  a. What overall charge does the balloon now have?
+  b. What overall charge does the shirt now have?
+2. What happens when you drag the balloon away from the shirt and let it go? Why?
+3. Move the balloon over to the wall.
+  a. What happens to the negative charges in the wall when you move the balloon near it? 
+  b. What happens to the positive charges in the wall when you move the balloon near it? 
+
+### Activity - PhET John Travoltage
+<iframe src="https://phet.colorado.edu/sims/html/john-travoltage/latest/john-travoltage_en.html" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+
+_In your lab notebook, answer the following:_
+{: .fs-6 .fw-300 .text-blue-000}
+
+1. What happens if you build up charge while his finger is _on_ the door?
+2. What happens if you build up charge while his finger is _away_ from the door?
+3. What happens to the electrons that are currently in the metal door knob? (Are they attracted or repelled?)
+4. Why are shocks worse when you touch conductors rather than insulators?
+__
 
 ### Activity - PhET Hockey
 <div style="position: relative; width: 300px; height: 197px;"><a href="https://phet.colorado.edu/sims/electric-hockey/electric-hockey_en.jar" style="text-decoration: none;"><img src="https://phet.colorado.edu/sims/electric-hockey/electric-hockey-600.png" alt="Electric Field Hockey" style="border: none;" width="300" height="197"/><div style="position: absolute; width: 200px; height: 80px; left: 50px; top: 58px; background-color: #FFF; opacity: 0.6; filter: alpha(opacity = 60);"></div><table style="position: absolute; width: 200px; height: 80px; left: 50px; top: 58px;"><tr><td style="text-align: center; color: #000; font-size: 24px; font-family: Arial,sans-serif;">Click to Run</td></tr></table></a></div>
 
 The goal is to get the black positive charge (the puck) into the goal by adding + and - charges to the playing area.
 You should click the 'field' box to help you predict where the puck will go.
+
+_In your lab notebook record each solution you come up with showing the location of the starting positive charge, the location of all the charges you place, and the location of all the obstacles_
+{: .fs-6 .fw-300 .text-blue-000}
 
 Here is some warm-up activities.
   1. Put a single (+) and a single (-) charge on the screen.  Sketch the resulting field into your lab notebook.

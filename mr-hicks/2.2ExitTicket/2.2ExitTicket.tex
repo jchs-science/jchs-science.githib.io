@@ -1,0 +1,146 @@
+\documentclass[14pt, fleqn, paper=letter]{scrartcl}
+
+%Conserve space
+\newcommand{\margin}{0.5in}
+\usepackage[margin=\margin,  includehead=false, includefoot=false]{geometry}	%Fixed margins
+\usepackage[compact]{titlesec}		%Reasonably compact section spacing
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3\baselineskip}
+
+%Floats/images setup
+\renewcommand{\topfraction}{0.85}	%Fixes float spacing
+\renewcommand{\textfraction}{0.1}			
+\renewcommand{\floatpagefraction}{0.75}
+\usepackage{graphicx}				%Basic image support
+	\graphicspath{{/Users/fred/Library/TeXShop/Images/}{./Images/}}
+	\usepackage[space]{grffile}
+\usepackage[labelfont={bf}, margin=20pt]{caption}		%Caption Placement
+
+% font and date format
+\usepackage{newtxtext}
+\setkomafont{disposition}{\bfseries}
+\usepackage{fancyref}			%Automatically adds Table (tab:' ') or Figure (fig:' ')
+\usepackage[UKenglish]{babel}		%UK date format
+\usepackage[UKenglish]{datetime}
+\let\dateUKenglish\relax
+\newdateformat{dateUKenglish}{\THEDAY~\shortmonthname[\THEMONTH]
+\twodigit\THEYEAR}
+
+%Math/science
+\usepackage{siunitx}	%SI unit : \si{\'unit'} or \SI{#}{\'unit'}
+\sisetup{detect-all}
+%\usepackage{chemfig}	%Write chemical formulas
+\usepackage{mathtools}	%Basic math an extension of amsmath
+%\usepackage{amsbsy}	%Bold math
+%\usepackage{amstext}	%Text within math environment 
+
+%\usepackage{amssymb}	%Added symbols
+%\usepackage{latexsym}	%More added symbols 	
+%\usepackage{xfrac}	%Slant fractions / increase fraction display options
+
+
+%Misc Useful
+%\usepackage{lipsum}	%Generates filler text
+%\usepackage{tabularx}	%Variable table width spacing
+%\usepackage{booktabs}
+%\usepackage{multirow}	%Multiple row spanning in tables : \multirow{#}{width}{'text'}
+\usepackage{multicol}	%Multiple cols : command \multicols{#}{'text'}
+
+%\usepackage{hyperref}	%Hyperlinking references
+\usepackage{enumitem}	%Enumeration control
+
+%\usepackage{fontspec}
+%\setmainfont{DINAlternate}
+
+\usepackage{tikz}
+
+\newcommand{\copiesperpage}{2}
+\newcommand{\minipageheight}{(\textheight - \margin * (\copiesperpage - 1))/\copiesperpage}
+
+\newcommand{\front}{
+\begin{minipage}[t][\minipageheight]{\textwidth}
+\textbf{\Large Charges Exit Ticket - 9/10 Oct
+\hfill Name:\rule{50mm}{1pt}}
+
+\hfill\textbf{\Large Hr:\rule{20mm}{1pt}}
+
+\textbf{How did I behave in class today?}
+
+{\centering
+\begin{tikzpicture}
+	\draw [thin, step=0.5, gray!40] (0,0) grid (19,4.5);
+\end{tikzpicture}
+
+}
+
+\textbf{How could I better contribute to a positive classroom environment?}
+
+{\centering
+\begin{tikzpicture}
+	\draw [thin, step=0.5, gray!40] (0,0) grid (19,4.5);
+\end{tikzpicture}
+
+}
+\end{minipage}}
+
+\newcommand{\back}{
+\begin{minipage}[t][\minipageheight]{\textwidth}
+
+\textbf{What did you find most surprising today, either in the simulations or the discussion? (Explain WHY too!)}
+
+{\centering
+\begin{tikzpicture}
+	\draw [thin, step=0.5, gray!40] (0,0) grid (19,10);
+\end{tikzpicture}
+
+}
+
+
+\end{minipage}}
+
+
+
+%Document
+%===================================
+\begin{document}
+
+%Front
+\front
+\vfill
+\front
+\clearpage
+\back
+\vfill
+\back
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
