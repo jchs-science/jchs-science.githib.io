@@ -75,7 +75,7 @@ Go [here](/index){: .btn .btn-outline}, or click through the side bar for additi
 **Check List**
   * Charges
   * Sticky Tape Review
-  * PhET Simulations
+  * [PhET Simulations](/units/2 em-fields/2 fields and charge#activity---phet-balloons){: .btn .btn-outline}
     - Balloons
     - John Travoltage
     - PhET Hockey
