@@ -9,6 +9,20 @@ mathjax: true
 I realized that I aught to have a place with a link to all those Forms that I have for data input, as well as links to pictures of all those note pages I have for you guys.
 
 ---
+## Roller Coaster Toll - And help
+Here is the toll for the roller coaster:
+[Roller Coaster Toll](/mr-hicks/1.6 RollerCoasterToll/RollerCoasterToll.pdf){: .btn .btn-outline}
+
+Here is the link to the section of this webpage that can help
+[Roller Coaster Help](/units/1 mechanics/6 roller coaster#calculation-help){: .btn .btn-outline}
+
+Here is what happens when you complete the toll:
+  * You do the toll
+  * Then you can either:
+    - Fill out a form very, very similar to the toll in front of Mr. Hicks so you can demonstrate that you can work through the process for at most a 3 on the assignment.
+    - Revise your roller coaster assessment and go for a 4.
+
+---
 ## Week-by-Week - Mr. Hicks
 The links below go to the course material covered in class.
 Go [here](/index){: .btn .btn-outline}, or click through the side bar for additional materials.
@@ -17,9 +31,14 @@ Go [here](/index){: .btn .btn-outline}, or click through the side bar for additi
     <th colspan="3" align="left">Fields and Charge</th>
   </tr>
   <tr>
+    <td align="center">10</td>
+    <td align="center">15-18 Oct</td>
+    <td><a href='/mr-hicks#how-to-science'>How-to Science</a>, <a href='/mr-hicks#Self-grading-and-reflecting'>Magnetism</a></td>
+  </tr>
+  <tr>
     <td align="center">9</td>
     <td align="center">7-11 Oct</td>
-    <td><a href='/mr-hicks#fields'>M/T Fields</a>, <a href='/mr-hicks#charge'>W/R Charge</a></td>
+    <td><a href='/mr-hicks#fields'>Fields</a>, <a href='/mr-hicks#charge'>Charge</a></td>
   </tr>
   <tr>
     <th colspan="3" align="left">Mechanics</th>
@@ -27,17 +46,17 @@ Go [here](/index){: .btn .btn-outline}, or click through the side bar for additi
   <tr>
     <td align="center">5</td>
     <td align="center">9-12 Sep</td>
-    <td><a href='/mr-hicks#motion'>M/T Motion</a>, <a href='/mr-hicks#forces'>W/R Forces</a></td>
+    <td><a href='/mr-hicks#motion'>Motion</a>, <a href='/mr-hicks#forces'>Forces</a></td>
   </tr>
   <tr>
     <td align="center">6</td>
     <td align="center">16-19 Sep</td>
-    <td><a href='/mr-hicks#momentum'>M-R Momentum</a></td>
+    <td><a href='/mr-hicks#momentum'>Momentum</a></td>
   </tr>
   <tr>
     <td align="center">7</td>
     <td align="center">23-26 Sep</td>
-    <td><a href='/mr-hicks#energy'>M/T Energy</a>, W/R Work Day</td>
+    <td><a href='/mr-hicks#energy'>Energy</a>, Work Day</td>
   </tr>
   <tr>
     <td align="center">8</td>
@@ -79,9 +98,29 @@ Go [here](/index){: .btn .btn-outline}, or click through the side bar for additi
     - Balloons
     - John Travoltage
     - PhET Hockey
-  * [Exit Ticket](/mr-hicks/2.2ExitTicket/2.2ExitTicket.pdf){: .btn .btn-outline}
+  * [Exit Ticket](/mr-hicks/2.2 ExitTicket/2.2ExitTicket.pdf){: .btn .btn-outline}
+
+## How-to Science
+[How-to Science Notes](/mr-hicks/2.2.5 HowToScience.pdf){: .btn .btn-outline}
+
+**Check List**
+  * What is the _science_ part of class?
+  * How-to Science - Roller Coaster Toll Help
+  * What are you learning in class
+  * Summary of Mechanics
+  * [Exit Ticket](/mr-hicks/2.2.5 ExitTicket/ExitTicket.pdf){: .btn .btn-outline}
+
+## Self-grading and Reflecting
+[Self-grading and Reflecting](/mr-hicks/2.2.6 Selfgrade.pdf){: .btn .btn-outline}
+
+**Check List**
+  * Stuff
 
 ## Magnetism
+[Magnetism Notes](/mr-hicks/2.3 Magnetism.pdf){: .btn .btn-outline}
+
+**Check List**
+  * Stuff
 
 ## Current
 
