@@ -16,8 +16,8 @@ This is the landing page and contains what Mr. Hicks is doing today, and the wee
 {: .no_toc}
 [Fields](/mr-hicks#fields){: .btn .btn-outline},
 [Charge](/mr-hicks#charge){: .btn .btn-outline},
-<!-- [](/mr-hicks#){: .btn .btn-outline},
-[](/mr-hicks#){: .btn .btn-outline}
+[How-to Science](/mr-hicks#how-to-science){: .btn .btn-outline},
+<!-- [](/mr-hicks#){: .btn .btn-outline}
 [](/mr-hicks#){: .btn .btn-outline}
  -->
 
