@@ -46,9 +46,9 @@ Criteria:
 </figure>
 
 ## Worksheet
-[General Worksheet]('/units/1 mechanics/images/Roller coaster lab.docx'){: .btn .btn-outline}
+[General Worksheet](/units/1 mechanics/images/Roller coaster lab.docx){: .btn .btn-outline}
 
-[Mr. Hicks' Worksheet]('/units/1 mechanics/images/1.5 RollerCoaster.pdf'){: .btn .btn-outline}
+[Mr. Hicks' Worksheet](/units/1 mechanics/images/1.5 RollerCoaster.pdf){: .btn .btn-outline}
 
 # Calculation Help
 You are asked to make 4 calculations; Force, Momentum, Potential Energy, and Kinetic Energy.
