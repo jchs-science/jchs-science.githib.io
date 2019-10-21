@@ -9,18 +9,19 @@ mathjax: true
 I realized that I aught to have a place with a link to all those Forms that I have for data input, as well as links to pictures of all those note pages I have for you guys.
 
 ---
-## Roller Coaster Toll - And help
-Here is the toll for the roller coaster:
-[Roller Coaster Toll](/mr-hicks/1.6 RollerCoasterToll/RollerCoasterToll.pdf){: .btn .btn-outline}
+## Mechanics Help - Including Roller Coaster
+Okay, here is some more help, starting with a checklist of what to do so that you can get through this in one piece.
 
-Here is the link to the section of this webpage that can help
-[Roller Coaster Help](/units/1 mechanics/6 roller coaster#calculation-help){: .btn .btn-outline}
+**Check List**
+  * Don't panic.
+  * Look at the [Summary for all of mechanics](/mr-hicks/1.0 Mechanics Summary){: .btn .btn-outline}
+  * Complete the [Roller Coaster Toll](/mr-hicks/1.6 RollerCoasterToll/RollerCoasterToll.pdf){: .btn .btn-outline}
+    - [Here is a walk through](/mr-hicks/1.6.5 RollerCoasterToll Help){: .btn .btn-outline}.  Note, you have to _UNDERSTAND_ the logic of the walk through or the re-assessment will be hard to impossible.
+  * You now have two options:
+    - Take the re-assessment in class/before school/after school/advisory.  It is like the toll but I switched up the order so that you have to understand the logic and cannot copy straight from the toll.  You can use your notebook, I'll answer questions if you don't understand the question, but you cannot have help from others.  This is a test of what you know.  Your maximum score for the three standards of this unit is a 3.
+    - Re-write the roller coaster assessment itself.  If you understood the toll it gives you two different ways that you could calculate the 4 values you need to calculate for the assessment.  All that you then have left is to write your sales pitch so that you cover the other non-calculation requirements in the proficiency scale.  If you re-write the roller coaster assessment, then you can get up to a 4.
+      + [Roller Coaster Help](/units/1 mechanics/6 roller coaster#calculation-help){: .btn .btn-outline}
 
-Here is what happens when you complete the toll:
-  * You do the toll
-  * Then you can either:
-    - Fill out a form very, very similar to the toll in front of Mr. Hicks so you can demonstrate that you can work through the process for at most a 3 on the assignment.
-    - Revise your roller coaster assessment and go for a 4.
 
 ---
 ## Week-by-Week - Mr. Hicks
@@ -31,9 +32,14 @@ Go [here](/index){: .btn .btn-outline}, or click through the side bar for additi
     <th colspan="3" align="left">Fields and Charge</th>
   </tr>
   <tr>
+    <td align="center">11</td>
+    <td align="center">21-25 Oct</td>
+    <td><a href='/mr-hicks#magnetism'>Magnetism</a>, <a href='/mr-hicks#current'>Current</a></td>
+  </tr>
+  <tr>
     <td align="center">10</td>
     <td align="center">15-18 Oct</td>
-    <td><a href='/mr-hicks#how-to-science'>How-to Science</a>, <a href='/mr-hicks#Self-grading-and-reflecting'>Magnetism</a></td>
+    <td><a href='/mr-hicks#how-to-science'>How-to Science</a>, <a href='/mr-hicks#self-grading-and-reflecting'>Self-grading and reflecting</a></td>
   </tr>
   <tr>
     <td align="center">9</td>
@@ -110,23 +116,65 @@ Go [here](/index){: .btn .btn-outline}, or click through the side bar for additi
   * Summary of Mechanics
   * [Exit Ticket](/mr-hicks/2.2.5 ExitTicket/ExitTicket.pdf){: .btn .btn-outline}
 
+I'm going to explain briefly what this lecture/discussion was all about.
+In observing all of your troubles with the roller coaster assessment, and the subsequent toll, I realized that many of you have no idea what part of this class is the science, and what part isn't.
+
+Now, I've said this before, and only some believe me, but my goal is not to turn all of you into scientists that use their knowledge of mechanics in their daily lives, but rather, to teacher you problem solving.  THAT is the part of this class that I'm considering the science, the problem solving.
+
+To that end, there is a three step process to science.
+1. Write out what you want.
+2. Write out what you know.
+3. Repeat.
+
+It is the repeat step that is the science, the figuring out how what you know changes what you want.
+The notes I have you take then are supposed to be tools you can use to fill out the 'what do I know' step.
+
+This is why when I come over and talk to you because you ask a question, I now ask, 'What do you know', because I'm trying to help you through the thinking process.
+
 ## Self-grading and Reflecting
 [Self-grading and Reflecting](/mr-hicks/2.2.6 Selfgrade.pdf){: .btn .btn-outline}
 
 **Check List**
-  * Stuff
+  * Discussion on stress/anxiety/etc.
+  * Rubric into check list
+  * Work time
+    - Summarize Mechanics
+    - Work on the roller coaster toll/re-assessment/re-write
+
+**Summary**
+
+Many of you are shutting down and not trying because of stress and anxiety.
+Especially right now around conferences.
+The truth is, you should never be surprised by the grade you get on ANY assignment because every teacher should give you their rubric for the assignment and you can then grade yourself.
+If you are stressed, then you should pre-grade yourself.
+If you don't know how to pre-grade yourself, PRACTICE!!!
+
+I recommend that you turn your rubrics into checklists, and I'll try and do that from now on for you.
 
 ## Magnetism
-[Magnetism Notes](/mr-hicks/2.3 Magnetism.pdf){: .btn .btn-outline}
+There are no notes for this class.
+Instead, you are playing with magnets, developing a model, and then reading about how charges can interact with magnetic fields.
 
 **Check List**
-  * Stuff
+  * Play with magnets
+  * Come up with a model
+  * Read about the interaction between magnetic fields and charges
+  * Work time
+    - Summarize Mechanics
+    - Roller coaster toll/re-assessment/re-write.
 
 ## Current
+[Current Notes](/mr-hicks/2.4 Current.pdf){: .btn .btn-outline}
+
+**Check List**
+  * 
 
 ## Assessment
 
+---
 # Mechanics
+[Mechanics Summary](/mr-hicks/1.0 Mechanics Summary){: .btn .btn-outline}
+
 ## Motion
 
 [Motion Notes](/mr-hicks/1.1-motion.pdf){: .btn .btn-outline}

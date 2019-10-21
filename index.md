@@ -17,9 +17,13 @@ This is the landing page and contains what Mr. Hicks is doing today, and the wee
 [Fields](/mr-hicks#fields){: .btn .btn-outline},
 [Charge](/mr-hicks#charge){: .btn .btn-outline},
 [How-to Science](/mr-hicks#how-to-science){: .btn .btn-outline},
-<!-- [](/mr-hicks#){: .btn .btn-outline}
-[](/mr-hicks#){: .btn .btn-outline}
- -->
+[Self-grading and Reflecting](/mr-hicks#self-grading-and-reflecting){: .btn .btn-outline},
+[Magnetism](/mr-hicks#magnetism){: .btn .btn-outline},
+[Current](/mr-hicks#current){: .btn .btn-outline},
+
+[Summary for all of mechanics](/mr-hicks/1.0 Mechanics Summary){: .btn .btn-outline}
+
+[Checklist to get through the roller coaster assessment](/mr-hicks#mechanics-help---including-roller-coaster){: .btn .btn-outline}
 
 ---
 
