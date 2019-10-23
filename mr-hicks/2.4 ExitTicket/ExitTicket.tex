@@ -1,0 +1,187 @@
+\documentclass[14pt, fleqn, paper=letter]{scrartcl}
+
+%Conserve space
+\newcommand{\margin}{0.5in}
+\usepackage[margin=\margin,  includehead=false, includefoot=false]{geometry}	%Fixed margins
+\usepackage[compact]{titlesec}		%Reasonably compact section spacing
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3\baselineskip}
+
+%Floats/images setup
+\renewcommand{\topfraction}{0.85}	%Fixes float spacing
+\renewcommand{\textfraction}{0.1}			
+\renewcommand{\floatpagefraction}{0.75}
+\usepackage{graphicx}				%Basic image support
+	\graphicspath{{/Users/fred/Library/TeXShop/Images/}{./Images/}}
+	\usepackage[space]{grffile}
+\usepackage[labelfont={bf}, margin=20pt]{caption}		%Caption Placement
+
+% font and date format
+\usepackage{newtxtext}
+\setkomafont{disposition}{\bfseries}
+\usepackage{fancyref}			%Automatically adds Table (tab:' ') or Figure (fig:' ')
+\usepackage[UKenglish]{babel}		%UK date format
+\usepackage[UKenglish]{datetime}
+\let\dateUKenglish\relax
+\newdateformat{dateUKenglish}{\THEDAY~\shortmonthname[\THEMONTH]
+\twodigit\THEYEAR}
+
+%Math/science
+\usepackage{siunitx}	%SI unit : \si{\'unit'} or \SI{#}{\'unit'}
+\sisetup{detect-all}
+%\usepackage{chemfig}	%Write chemical formulas
+\usepackage{mathtools}	%Basic math an extension of amsmath
+%\usepackage{amsbsy}	%Bold math
+%\usepackage{amstext}	%Text within math environment 
+
+%\usepackage{amssymb}	%Added symbols
+%\usepackage{latexsym}	%More added symbols 	
+%\usepackage{xfrac}	%Slant fractions / increase fraction display options
+
+
+%Misc Useful
+%\usepackage{lipsum}	%Generates filler text
+%\usepackage{tabularx}	%Variable table width spacing
+%\usepackage{booktabs}
+%\usepackage{multirow}	%Multiple row spanning in tables : \multirow{#}{width}{'text'}
+\usepackage{multicol}	%Multiple cols : command \multicols{#}{'text'}
+
+%\usepackage{hyperref}	%Hyperlinking references
+\usepackage{enumitem}	%Enumeration control
+
+%\usepackage{fontspec}
+%\setmainfont{DINAlternate}
+\usepackage{soul}
+
+
+\usepackage{tikz}
+
+\newcommand{\copiesperpage}{2}
+\newcommand{\minipageheight}{(\textheight - \margin * (\copiesperpage - 1))/\copiesperpage}
+
+\newcommand{\front}{
+\begin{minipage}[t][\minipageheight]{\textwidth}
+\textbf{\Large Exit Ticket
+\hfill Name:\rule{50mm}{1pt}}
+
+\begin{minipage}[t]{0.64\textwidth}
+\textbf{How did I behave in class today?}
+\emph{Use complete sentences.}
+
+\vspace{2mm}
+{\centering
+	\begin{tikzpicture}[scale=.6]
+    \foreach \x in {0,...,20}
+    \foreach \y in {0,...,7}
+    {
+  \fill (\x,\y) circle (0.03cm);
+    }       
+  \end{tikzpicture}
+
+}
+
+\end{minipage}
+%\hfill
+%\rule{0.4pt}{40mm}
+\hfill
+\begin{minipage}[t]{0.35\textwidth}
+\textbf{Out of the 80 minutes, how many minutes were you:}
+
+{\centering
+\begin{tabular}{r @{: \rule{15mm}{0.4pt}}}
+On task
+\\ Listening
+\\ Working
+\\ Talking Science
+\\ Socializing
+\\ Phone
+\end{tabular}
+
+}
+\end{minipage}
+
+\vspace{3mm}
+
+\textbf{How could I better contribute to a positive classroom environment?}
+\emph{Use complete sentences.}
+
+\vspace{2mm}
+{\centering
+	\begin{tikzpicture}[scale=.6]
+    \foreach \x in {0,...,30}
+    \foreach \y in {0,...,9}
+    {
+  \fill (\x,\y) circle (0.03cm);
+    }       
+  \end{tikzpicture}
+
+}
+\end{minipage}}
+
+\newcommand{\back}{
+\begin{minipage}[t][\minipageheight]{\textwidth}
+
+\textbf{Is the needle in a compass a magnet?  If so, which part is north and which part is south?  If not, what do you think the needle is made of?}
+\emph{Use complete sentences.}
+
+\vspace{2mm}
+{\centering
+	\begin{tikzpicture}[scale=.6]
+    \foreach \x in {0,...,30}
+    \foreach \y in {0,...,17}
+    {
+  \fill (\x,\y) circle (0.03cm);
+    }       
+  \end{tikzpicture}
+
+}
+
+
+\end{minipage}}
+
+
+
+%Document
+%===================================
+\begin{document}
+
+%Front
+\front
+\vfill
+\front
+\clearpage
+\back
+\vfill
+\back
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}

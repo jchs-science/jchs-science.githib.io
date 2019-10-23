@@ -167,7 +167,9 @@ Instead, you are playing with magnets, developing a model, and then reading abou
 [Current Notes](/mr-hicks/2.4 Current.pdf){: .btn .btn-outline}
 
 **Check List**
-  * 
+  * Charge
+  * Magnetism Part II
+  * Electro-Magnet Lab
 
 ## Assessment
 
