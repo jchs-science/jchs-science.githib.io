@@ -48,12 +48,6 @@ nav_order: 1
   </tbody>
 </table>
 
-## Additional Resources
-  * This should contain any additional resources that are helpful but not deemed essential or included in the unit plan.
-
-## Proficiency Scales
-This should contain the proficiency scales for this unit.
-
 ## State Standards
 ### PS4-1
 {: .no_toc}

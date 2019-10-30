@@ -14,16 +14,13 @@ This is the landing page and contains what Mr. Hicks is doing today, and the wee
 ---
 ## [Mr. Hicks Links](/mr-hicks)
 {: .no_toc}
-[Fields](/mr-hicks#fields){: .btn .btn-outline},
-[Charge](/mr-hicks#charge){: .btn .btn-outline},
-[How-to Science](/mr-hicks#how-to-science){: .btn .btn-outline},
-[Self-grading and Reflecting](/mr-hicks#self-grading-and-reflecting){: .btn .btn-outline},
-[Magnetism](/mr-hicks#magnetism){: .btn .btn-outline},
-[Current](/mr-hicks#current){: .btn .btn-outline},
+[ALL EM notes combined](/mr-hicks/2.0 EM Summary.pdf){: .btn .btn-outline}
 
 [Summary for all of mechanics](/mr-hicks/1.0 Mechanics Summary){: .btn .btn-outline}
 
 [Checklist to get through the roller coaster assessment](/mr-hicks#mechanics-help---including-roller-coaster){: .btn .btn-outline}
+
+[Roller Coaster Walk Through](/mr-hicks/1.6.5 RollerCoasterToll Help){: .btn .btn-outline}
 
 ---
 

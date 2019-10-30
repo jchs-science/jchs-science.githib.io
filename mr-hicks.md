@@ -32,9 +32,24 @@ Go [here](/index){: .btn .btn-outline}, or click through the side bar for additi
     <th colspan="3" align="left">Fields and Charge</th>
   </tr>
   <tr>
+    <td align="center">14</td>
+    <td align="center">12-15 Nov</td>
+    <td>Assessment Workday - Oral assessment, Waves!!</td>
+  </tr>
+  <tr>
+    <td align="center">13</td>
+    <td align="center">4-8 Nov</td>
+    <td>Planning for Assessment Build, Assessment Build</td>
+  </tr>
+  <tr>
+    <td align="center">12</td>
+    <td align="center">28-01 Nov</td>
+    <td><a href='/mr-hicks#electricity-and-magnetism'>Electricity and Magnetism</a>, 1-Pager</td>
+  </tr>
+  <tr>
     <td align="center">11</td>
     <td align="center">21-25 Oct</td>
-    <td><a href='/mr-hicks#magnetism'>Magnetism</a>, <a href='/mr-hicks#current'>Current</a></td>
+    <td><a href='/mr-hicks#electricity-and-magnetism'>Magnetism</a>, <a href='/mr-hicks#current'>Current</a></td>
   </tr>
   <tr>
     <td align="center">10</td>
@@ -81,6 +96,8 @@ Go [here](/index){: .btn .btn-outline}, or click through the side bar for additi
 
 ---
 # Electricity and Magnetism (E/M)
+[ALL EM notes combined](/mr-hicks/2.0 EM Summary.pdf){: .btn .btn-outline}
+
 ## Fields
 [Fields Notes](/mr-hicks/2.1 Fields.pdf){: .btn .btn-outline}
 
@@ -167,9 +184,17 @@ Instead, you are playing with magnets, developing a model, and then reading abou
 [Current Notes](/mr-hicks/2.4 Current.pdf){: .btn .btn-outline}
 
 **Check List**
-  * Charge
+  * Current
   * Magnetism Part II
   * Electro-Magnet Lab
+
+## Electricity and Magnetism
+[EM Notes](/mr-hicks/2.5 EM.pdf){: .btn .btn-outline}
+
+**Check List**
+  * The force
+  * Rope demonstration
+  * [Building an electric motor](/mr-hicks/2.5 Building a Simple Electric Motor.pdf){: .btn .btn-outline}
 
 ## Assessment
 

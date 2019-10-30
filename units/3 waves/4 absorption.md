@@ -1,11 +1,12 @@
 ---
 layout: default
-title: About Waves
+title: Absorption
 parent: Waves
-nav_order: 2
+nav_order: 4
+mathjax: true
 ---
 
-# Title
+# Absorption
 {: .no_toc }
 
 <!-- table of contents for the page -->
@@ -17,4 +18,4 @@ nav_order: 2
 
 ---
 
-## Section 1
+# Section 1
