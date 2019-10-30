@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Waves
+title: Wave Properties
 parent: Waves
 nav_order: 2
 mathjax: true
@@ -82,7 +82,49 @@ In the following questions, you'll be guided into deeper unknowns little by litt
   * <font color="blue">Compare and contrast the side and top view.</font>
 
 ## Sound Waves
-1. 
+1. Click the green button on the speaker to start the sound waves.
+2. <font color="blue">Compare and contrast the side, top view of the sound with the side and top views of the water.</font>
+3. Click the 'Play tone' box over on the right hand side just below the sliders.
+  * Slide the frequency down to 'min'
+  * <font color="blue">Describe what the tone sounds like.</font>
+  * Slide the frequency up to 'max'
+  * <font color="blue">Describe what the tone sounds like.</font>
+  * <font color="blue">Compare the two frequencies.</font>
+4. Measuring the frequency, wavelength, speed for 'min'
+  * Set the frequency to 'min'
+  * Get out the timer from the toolbox.
+  * When a bright white spot appears at the speaker, start the timer.
+  * With the timer running, count up 10 white spots, stopping the timer when the 10th spot appears.
+  * <font color="blue">Record the number of white spots, the time it took, and then divide them and multiply by 1000 to get the frequency.</font>
+  * _You multiply by a 1000 because the timer is in ms so that you can 'see' the sound wave.  Sound waves are much, much, to fast to see so this simulation slows them down by a factor of a 1000._
+  * Once you have measured your frequency, you can now measure the wavelength.
+  * Let the screen fill with sound waves, and then press pause.
+  * Get the tape measure out of the toolbox.
+  * <font color="blue">Measure and record the wavelength, make sure to convert the length to meters.</font>
+  * _For this, the wavelength is either one bright spot to the next bright spot, or one dark spot to the next dark spot._
+  * <font color="blue">Multiply the frequency and wavelength to get the wave speed.</font>
+5. Repeat Step 4 with the 'max' frequency.
+  * <font color="blue">Measure the frequency, wavelength, and speed for the 'max' frequency.</font>
+6. <font color="blue">Compare and contrast the frequency, wavelength, and speed for the 'min' and 'max' frequencies.</font>
+
+## Light
+For this, you are going to repeat the measurement steps that you did for sound to get the frequency, wavelength, and speed for three different colors.
+_Note, to calculate the frequency you'll need to take the number of colored spots, divided by the time it took, times $$10^{15}$$ because the timer is in femto-seconds.  Yes, light is that much faster than sound._
+
+<font color="blue">Fill out the following table in your lab notebook.</font>
+
+| Data | Color 1 | Color 2 | Color 3 |
+|---------------------------------------------------------------|---------|---------|---------|
+| Color Name |  |  |  |
+| # of spots | 10 | 10 | 10 |
+| Time it took in fs |  |  |  |
+| Frequency (number of spots, divided by time, times $$10^{15}$$) |  |  |  |
+| Wavelength in nm (what the ruler reads) |  |  |  |
+| Wavelength in m |  |  |  |
+| Speed of the wave (frequency $$\times$$ wavelength) |  |  |  |
+
+<font color='blue'>Compare and contrast the results for the different colors.</font>
+
 
 
 
