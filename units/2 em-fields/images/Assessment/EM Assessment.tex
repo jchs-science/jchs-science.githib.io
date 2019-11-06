@@ -1,0 +1,174 @@
+\documentclass[14pt, fleqn, paper=letter, oneside]{scrartcl}
+
+\newcommand{\includehead}{true}
+\newcommand{\includefoot}{true}
+
+% set basic page format
+\usepackage[headsepline=\includehead, footsepline=\includefoot]{scrlayer-scrpage} 
+\usepackage[margin=0.5in,
+%    footskip=1.5\baselineskip, headsep=0.5\baselineskip,
+    includehead=\includehead, includefoot=\includefoot]{geometry}   %Fixed margins
+\usepackage[compact]{titlesec}
+
+%\usepackage{setspace}
+%\onehalfspace
+%\doublespace    
+
+% image support
+\renewcommand{\topfraction}{0.95}   %Fixes float spacing
+\renewcommand{\textfraction}{0.01}
+\renewcommand{\floatpagefraction}{0.85}
+\usepackage{graphicx}
+	\graphicspath{{/Users/fred/Library/TeXShop/Images/}{./Images/}}
+\usepackage[space]{grffile}		
+
+% symbol support
+\usepackage{siunitx}    %SI unit : \si{\'unit'} or \SI{#}{\'unit'}
+\sisetup{detect-all}
+\usepackage{chemfig}    %Write chemical formulas
+\usepackage{mathtools}  %Basic math an extension of amsmath
+
+% formatting support
+\usepackage{multicol}   %Multiple cols body : command \multicols{#}{'text'}
+\usepackage{multirow}   %Multiple row spanning in tables : \multirow{#}{width}{'text'}
+\usepackage{enumitem}   %Enumeration control
+\usepackage{amssymb}
+
+\usepackage{hyperref} % hyperlinks
+\usepackage{soul} % highlighting with \hl{command}
+
+
+% font and date format
+\usepackage{newtxtext}
+\setkomafont{disposition}{\bfseries}
+\usepackage{fancyref}           %Automatically adds Table (tab:' ') or Figure (fig:' ')
+\usepackage{texdate}
+\initcurrdate
+\def\setdateformat{e\ b\ y\ }
+\renewcommand{\headfont}{\normalfont}
+\renewcommand{\footfont}{\normalfont}
+
+% useful commands
+\newcommand{\biu}[1]{\textbf{\emph{\underline{#1}}}}
+
+\newcommand{\centerframe}[1]{ % this command makes a box around the content
+    {\centering\fbox{\begin{minipage}{0.975\columnwidth}#1\end{minipage}}}}
+
+\newcommand{\linespace}{5mm}
+
+\newcommand{\blank}{\rule{60mm}{0.4pt}}
+
+\newlist{checklist}{itemize}{1}
+\setlist[checklist]{label=$\square$}
+
+
+% document commands
+\ihead{Name:}
+\chead{Hour:}
+\ohead{Date:\hspace{40mm}}
+\ifoot{Grade: \hspace{40mm}Why:}
+\cfoot{}
+\ofoot{\thepage}
+\newcommand{\maintitle}{E/M Assessment Due 12/13 Nov }
+
+%===================================
+\begin{document}
+\section*{\maintitle}
+
+\section{Engineering Design}
+Describe why 3 reasons why designed succeeded/failed,
+	describe 3 improvements,
+	compare 3 points why a manufactured version is better,
+	and explain why each of those 3 points are better.
+\emph{See the proficiency scale for the expectations of 3, 2, 1}
+
+\vspace{5mm}
+
+{\centering
+	\begin{tikzpicture}[scale=.6]
+    \foreach \x in {0,...,32}
+    \foreach \y in {0,...,28}
+    {
+  \fill (\x,\y) circle (0.03cm);
+    }       
+  \end{tikzpicture}
+
+}
+\clearpage
+\newcommand{\numberoflines}{13}
+
+\section{Electricity and Magnetism}
+\subsection{Using a diagram}
+Explain how your device works using arrows showing the direction of forces.
+
+\vspace{2mm}
+
+	\begin{tikzpicture}[scale=.6]
+    \foreach \x in {0,...,32}
+    \foreach \y in {0,...,\numberoflines}
+    {
+  \fill (\x,\y) circle (0.03cm);
+    }       
+  \end{tikzpicture}
+
+\vfill
+\subsection{In writing}
+Explain how your device works in terms of electric current and magnetic fields.
+
+\vspace{2mm}
+
+	\begin{tikzpicture}[scale=.6]
+    \foreach \x in {0,...,32}
+    \foreach \y in {0,...,\numberoflines}
+    {
+  \fill (\x,\y) circle (0.03cm);
+    }       
+  \end{tikzpicture}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
