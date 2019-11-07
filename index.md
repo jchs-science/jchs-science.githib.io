@@ -14,6 +14,8 @@ This is the landing page and contains what Mr. Hicks is doing today, and the wee
 ---
 ## [Mr. Hicks Links](/mr-hicks)
 {: .no_toc}
+[Friday Funday - 9 Nov 19](/fundays/191108-electricity){: .btn .btn-outline}
+
 [ALL EM notes combined](/mr-hicks/2.0 EM Summary.pdf){: .btn .btn-outline}
 
 [Summary for all of mechanics](/mr-hicks/1.0 Mechanics Summary){: .btn .btn-outline}
