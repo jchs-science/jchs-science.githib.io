@@ -118,3 +118,62 @@ $btn-primary-color: $blue-200;
 //   lg: 800px,
 //   xl: 1316px
 // );
+
+@import './mixins',
+        './reset',
+        './about-dark';
+
+.tasks-list-item {
+  display: block;
+  line-height: 24px;
+  padding: 12px 15px;
+  cursor: pointer;
+  @include user-select(none);
+
+  & + & { border-top: 1px solid #f0f2f3; }
+}
+
+.tasks-list-cb {
+  display: none;
+}
+
+.tasks-list-mark {
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 12px;
+  width: 20px;
+  height: 20px;
+  border: 2px solid #c4cbd2;
+  border-radius: 12px;
+
+  &:before {
+    content: '';
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -5px 0 0 -6px;
+    height: 4px;
+    width: 8px;
+    border: solid #39ca74;
+    border-width: 0 0 4px 4px;
+    @include transform(rotate(-45deg));
+  }
+
+  .tasks-list-cb:checked ~ & {
+    border-color: #39ca74;
+
+    &:before { display: block; }
+  }
+}
+
+.tasks-list-desc {
+  font-weight: bold;
+  color: #2c84fa;
+
+  .tasks-list-cb:checked ~ & {
+    color: #34bf6e;
+    text-decoration: line-through;
+  }
+}
