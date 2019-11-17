@@ -38,6 +38,7 @@
         </div>
       </div>
       <div class="main-content">
+        
         {% unless page.url == "/" %}
           {% if page.parent %}
             <nav class="breadcrumb-nav">
@@ -53,12 +54,10 @@
             </nav>
           {% endif %}
         {% endunless %}
-        <div id="main-content" class="page-content" role="main">
-          {{ content }}
 
+        <div id="main-content" class="page-content" role="main">
           {% if page.has_children == true and page.has_toc != false %}
-          <hr>
-          <h2 class="text-delta">Table of contents</h2>
+          <h2 class="text-delta">Links to topics</h2>
           {% assign children_list = site.pages | sort:"nav_order" %}
           <ul>
             {% for child in children_list %}
@@ -69,7 +68,11 @@
               {% endif %}
             {% endfor %}
           </ul>
+          <hr>
           {% endif %}
+          
+          {{ content }}
+
         </div>
       </div>
     </div>

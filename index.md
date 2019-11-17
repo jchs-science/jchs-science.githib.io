@@ -12,17 +12,12 @@ Welcome!
 This is the landing page and contains what Mr. Hicks is doing today, and the week-by-week for the entire year.
 
 ---
-## [Mr. Hicks Links](/mr-hicks)
+## [Mr. Hicks' Page](/mr-hicks)
 {: .no_toc}
-[Friday Funday - 9 Nov 19](/fundays/191108-electricity){: .btn .btn-outline}
 
-[ALL EM notes combined](/mr-hicks/2.0 EM Summary.pdf){: .btn .btn-outline}
+[Monday/Tuesday: Wave-Measurements](/units/3 waves/3 waves measure){: .btn .btn-outline}
 
-[Summary for all of mechanics](/mr-hicks/1.0 Mechanics Summary){: .btn .btn-outline}
-
-[Checklist to get through the roller coaster assessment](/mr-hicks#mechanics-help---including-roller-coaster){: .btn .btn-outline}
-
-[Roller Coaster Walk Through](/mr-hicks/1.6.5 RollerCoasterToll Help){: .btn .btn-outline}
+[Wednesday/Thursday: What is light?](/units/3 waves/4 particle wave duality){: .btn .btn-outline}
 
 ---
 
