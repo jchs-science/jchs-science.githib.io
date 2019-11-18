@@ -113,10 +113,13 @@ But, for your assessment you are going to talk about absorption with light, so y
 | Object | Describe what you did to muffle your speaker | How well did it block low frequencies (bass) | How well did it block high frequencies (treble) |
 |-----------------|----------------------------------------------|----------------------------------------------|-------------------------------------------------|
 | Styrofoam Plate |  |  |  |
+| Styrofoam Cup |  |  |  |
 | Plastic Cup |  |  |  |
 | Felt |  |  |  |
 | Cotton Balls |  |  |  |
 | Pie Tin |  |  |  |
+| Cardboard |  |  |  |
+| Coffee Filter |  |  |  |
 
 ## Design your own muffler
 Now that you have tried messing with all the different materials, design your own muffler for your phone that will work the best and block all frequencies.

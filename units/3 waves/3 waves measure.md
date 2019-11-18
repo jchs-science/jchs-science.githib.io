@@ -69,7 +69,7 @@ Frequency, is how many times the wave wiggles in a given period of time.
 
 $$\text{Frequency} = \frac{\text{# of wiggles}}{\text{Time in seconds}}$$
 
-The units are are then just $$\text{Hz}=\frac{1}{\text{s}}$$
+The units are then just $$\text{Hz}=\frac{1}{\text{s}}$$
 
 To measure frequency there are two ways to do it depending on the picture you have.
 
