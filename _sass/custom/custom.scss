@@ -119,9 +119,7 @@ $btn-primary-color: $blue-200;
 //   xl: 1316px
 // );
 
-@import './mixins',
-        './reset',
-        './about-dark';
+@import './mixins';
 
 .tasks-list-item {
   display: block;

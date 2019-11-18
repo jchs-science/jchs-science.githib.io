@@ -20,15 +20,19 @@ You should include:
   * How well your phone will do in buildings (relative to other frequencies)
 
 # Information
+Use the following plots to help you make decisions as to which frequency you should choose.
+
 <figure>
 <img src="./resources/assessment-absorption.png" alt="drawing" width="90%"/>
-<figcaption></figcaption>
+<figcaption>Absorption as a function of frequency.</figcaption>
 </figure>
+Remember if the signal is abosorbed by more walls, then you are going to have to have **MORE** towers to have the same coverage as you would if you had a signal that was absorbed less.
 
 <figure>
 <img src="./resources/assessment-bandwidth.png" alt="drawing" width="90%"/>
-<figcaption></figcaption>
+<figcaption>Bandwidth as a function of frequency.</figcaption>
 </figure>
+Remember, if you you have less bandwidth, you will need **MORE** towers to get the same speed for everyone.
 
 # Proficiency Scales
 The main portion of your grade is based on your written portion.
