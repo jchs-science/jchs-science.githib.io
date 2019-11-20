@@ -136,8 +136,53 @@ For those of you that have a lot of free time, or curiosity, here is a video of 
 [Optional, amazing, video of spreadsheets](https://www.youtube.com/watch?v=UBX2QQHlQ_I){: .btn .btn-outline}
 
 
-
 # What is Digital?
+Digital is anything that only has 2 possibilities, 2 states.
+Think of a light switch, not a new fancy one but the old ones, they are either off or on.
+Here is a more extensive list:
+
+| 0 | 1 |
+|:-----:|:------:|
+| Black | White |
+| No | Yes |
+| Off | On |
+| Up | Down |
+| Left | Right |
+
+The important thing is that there is ***NO*** gray with digital, something either is or is not.
+No source of confusion.
+
+So, let us connect back to the activity.
+  * Your first round where you were drawing pictures, there were an infinite number of possibilities.
+    How the line was curved, how long it was, how they were connected, where you picked up the pencil, etc.
+  * Your second round though you had a grid.  Either the square was filled in or it wasn't.  There was no confusion as to the state of each square.
+
+To describe digital there are two things to consider.
+
+## Threshold
+Threshold is the point at which a signal is considered to be a yes, or a no.
+Anything above the threshold is a yes, anything below is a no.
+
+The threshold of a signal will later explain why a digital signal stops working as it gets smaller.
+
+<figure>
+<img src="/units/3 waves/resources/digital-threshold.png" alt="drawing" width="90%"/>
+<figcaption>Picture showing the yes/no threshold for a digital signal.</figcaption>
+</figure>
+
+## Frequency
+You are already familiar with frequency, so this will be quick.
+Frequency is just how fast the on off signals are being sent.
+Think of a light switch, you can only blink the lights about 10 times a second.
+However computers can switch at billions of times a second.
+More on that later too.
+
+<figure>
+<img src="/units/3 waves/resources/digital-frequency.png" alt="drawing" width="90%"/>
+<figcaption>The frequency of a digital signal.  There are 10 states in 1 second, so the frequency is 10 Hz.</figcaption>
+</figure>
+
+
 
 # Activity - Storage Comparison
 
