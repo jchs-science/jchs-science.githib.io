@@ -141,11 +141,11 @@ Digital is anything that only has 2 possibilities, 2 states.
 Think of a light switch, not a new fancy one but the old ones, they are either off or on.
 Here is a more extensive list:
 
-| 0 | 1 |
+| ON | OFF |
 |:-----:|:------:|
 | Black | White |
 | No | Yes |
-| Off | On |
+| 0 | 1 |
 | Up | Down |
 | Left | Right |
 
@@ -160,15 +160,25 @@ So, let us connect back to the activity.
 To describe digital there are two things to consider.
 
 ## Threshold
-Threshold is the point at which a signal is considered to be a yes, or a no.
-Anything above the threshold is a yes, anything below is a no.
+Threshold is the point at which a signal is considered to be a ON or OFF.
+Anything above the threshold is ON, anything below is a OFF.
 
 The threshold of a signal will later explain why a digital signal stops working as it gets smaller.
 
 <figure>
 <img src="/units/3 waves/resources/digital-threshold.png" alt="drawing" width="90%"/>
-<figcaption>Picture showing the yes/no threshold for a digital signal.</figcaption>
+<figcaption>Picture showing the ON/OFF threshold for a digital signal.</figcaption>
 </figure>
+
+Still confused?
+Let's try a different approach.
+Imagine you are drawing a picture and you make a mistake.
+So you erase something.
+You then keep going and make your picture perfectly.
+Now, when you show someone else your picture they will know that you have erased something, but they can't really tell what was there before.
+Since they can't really see it, they'll ignore it and only consider the darker lines that you've made.
+That is what a threshold is, the cutoff for when you consider something.
+In digital it is just very, very sharply defined.
 
 ## Frequency
 You are already familiar with frequency, so this will be quick.
@@ -231,15 +241,104 @@ Who likes music and movies?
 Every wonder about those discs that they used to store them on?
 What about NetFlix and why it is a bad idea to use mobile data with it?
 
-The thing about digital
+The thing about digital is that the frequency has to be really, really fast for it to be any use to us.
+Think back to the picture earlier.
+If you could only fill in one square every second, it would take you forever to make a picture.
+Instead, computers can fill in billions of squares a second.
+Just how fast you ask, well, off to wikipedia.
+
+## Instructions
+For each of the items in the table below, you are going to find the format in 
+[this wikipedia page](https://en.wikipedia.org/wiki/Bit_rate#Audio){: .btn .btn-outline}, with the exception of NetFlix, you are going to have to find that one else where.
+
+<label class="tasks-list-item">
+  <input type="checkbox" class="tasks-list-cb">
+  <span class="tasks-list-mark"></span>
+  <span class="tasks-list-desc">
+    Copy and fill out the following table in your notes.
+  </span>
+</label>
+
+| Format               | Bit rate |
+|----------------------|----------|
+| MP3 - medium quality |          |
+| CD (look for CD-DA)  |          |
+| YouTube 240p         |          |
+| YouTube 720p         |          |
+| YouTube 1080p        |          |
+| DVD                  |          |
+| Blu-Ray              |          |
+| NetFlix**            |          |
+
+And now, questions for your lab notebook
+<label class="tasks-list-item">
+  <input type="checkbox" class="tasks-list-cb">
+  <span class="tasks-list-mark"></span>
+  <span class="tasks-list-desc">
+    Describe the difference between watching YouTube at 240p and watching YouTube at 1080p.
+  </span>
+</label>
+<label class="tasks-list-item">
+  <input type="checkbox" class="tasks-list-cb">
+  <span class="tasks-list-mark"></span>
+  <span class="tasks-list-desc">
+    Compare the bit rate for 1080p with the bit rate for 240p, how much higher is it?
+  </span>
+</label>
+<label class="tasks-list-item">
+  <input type="checkbox" class="tasks-list-cb">
+  <span class="tasks-list-mark"></span>
+  <span class="tasks-list-desc">
+    Describe the difference between watching a moving on DVD and Blu-ray?
+  </span>
+</label>
+<label class="tasks-list-item">
+  <input type="checkbox" class="tasks-list-cb">
+  <span class="tasks-list-mark"></span>
+  <span class="tasks-list-desc">
+    The bit rate corresponds to the amount of information that the signal carries.  If the bit rate is higher, does it look/sound better?
+  </span>
+</label>
+<label class="tasks-list-item">
+  <input type="checkbox" class="tasks-list-cb">
+  <span class="tasks-list-mark"></span>
+  <span class="tasks-list-desc">
+    Have you ever switched from WiFi to Cellular, or moved around, and had YouTube or NetFlix lower the video quality so it looked grainy?  What do you think was happening?  _Describe it using bit rate..._
+  </span>
+</label>
 
 
 # Conclusion
 Answer the following in your lab notebook in complete sentences.
-  * <font color='blue'>How have I behaved in class today?</font>
-  * <font color='blue'>How could I better contributed to a positive classroom environment.</font>
-  * <font color='blue'>Summarize what you learned today in 1 sentence.</font>
-  * <font color='blue'>Answer the days essential question (EQ).</font>
+<label class="tasks-list-item">
+  <input type="checkbox" class="tasks-list-cb">
+  <span class="tasks-list-mark"></span>
+  <span class="tasks-list-desc">
+    How have I behaved in class today?
+  </span>
+</label>
+<label class="tasks-list-item">
+  <input type="checkbox" class="tasks-list-cb">
+  <span class="tasks-list-mark"></span>
+  <span class="tasks-list-desc">
+    How could I better contributed to a positive classroom environment.
+  </span>
+</label>
+<label class="tasks-list-item">
+  <input type="checkbox" class="tasks-list-cb">
+  <span class="tasks-list-mark"></span>
+  <span class="tasks-list-desc">
+    Summarize what you learned today in 1 sentence.
+  </span>
+</label>
+<label class="tasks-list-item">
+  <input type="checkbox" class="tasks-list-cb">
+  <span class="tasks-list-mark"></span>
+  <span class="tasks-list-desc">
+    Answer the days essential question (EQ).
+  </span>
+</label>
+
 
 # Help with absorption
 {: .no_toc}
