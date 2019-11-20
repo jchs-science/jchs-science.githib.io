@@ -23,6 +23,7 @@ ax.set_ylim(-1.1, 1.1)
 
 plt.tight_layout()
 plt.savefig('./digital-threshold.png', format='png', dpi=100)
+plt.close()
 # plt.show()
 
 
@@ -46,4 +47,42 @@ ax.set_ylim(-0, 2.3)
 
 plt.tight_layout()
 plt.savefig('./digital-frequency.png', format='png', dpi=100)
+plt.close()
+
+
+# Absorption
+fig, axes = plt.subplots(ncols=2, nrows=1, figsize=(12, 3))
+for ax in axes:
+    ax.set_ylim(-1, 1)
+    ax.set_xlim(0, 1)
+    ax.set_xlabel('Time in seconds')
+    ax.grid()
+
+ax1, ax2 = axes
+ax1.set_title('Wave before absorption')
+ax1.plot(t, np.sin(2 * np.pi * 5 * t), color='k')
+
+ax2.set_title('Wave after absorption')
+
+plt.tight_layout()
+plt.savefig('./digital-absorbed-blank.png', format='png', dpi=100)
+plt.close()
+
+# Absorption-Shown
+fig, axes = plt.subplots(ncols=2, nrows=1, figsize=(12, 3))
+for ax in axes:
+    ax.set_ylim(-1, 1)
+    ax.set_xlim(0, 1)
+    ax.set_xlabel('Time in seconds')
+    ax.grid()
+
+ax1, ax2 = axes
+ax1.set_title('Wave before absorption')
+ax1.plot(t, np.sin(2 * np.pi * 5 * t), color='k')
+
+ax2.set_title('Wave after absorption')
+ax2.plot(t, 0.1 * np.sin(2 * np.pi * 5 * t), color='k')
+
+plt.tight_layout()
+plt.savefig('./digital-absorbed-filled.png', format='png', dpi=100)
 plt.show()

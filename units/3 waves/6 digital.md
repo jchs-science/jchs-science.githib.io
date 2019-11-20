@@ -183,10 +183,56 @@ More on that later too.
 </figure>
 
 
+# How does attenuation effect digital transmission?
+This is actually fairly straight forward.
+Think back to your activity where you were muffling your speaker.
+<label class="tasks-list-item">
+   <input type="checkbox" class="tasks-list-cb">
+   <span class="tasks-list-mark"></span>
+   <span class="tasks-list-desc">
+     Which property of a wave changed when you built your muffler for your speaker? _Hint, it was only one of the 4 we have covered._
+   </span>
+</label> 
+
+<label class="tasks-list-item">
+  <input type="checkbox" class="tasks-list-cb">
+  <span class="tasks-list-mark"></span>
+  <span class="tasks-list-desc">
+    Now, make a picture of two waves, showing what happens as it passes through a muffler, or anything that absorbs it, use the image below as a prompt.
+  </span>
+</label>
+
+<figure>
+<img src="/units/3 waves/resources/digital-absorbed-blank.png" alt="drawing" width="90%"/>
+<figcaption>Sketch showing what you should have in your lab notebook for how your muffler changed the sound.</figcaption>
+</figure>
+
+Now, if you are stuck, [click here](#help-with-absorption)
+
+So how does this relate to digital?
+<label class="tasks-list-item">
+  <input type="checkbox" class="tasks-list-cb">
+  <span class="tasks-list-mark"></span>
+  <span class="tasks-list-desc">
+  Well, what do you think happens if you are trying to figure out if a signal is over the threshold if it keeps getting smaller?  
+  </span>
+</label>
+<label class="tasks-list-item">
+  <input type="checkbox" class="tasks-list-cb">
+  <span class="tasks-list-mark"></span>
+  <span class="tasks-list-desc">
+    So if the signal gets 'absorbed' by too many things, would you still be able to interpret the signal?
+  </span>
+</label>
+
 
 # Activity - Storage Comparison
+Who likes music and movies?
+Every wonder about those discs that they used to store them on?
+What about NetFlix and why it is a bad idea to use mobile data with it?
 
-# How does attenuation effect digital transmission?
+The thing about digital
+
 
 # Conclusion
 Answer the following in your lab notebook in complete sentences.
@@ -194,3 +240,15 @@ Answer the following in your lab notebook in complete sentences.
   * <font color='blue'>How could I better contributed to a positive classroom environment.</font>
   * <font color='blue'>Summarize what you learned today in 1 sentence.</font>
   * <font color='blue'>Answer the days essential question (EQ).</font>
+
+# Help with absorption
+{: .no_toc}
+So, the property is the amplitude.
+When the sound comes out of the speaker it still sounds like music so the frequency and speed don't change, that leaves the amplitude.
+The muffler makes it smaller.
+So your picture should look something like...
+<figure>
+<img src="/units/3 waves/resources/digital-absorbed-filled.png" alt="drawing" width="90%"/>
+<figcaption>Sketch showing what you should have in your lab notebook for how your muffler changed the sound.</figcaption>
+</figure>
+
