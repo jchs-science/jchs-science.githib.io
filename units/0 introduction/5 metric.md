@@ -68,7 +68,7 @@ And here are the most common combinations that you will run across.
 | W      | watt   | power            | $$\frac{J}{s}$$        |
 
 
-## The Prefixes
+## The Prefixes and Conversions
 The prefixes set the scale of what is being measured.
 Does it make sense to use the same unit to measure the width of a hair and the distance to the moon?
 NO!
@@ -98,7 +98,6 @@ Here is a visualization method that can help with coverting prefixes.
 
 Here is a video that helps you understand just how much can change with each power of 10.  [IBM Powers of 10](https://www.youtube.com/watch?v=0fKBhvDjuy0){: .btn .btn-outline}
 
-## Conversions
 Here is the wonderful  part about powers of ten.
 All the numbers you know are powers of ten, that is how the number system was designed.
 What this means, and you should know this, when you multiple or divide by 10, the decimal moves around, but the numbers DO NOT CHANGE!
