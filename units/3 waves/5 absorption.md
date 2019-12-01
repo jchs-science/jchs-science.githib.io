@@ -95,18 +95,13 @@ Sound you can hear, light you cannot.
 But, for your assessment you are going to talk about absorption with light, so you can take what you learn about absorption with sound, and try it with light.
 
 ## Observations
-**Go and collect the following materials (in a kit) from the front of the room.**
-  * Pie tin
-  * Styrofoam plate
-  * Plastic Cup
-  * Felt
-  * Cotton balls
+**Go and collect materials from the front of the room to test muffling your speaker with**
 
 <label class="tasks-list-item">
   <input type="checkbox" class="tasks-list-cb">
   <span class="tasks-list-mark"></span>
   <span class="tasks-list-desc">
-    Copy the following table into your lab notebook, you'll fill it out.
+    Copy the following table into your lab notebook, putting any other random items you got into the *etc.* spots.
   </span>
 </label>
 
@@ -115,11 +110,20 @@ But, for your assessment you are going to talk about absorption with light, so y
 | Styrofoam Plate |  |  |  |
 | Styrofoam Cup |  |  |  |
 | Plastic Cup |  |  |  |
-| Felt |  |  |  |
-| Cotton Balls |  |  |  |
-| Pie Tin |  |  |  |
-| Cardboard |  |  |  |
-| Coffee Filter |  |  |  |
+| *Etc.* |  |  |  |
+| *Etc.* |  |  |  |
+| *Etc.* |  |  |  |
+| *Etc.* |  |  |  |
+| *Etc.* |  |  |  |
+ 
+
+<label class="tasks-list-item">
+  <input type="checkbox" class="tasks-list-cb">
+  <span class="tasks-list-mark"></span>
+  <span class="tasks-list-desc">
+    Fill in the table for each of the different objects
+  </span>
+</label>
 
 ## Design your own muffler
 Now that you have tried messing with all the different materials, design your own muffler for your phone that will work the best and block all frequencies.
@@ -208,4 +212,7 @@ Answer the following in your lab notebook in complete sentences.
   * Plastic Cup
   * Felt
   * Cotton balls
+
+**Print**
+  * [Paste-in](/units/3 waves/resources/ESS - Absorption/ESS_absorption.pdf){: .btn .btn-outline}
 

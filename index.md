@@ -15,11 +15,11 @@ This is the landing page and contains what Mr. Hicks is doing today, and the wee
 ## [Mr. Hicks' Page](/mr-hicks)
 {: .no_toc}
 
+[Monday/Tuesday: Absorption](/units/3 waves/5 absorption){: .btn .btn-outline}
+
+[Wednesday/Thursday: Digital Communication](/units/3 waves/6 digital){: .btn .btn-outline}
+
 [Thanksgiving - What students need to do to raise their grades](/mr-hicks/thanksgiving){: .btn .btn-outline}
-
-[Monday/Tuesday: Wave-Measurements](/units/3 waves/3 waves measure){: .btn .btn-outline}
-
-[Wednesday/Thursday: What is light?](/units/3 waves/4 particle wave duality){: .btn .btn-outline}
 
 ---
 
