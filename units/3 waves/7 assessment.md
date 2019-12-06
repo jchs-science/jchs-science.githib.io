@@ -3,6 +3,7 @@ layout: default
 title: Assessment
 parent: Waves
 nav_order: 7
+permalink: /waves/assessment
 ---
 
 # Assessment
