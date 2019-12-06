@@ -24,13 +24,13 @@ You should include:
 Use the following plots to help you make decisions as to which frequency you should choose.
 
 <figure>
-<img src="./resources/assessment-absorption.png" alt="drawing" width="90%"/>
+<img src="/units/3 waves/resources/assessment-absorption.png" alt="drawing" width="90%"/>
 <figcaption>Absorption as a function of frequency.</figcaption>
 </figure>
 Remember if the signal is abosorbed by more walls, then you are going to have to have **MORE** towers to have the same coverage as you would if you had a signal that was absorbed less.
 
 <figure>
-<img src="./resources/assessment-bandwidth.png" alt="drawing" width="90%"/>
+<img src="/units/3 waves/resources/assessment-bandwidth.png" alt="drawing" width="90%"/>
 <figcaption>Bandwidth as a function of frequency.</figcaption>
 </figure>
 Remember, if you you have less bandwidth, you will need **MORE** towers to get the same speed for everyone.
@@ -41,6 +41,6 @@ How well you collect and cite information that you find elsewhere.
 How well you VERIFY your information.
 
 <figure>
-<img src="./resources/proficiency.png" alt="drawing" width="90%"/>
+<img src="/units/3 waves/resources/proficiency.png" alt="drawing" width="90%"/>
 <figcaption>Proficiency scale for Waves Assessment</figcaption>
 </figure>
