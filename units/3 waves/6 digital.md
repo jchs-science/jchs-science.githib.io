@@ -15,7 +15,7 @@ EQ - _Why do we use digital signals for transmission and storage of data?_
 Know - _What digital signals are._
 {: .fs-6 .fw-300 .text-blue-000} 
 
-Do - _Analog vs Digital, Storage Comparison, Attenuation_
+Do - _Analog vs Digital, Storage Comparison, Absorption
 {: .fs-6 .fw-300 .text-blue-000}
 
 ## Introduction
@@ -141,7 +141,7 @@ Digital is anything that only has 2 possibilities, 2 states.
 Think of a light switch, not a new fancy one but the old ones, they are either off or on.
 Here is a more extensive list:
 
-| ON | OFF |
+| Off | On |
 |:-----:|:------:|
 | Black | White |
 | No | Yes |
@@ -193,7 +193,7 @@ More on that later too.
 </figure>
 
 
-# How does attenuation effect digital transmission?
+# How does absorption effect digital transmission?
 This is actually fairly straight forward.
 Think back to your activity where you were muffling your speaker.
 <label class="tasks-list-item">
