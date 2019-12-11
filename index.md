@@ -14,33 +14,7 @@ This is the landing page and contains what Mr. Hicks is doing today, and the wee
 ---
 ## [Mr. Hicks' Page](/mr-hicks)
 {: .no_toc}
-[What students need to do to raise their grades](/mr-hicks/thanksgiving){: .btn .btn-outline}
-
-**Agenda for Monday 9 Dec**
-  * Take the quiz on Schoology
-  * Watch this video about [lateral research](https://youtu.be/GoQG6Tin-1E){: .btn .btn-outline} _Of note, if you have extra time, [watch more videos](https://www.youtube.com/playlist?list=PL8dPuuaLjXtN07XYqqWSKpPrtNDiCHTzU) in this series, they are very good._
-  * Work on finding sources for your waves assessment.
-  * If you run out of time, you can work on revising any old assessments, see the link at the top of this section.
-
-What I'm most concerned about with your assessment is if your sources are good.
-So, in the sources box make sure and explain _why_ it is a good source.
-Example, you can use lateral research to show that it is a good source, by finding someone else that says either the same thing, or something similar.
-
-Here are a couple of websites that might help get you started.
-At the very least they can help give you some background on how this project connects to the real world, as well as giving you some search terms.
-  * [The US government's wireless-spectrum auction: Why it matters (FAQ)](https://www.cnet.com/news/the-us-government-is-auctioning-off-wireless-spectrum-why-you-should-care-faq/){: .btn .btn-outline}
-  * [This wikipedia page](https://en.wikipedia.org/wiki/2008_United_States_wireless_spectrum_auction){: .btn .btn-outline} has some of the history as to what happened back in 2008.
-  * [Article on newer 5G service auctions](https://www.cnet.com/news/fcc-sets-date-for-first-5g-spectrum-auction/){: .btn .btn-outline}
-  * [Some of the fundamentals about how cell networks work](https://electronics.howstuffworks.com/cell-phone.htm?utm_source=email&utm_medium=share&utm_campaign=hsw_share){: .btn .btn-outline}
-
-And, for those Speaker/Fan assessments.
-No, I'm not done grading them yet, but I have graded enough to know a few things.
-  * First and foremost, why you succeeded or failed, 3 improvements, and 3 points of comparison to a real speaker/fan all have to deal with things that we talked about in class!  Saying that 'a real one has bluetooth', or that 'they are professionals' does not work.  What you should focus on is how the current and magnetic fields interact in yours compared with a manufactured one.
-  * It helps if you make the comparison with a manufactured one before you list off your improvements, often the comparisons you make _can_ be your improvements.
-  * As far as your pictures go, if you made everything so small that I have no hope of seeing what is going on, that isn't going to work out so well for you.  If you need more paper, **USE IT**.  Some of you have the drawings from our notes, but your context is way off.
-  * Focus on the things that you do have control over, for example magnet and wire placement, not things you don't have control over like the quality of materials.
-  * Oh, and if you want to talk about manufactured having better materials explain ***WHY*** those materials make it better using what you learned about current, magnetic fields, and the forces they create.
-
+[Help](/help){: .btn .btn-outline}
 
 ---
 
