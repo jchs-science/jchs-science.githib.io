@@ -14,7 +14,7 @@ This is the landing page and contains what Mr. Hicks is doing today, and the wee
 ---
 ## [Mr. Hicks' Page](/mr-hicks)
 {: .no_toc}
-[Help](/help){: .btn .btn-outline}
+[Help](/help){: .btn .btn-blue}
 
 ---
 
