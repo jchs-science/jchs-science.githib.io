@@ -20,11 +20,11 @@ Okay, this is a place to try and help outline what you need to do to get your st
 # Spaghetti Assessment
 Okay, here is the handout that you'll need to complete
 
-[Spaghetti Activity Handout](/units/0 introduction/Images/Spaghetti-Combined/Re-Assessment.pdf){: .btn .btn-outline}
+[Spaghetti Activity Handout](/units/0 introduction/Images/Spaghetti-Combined/Re-Assessment.pdf){: .btn .btn-blue}
 
 ## Help with the Units Section
 {: .no_toc}
-[Go Here](/units/0 introduction/5 metric#the-bases){: .btn .btn-outline}
+[Go Here](/units/0 introduction/5 metric#the-bases){: .btn .btn-blue}
 
 That is the section of the website that talks about units.
 Use that to help you fill in the units table.
@@ -39,7 +39,7 @@ If you can't find the quantities on the website, then you should start with wiki
 
 ## Help with the Conversions Section
 {: .no_toc}
-[Go here](/units/0 introduction/5 metric#the-prefixes-and-conversions){: .btn .btn-outline}
+[Go here](/units/0 introduction/5 metric#the-prefixes-and-conversions){: .btn .btn-blue}
 
 First thing you should do is highlight all of the prefixes.
 That is the first letter in each unit.
@@ -73,7 +73,7 @@ It is NOT easy, and requires that you understand how everything is connected.
 
 The easiest way to get your grade up is to re-write the roller coaster assessment.
 
-[Here is a link to the revised handout that has a table for data calculations](/units/1 mechanics/images/RollerCoaster-WithTable/RollerCoaster-WTable.pdf){: .btn .btn-outline}
+[Here is a link to the revised handout that has a table for data calculations](/units/1 mechanics/images/RollerCoaster-WithTable/RollerCoaster-WTable.pdf){: .btn .btn-blue}
 
 ## Help with Roller Coaster Design
 {: .no_toc}
@@ -83,7 +83,7 @@ All else are bonus.
 
 ## Help with Calculation Table
 {: .no_toc}
-[Go here](/mr-hicks/mechanics/1.6.5 RollerCoasterToll Help#2---average-velocity-perspective){: .btn .btn-outline}
+[Go here](/mr-hicks/mechanics/1.6.5 RollerCoasterToll Help#2---average-velocity-perspective){: .btn .btn-blue}
 
 That is the walk-through for the toll, the 2nd section.
 If you look at the calculation table, shown below for convenience.
@@ -92,7 +92,7 @@ The toll was setup so that if you had the distance and the time, you could then 
 
 So, use the toll to walk you through filling out the table.
 
-[Go here for the equations](/mr-hicks/mechanics/summary){: .btn .btn-outline}
+[Go here for the equations](/mr-hicks/mechanics/summary){: .btn .btn-blue}
 
 | Quantity | Equation - Look up | Steel | Glass | Wood |
 |------------------|----------------------------|-----------|-----------|-----------|
@@ -130,6 +130,8 @@ It will be easiest for you to keep track if you have a separate paragraph for ea
 
 ---
 # Speaker/Fan Assessment
+[Here is the handout for it](/units/2 em-fields/images/Assessment/EM Assessment.pdf){: .btn .btn-blue}
+
 To be honest, I do not have too much help with this one yet.
 What I'll do though is explain better what I'm looking for for each section.
 
@@ -153,7 +155,7 @@ When in doubt, I want to know ***WHY*** much more than I want to know what.
 The best thing you can do here is actually draw your picture on a full sheet of paper and then 'zoom in' on several places where the current, magnetic field, and therefore force are all interacting.
 Then you can clearly show the direction of everything.
 
-[Look at the last page of notes here for an example](/mr-hicks/em-fields/2.0 EM Summary.pdf){: .btn .btn-outline}
+[Look at the last page of notes here for an example](/mr-hicks/em-fields/2.0 EM Summary.pdf){: .btn .btn-blue}
 
 _Of note, knowing the direction of everything could help with how you could improve your design..._
 
@@ -165,7 +167,7 @@ And no, the wire does not energize the magnets and make them vibrate.
 
 ---
 # Cellphone Frequency - Waves Assessment
-[Here is a handout that you can fill out](/units/3 waves/resources/WavesAssessment/WavesAssessment.pdf){: .btn .btn-outline}
+[Here is a handout that you can fill out](/units/3 waves/resources/WavesAssessment/WavesAssessment.pdf){: .btn .btn-blue}
 
 There are three emphasis with this assignment:
   1. Facts about waves - tested as a quiz
