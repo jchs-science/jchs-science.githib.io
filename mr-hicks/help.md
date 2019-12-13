@@ -94,17 +94,19 @@ So, use the toll to walk you through filling out the table.
 
 [Go here for the equations](/mr-hicks/mechanics/summary){: .btn .btn-blue}
 
+Now, if you have no data at all, used the values that are given in the table below.
+
 | Quantity | Equation - Look up | Steel | Glass | Wood |
-|------------------|----------------------------|-----------|-----------|-----------|
-| Mass | -- | 0.0085 kg | 0.0037 kg | 0.0007 kg |
-| Distance | Recorded from the activity |  |  |  |
-| Time | Recorded from the activity |  |  |  |
+|:----------------:|:------------------:|:---------:|:---------:|:---------:|
+| Mass | --- | 0.0085 kg | 0.0037 kg | 0.0007 kg |
+| Distance | --- | 3.67 m | 3.67 m | 3.67 m |
+| Time | --- | 1.4 s | 1.5 s | 1.6 s |
 | Velocity |  |  |  |  |
 | Acceleration |  |  |  |  |
 | Force |  |  |  |  |
 | Momentum |  |  |  |  |
 | Kinetic Energy |  |  |  |  |
-| Height |  |  |  |  |
+| Height | --- | 2.0 m | 2.2 m | 2.4 m |
 | Potential Energy |  |  |  |  |
 
 ## Help with Writeup
