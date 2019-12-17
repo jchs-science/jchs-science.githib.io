@@ -16,6 +16,16 @@ This is the landing page and contains what Mr. Hicks is doing today, and the wee
 {: .no_toc}
 [Help](/help){: .btn .btn-blue}
 
+**Things to do if you have free time**
+Over the weekend I found some fun ways to learn about the world around us.
+The first is an article that you can go through, and write captions for the pictures.
+See how much detail you can spot.
+
+[Caption the pictures in this article](https://learning.blogs.nytimes.com/2015/02/27/10-intriguing-photographs-to-teach-close-reading-and-visual-thinking-skills){: .btn .btn-blue}
+
+Next, here are 8 mini-documentaries:
+[Link to mini-documentaries](https://learning.blogs.nytimes.com/2016/03/10/8-compelling-mini-documentaries-to-teach-close-reading-and-critical-thinking-skills/){: .btn .btn-blue}
+
 ---
 
 ## Week-by-Week - Physical Science Department Plan
