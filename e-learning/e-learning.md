@@ -15,30 +15,30 @@ Go [here](/index){: .btn .btn-outline}, or click through the side bar for additi
   </tr>
   <tr>
     <td align="center">11</td>
-    <td align="center">16-20 Dec</td>
-    <td>Finals</td>
+    <td align="center">1-3 Apr</td>
+    <td></td>
   </tr>
   <tr>
     <th colspan="3" align="left">Human Impact</th>
   </tr>
   <tr>
     <td align="center">12</td>
-    <td align="center">12-15 Nov</td>
+    <td align="center">6-10 Apr</td>
     <td></td>
   </tr>
   <tr>
     <td align="center">13</td>
-    <td align="center">4-8 Nov</td>
+    <td align="center">13-17 Apr</td>
     <td></td>
   </tr>
   <tr>
     <td align="center">14</td>
-    <td align="center">28-01 Nov</td>
+    <td align="center">20-24 Apr</td>
     <td></td>
   </tr>
   <tr>
     <td align="center">15</td>
-    <td align="center">21-25 Oct</td>
+    <td align="center">27 Apr - 1 May</td>
     <td></td>
   </tr>
   <tr>
@@ -46,17 +46,17 @@ Go [here](/index){: .btn .btn-outline}, or click through the side bar for additi
   </tr>
   <tr>
     <td align="center">16</td>
-    <td align="center">9-12 Sep</td>
+    <td align="center">4-8 May</td>
     <td></td>
   </tr>
   <tr>
     <td align="center">17</td>
-    <td align="center">16-19 Sep</td>
+    <td align="center">11-15 May</td>
     <td></td>
   </tr>
   <tr>
     <td align="center">18</td>
-    <td align="center">23-26 Sep</td>
+    <td align="center">18-21 May</td>
     <td></td>
   </tr>
 </table>
