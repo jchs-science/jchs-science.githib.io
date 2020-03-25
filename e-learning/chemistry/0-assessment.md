@@ -4,122 +4,45 @@ title: Chemistry Assessment
 nav_order: 1
 parent: E-Learning
 mathjax: true
-permalink: /mr-hicks/chemistry
+permalink: /mr-hicks/chemistry/assessment
 ---
 
-# Electricity and Magnetism (E/M)
-[ALL EM notes combined](/mr-hicks/em-fields/2.0 EM Summary.pdf){: .btn .btn-outline}
+# [Link to Video in OneNote](external link){: .btn .btn-outline}
 
----
 
-<!-- table of contents for the page -->
-## Table of contents
-{: .no_toc .text-delta }
+# Summary
 
-1. TOC
-{:toc}
+  * Your assessment is on OneNote
+  * There is a page for each level; 2, 3, and 4.
+  * You MUST complete level 2 before doing level 3 AND you must complete level 3 before doing level 4. *This is because the lower levels help set the expectations for the higher levels.*
 
----
 
-# Fields
-[Fields Notes](/mr-hicks/em-fields/2.1 Fields.pdf){: .btn .btn-outline}
-
-**Check List**
-  * Fields
-  * Sticky Tape Lab - fill out form below
-  * Journal
-    1. How did I behave in class today?
-    2. What can I do to better contribute to a positive classroom environment?
-    3. Come up with a model to explain what you saw in the sticky tape lab.
-
-<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=2pNwzRMrok2198ZQP0iNs31cX8DUQ_xEjrOkTCSQz29UODVDTjhRM0tUT1lNUUk0N0JBTEdCMFpMVi4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
-
-# Charge
-[Charge Notes](/mr-hicks/em-fields/2.2 Charge.pdf){: .btn .btn-outline}
-
-**Check List**
-  * Charges
-  * Sticky Tape Review
-  * [PhET Simulations](/units/2 em-fields/2 fields and charge#activity---phet-balloons){: .btn .btn-outline}
-    - Balloons
-    - John Travoltage
-    - PhET Hockey
-  * [Exit Ticket](/mr-hicks/em-fields/2.2 ExitTicket/2.2ExitTicket.pdf){: .btn .btn-outline}
-
-# How-to Science
-[How-to Science Notes](/mr-hicks/em-fields/2.2.5 HowToScience.pdf){: .btn .btn-outline}
-
-**Check List**
-  * What is the _science_ part of class?
-  * How-to Science - Roller Coaster Toll Help
-  * What are you learning in class
-  * Summary of Mechanics
-  * [Exit Ticket](/mr-hicks/em-fields/2.2.5 ExitTicket/ExitTicket.pdf){: .btn .btn-outline}
-
-I'm going to explain briefly what this lecture/discussion was all about.
-In observing all of your troubles with the roller coaster assessment, and the subsequent toll, I realized that many of you have no idea what part of this class is the science, and what part isn't.
-
-Now, I've said this before, and only some believe me, but my goal is not to turn all of you into scientists that use their knowledge of mechanics in their daily lives, but rather, to teacher you problem solving.  THAT is the part of this class that I'm considering the science, the problem solving.
-
-To that end, there is a three step process to science.
-1. Write out what you want.
-2. Write out what you know.
-3. Repeat.
-
-It is the repeat step that is the science, the figuring out how what you know changes what you want.
-The notes I have you take then are supposed to be tools you can use to fill out the 'what do I know' step.
-
-This is why when I come over and talk to you because you ask a question, I now ask, 'What do you know', because I'm trying to help you through the thinking process.
-
-# Self-grading and Reflecting
-[Self-grading and Reflecting](/mr-hicks/em-fields/2.2.6 Selfgrade.pdf){: .btn .btn-outline}
-
-**Check List**
-  * Discussion on stress/anxiety/etc.
-  * Rubric into check list
-  * Work time
-    - Summarize Mechanics
-    - Work on the roller coaster toll/re-assessment/re-write
-
-**Summary**
-
-Many of you are shutting down and not trying because of stress and anxiety.
-Especially right now around conferences.
-The truth is, you should never be surprised by the grade you get on ANY assignment because every teacher should give you their rubric for the assignment and you can then grade yourself.
-If you are stressed, then you should pre-grade yourself.
-If you don't know how to pre-grade yourself, PRACTICE!!!
-
-I recommend that you turn your rubrics into checklists, and I'll try and do that from now on for you.
-
-# Magnetism
-There are no notes for this class.
-Instead, you are playing with magnets, developing a model, and then reading about how charges can interact with magnetic fields.
-
-**Check List**
-  * Play with magnets
-  * Come up with a model
-  * Read about the interaction between magnetic fields and charges
-  * Work time
-    - Summarize Mechanics
-    - Roller coaster toll/re-assessment/re-write.
-
-# Current
-[Current Notes](/mr-hicks/em-fields/2.4 Current.pdf){: .btn .btn-outline}
-
-**Check List**
-  * Current
-  * Magnetism Part II
-  * Electro-Magnet Lab
-
-# Electricity and Magnetism
-[EM Notes](/mr-hicks/em-fields/2.5 EM.pdf){: .btn .btn-outline}
-
-**Check List**
-  * The force
-  * Rope demonstration
-  * [Building an electric motor](/mr-hicks/em-fields/2.5 Building a Simple Electric Motor.pdf){: .btn .btn-outline}
-
-# Assessment
-[Planning Packet](/units/2 em-fields/images/Assessment - Planning/EM Assessment - Planning.pdf){: .btn .btn-outline}
-
-[Assignment](/units/2 em-fields/images/Assessment/EM Assessment.pdf){: .btn .btn-outline}
+# Check List
+<label class="tasks-list-item">
+   <input type="checkbox" class="tasks-list-cb">
+   <span class="tasks-list-mark"></span>
+   <span class="tasks-list-desc">
+     Read on OneNote - Chemistry/8.0 - Assessment Introduction
+   </span>
+ </label> 
+ <label class="tasks-list-item">
+   <input type="checkbox" class="tasks-list-cb">
+   <span class="tasks-list-mark"></span>
+   <span class="tasks-list-desc">
+     Complete on OneNote: Chemistry/8.1 - Level 2
+   </span>
+ </label>
+ <label class="tasks-list-item">
+   <input type="checkbox" class="tasks-list-cb">
+   <span class="tasks-list-mark"></span>
+   <span class="tasks-list-desc">
+     Complete on OneNote: Chemistry/8.2 - Level 3
+   </span>
+ </label>
+ <label class="tasks-list-item">
+   <input type="checkbox" class="tasks-list-cb">
+   <span class="tasks-list-mark"></span>
+   <span class="tasks-list-desc">
+     Complete on OneNote: Chemistry/8.3 - Level 4
+   </span>
+ </label>
