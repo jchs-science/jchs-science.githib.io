@@ -48,6 +48,9 @@ During **ANY** window you may log in and have a video conference with me.
 If after a week or two there are windows that no one is using, I reserve the right to change/remove windows of time.
 *(By ANY I mean that even if you aren't in a class you can still log during that window if that time works better for you)*
 
+What I mean by 'Office Hours' is that I'm going to be sitting at my computer, with my video chat up, chat client open, Schoology open so that you can reach me without delay.
+You got a question, pop in and I'll answer it.
+
 <table style="border-collapse: collapse;" border="1">
   <tr>
     <th>Time</th>
@@ -77,10 +80,10 @@ If after a week or two there are windows that no one is using, I reserve the rig
   </tr>
   <tr>
     <td>10:00-10:30</td>
-    <td>Advisory</td>
-    <td>Advisory</td>
-    <td>Advisory</td>
-    <td>Advisory</td>
+    <td>Office Hours</td>
+    <td>Office Hours</td>
+    <td>Office Hours</td>
+    <td>Office Hours</td>
   </tr>
   <tr>
     <td>10:30-11:00</td>
