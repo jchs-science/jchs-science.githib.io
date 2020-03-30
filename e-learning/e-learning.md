@@ -42,14 +42,11 @@ Here is how you get a hold of me:
   * Through a message in Schoology *(click the mail icon in Schoology, click 'New Message', and send it to 'Jeffrey Hicks')*
   * Office hours online.  There is a link here in Schoology to a Microsoft Team that when you click into it you can join a video feed.  There is also a chat client there.  During my 'Office Hours', I'll be sitting there with that window open waiting...
 
-## Office Hours Schedule
-I have a 30 minute window during each of my normal class times.
+## Class Hours Schedule
+I have a 45 minute window during each of my normal class times.
 During **ANY** window you may log in and have a video conference with me.
 If after a week or two there are windows that no one is using, I reserve the right to change/remove windows of time.
 *(By ANY I mean that even if you aren't in a class you can still log during that window if that time works better for you)*
-
-What I mean by 'Office Hours' is that I'm going to be sitting at my computer, with my video chat up, chat client open, Schoology open so that you can reach me without delay.
-You got a question, pop in and I'll answer it.
 
 <table style="border-collapse: collapse;" border="1">
   <tr>
@@ -58,94 +55,43 @@ You got a question, pop in and I'll answer it.
     <th>Tuesday</th>
     <th>Wednesday</th>
     <th>Thursday</th>
+    <th>Friday</th>
   </tr>
   <tr>
-    <td>8:30-9:00</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>9:00-9:30</td>
-    <td></td>
-    <td rowspan="2">Unavailable</td>
-    <td></td>
-    <td rowspan="2">Unavailable</td>
-  </tr>
-  <tr>
-    <td>9:30-10:00</td>
+    <td>9:00-9:45</td>
     <td>Office Hours</td>
+    <td></td>
     <td>Office Hours</td>
+    <td></td>
+    <td rowspan="3">Student Contact Time</td>
   </tr>
   <tr>
-    <td>10:00-10:30</td>
+    <td>10:00-10:45</td>
     <td>Office Hours</td>
     <td>Office Hours</td>
     <td>Office Hours</td>
     <td>Office Hours</td>
   </tr>
   <tr>
-    <td>10:30-11:00</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>11:00-11:30</td>
+    <td>11:00-11:45</td>
     <td>Office Hours</td>
     <td>Office Hours</td>
     <td>Office Hours</td>
     <td>Office Hours</td>
   </tr>
   <tr>
-    <td>11:30-12:00</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1:00-1:30</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>1:30-2:00</td>
+    <td>1:00-1:45</td>
     <td>Office Hours</td>
     <td>Office Hours</td>
     <td>Office Hours</td>
     <td>Office Hours</td>
-  </tr>
-  <tr>
-    <td>2:00-2:30</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2:30-3:00</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>3:00-3:30</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Faculty meetings</td>
   </tr>
 </table>
 
 I'm available by appointment at any other time with at least 24 hours notice.
 
-Should the need arise after the first week or so, I'll consider removing some of the earlier timeslots in favor of some later in the day.
+Should the need arise after the first week or so, I'll consider removing some of the earlier time-slots in favor of some later in the day.
 But to start I'm going to stick as close to the normal schedule windows as possible.
 
 
