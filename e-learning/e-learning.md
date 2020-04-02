@@ -1,13 +1,113 @@
 ---
 layout: default
-title: E-Learning
+title: E-Learning - Syllabus
 nav_order: 12
-has_children: true
 mathjax: true
 permalink: /e-learning
 ---
-# E-Learning with Mr. Hicks
+# Physical Science Week-by-Week Overview
+<table  style="border-collapse: collapse;" border="1">
+  <!-- Chemistry -->
+  <tr>
+    <th colspan="3" align="center"><a href="/e-learning/chemistry">Chemistry</a></th>
+  </tr>
+  <tr>
+    <th align="center">Week</th>
+    <th align="center">Day - Date</th>
+    <th align="left">Folder Link</th>
+  </tr>
+  <!-- Week 12 -->
+  <tr>
+    <td rowspan="2" align="center">12</td>
+    <td align="center">1 - Apr 6, 7</td>
+    <td><a href="/e-learning/12-1">Intro and Assessment</a></td>
+  </tr>
+  <tr>
+    <td align="center">2 - Apr 8, 9</td>
+    <td>Assessment Workday</td>
+  </tr>
+<!-- Human Impact -->
+  <tr>
+    <th colspan="3" align="center"><a href="/e-learning/human-impact">Human Impact</a></th>
+  </tr>
+  <tr>
+    <th align="center">Week</th>
+    <th align="center">Day - Date</th>
+    <th align="left">Links</th>
+  </tr>
+  <!-- Week 13 -->
+  <tr>
+    <td rowspan="2" align="center">13</td>
+    <td align="center">1 - Apr 13, 14</td>
+    <td>Unit Intro/Resources</td>
+  </tr>
+  <tr>
+    <td align="center">2 - Apr 15, 16</td>
+    <td>Sources?</td>
+  </tr>
+  <!-- Week 14 -->
+  <tr>
+    <td rowspan="2" align="center">14</td>
+    <td align="center">1 - Apr 20, 21</td>
+    <td>MLA Citation</td>
+  </tr>
+  <tr>
+    <td align="center">2 - Apr 22, 23</td>
+    <td>Debate</td>
+  </tr>
+  <!-- Week 15 -->
+  <tr>
+    <td rowspan="2" align="center">15</td>
+    <td align="center">1 - Apr 27, 28</td>
+    <td>Introduce Outline</td>
+  </tr>
+  <tr>
+    <td align="center">2 - Apr 29, 20</td>
+    <td>Outline Workday</td>
+  </tr>
+  <!-- Week 16 -->
+  <tr>
+    <td rowspan="2" align="center">16</td>
+    <td align="center">1 - May 4, 5</td>
+    <td>Final Project Workday</td>
+  </tr>
+  <tr>
+    <td align="center">2 - May 6, 7</td>
+    <td>Final Project Workday DUE</td>
+  </tr>
+<!-- Earth Science -->
+  <tr>
+    <th colspan="3" align="center"><a href="/e-learning/geology">Geology</a></th>
+  </tr>
+  <tr>
+    <th align="center">Week</th>
+    <th align="center">Day - Date</th>
+    <th align="left">Links</th>
+  </tr>
 
+  <!-- Week 17 -->
+  <tr>
+    <td rowspan="2" align="center">17</td>
+    <td align="center">1 - May 11, 12</td>
+    <td>Too soon to tell</td>
+  </tr>
+  <tr>
+    <td align="center">2 - May 13, 14</td>
+    <td>Way, way too soon.</td>
+  </tr>
+  <!-- Week 18 -->
+  <tr>
+    <td rowspan="2" align="center">18</td>
+    <td align="center">1 - May 18, 19</td>
+    <td>Don't even go there...</td>
+  </tr>
+  <tr>
+    <td align="center">2 - May 20, 21</td>
+    <td>In the final stretch!</td>
+  </tr>
+</table>
+
+# E-Learning with Mr. Hicks
 ## Overview
 Welcome to these new and different times!
 Learning is just as important as ever, and to be honest, this time is a great opportunity to begin developing skills you can use as a lifelong learner.
@@ -93,106 +193,3 @@ I'm available by appointment at any other time with at least 24 hours notice.
 
 Should the need arise after the first week or so, I'll consider removing some of the earlier time-slots in favor of some later in the day.
 But to start I'm going to stick as close to the normal schedule windows as possible.
-
-
-# Week-by-Week Overview
-<table  style="border-collapse: collapse;" border="1">
-  <!-- Chemistry -->
-  <tr>
-    <th colspan="3" align="center">Chemistry</th>
-  </tr>
-  <tr>
-    <th align="center">Week</th>
-    <th align="center">Day - Date</th>
-    <th align="left">Folder Link</th>
-  </tr>
-  <!-- Week 12 -->
-  <tr>
-    <td rowspan="2" align="center">12</td>
-    <td align="center">1 - Apr 6, 7</td>
-    <td>Intro and Assessment</td>
-  </tr>
-  <tr>
-    <td align="center">2 - Apr 8, 9</td>
-    <td>Assessment Workday</td>
-  </tr>
-<!-- Human Impact -->
-  <tr>
-    <th colspan="3" align="center">Human Impact</th>
-  </tr>
-  <tr>
-    <th align="center">Week</th>
-    <th align="center">Day - Date</th>
-    <th align="left">Links</th>
-  </tr>
-  <!-- Week 13 -->
-  <tr>
-    <td rowspan="2" align="center">13</td>
-    <td align="center">1 - Apr 13, 14</td>
-    <td>Unit Intro/Resources</td>
-  </tr>
-  <tr>
-    <td align="center">2 - Apr 15, 16</td>
-    <td>Sources?</td>
-  </tr>
-  <!-- Week 14 -->
-  <tr>
-    <td rowspan="2" align="center">14</td>
-    <td align="center">1 - Apr 20, 21</td>
-    <td>MLA Citation</td>
-  </tr>
-  <tr>
-    <td align="center">2 - Apr 22, 23</td>
-    <td>Debate</td>
-  </tr>
-  <!-- Week 15 -->
-  <tr>
-    <td rowspan="2" align="center">15</td>
-    <td align="center">1 - Apr 27, 28</td>
-    <td>Introduce Outline</td>
-  </tr>
-  <tr>
-    <td align="center">2 - Apr 29, 20</td>
-    <td>Outline Workday</td>
-  </tr>
-  <!-- Week 16 -->
-  <tr>
-    <td rowspan="2" align="center">16</td>
-    <td align="center">1 - May 4, 5</td>
-    <td>Final Project Workday</td>
-  </tr>
-  <tr>
-    <td align="center">2 - May 6, 7</td>
-    <td>Final Project Workday DUE</td>
-  </tr>
-<!-- Earth Science -->
-  <tr>
-    <th colspan="3" align="center">Earth Science</th>
-  </tr>
-  <tr>
-    <th align="center">Week</th>
-    <th align="center">Day - Date</th>
-    <th align="left">Links</th>
-  </tr>
-
-  <!-- Week 17 -->
-  <tr>
-    <td rowspan="2" align="center">17</td>
-    <td align="center">1 - May 11, 12</td>
-    <td>Too soon to tell</td>
-  </tr>
-  <tr>
-    <td align="center">2 - May 13, 14</td>
-    <td>Way, way too soon.</td>
-  </tr>
-  <!-- Week 18 -->
-  <tr>
-    <td rowspan="2" align="center">18</td>
-    <td align="center">1 - May 18, 19</td>
-    <td>Don't even go there...</td>
-  </tr>
-  <tr>
-    <td align="center">2 - May 20, 21</td>
-    <td>In the final stretch!</td>
-  </tr>
-</table>
