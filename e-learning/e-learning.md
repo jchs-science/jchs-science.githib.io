@@ -108,6 +108,8 @@ permalink: /e-learning
 </table>
 
 # E-Learning with Mr. Hicks
+<div style="position: relative; padding-bottom: 56.27198124267292%; height: 0;"><iframe src="https://www.loom.com/embed/64a64e0f155a4f39969854180fdc58b2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 ## Overview
 Welcome to these new and different times!
 Learning is just as important as ever, and to be honest, this time is a great opportunity to begin developing skills you can use as a lifelong learner.
