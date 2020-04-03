@@ -108,7 +108,7 @@ permalink: /e-learning
 </table>
 
 # E-Learning with Mr. Hicks
-<div style="position: relative; padding-bottom: 63.60424028268551%; height: 0;"><iframe src="https://www.loom.com/embed/4e4926fc98144ab9b24e7d4f07bca1d5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<iframe width="640" height="408" src="https://www.loom.com/embed/4e4926fc98144ab9b24e7d4f07bca1d5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Overview
 Welcome to these new and different times!
