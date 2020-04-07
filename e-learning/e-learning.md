@@ -24,7 +24,7 @@ permalink: /e-learning
   </tr>
   <tr>
     <td align="center">2 - Apr 8, 9</td>
-    <td>Assessment Workday</td>
+    <td><a href="/e-learning/12-2">Assessment Workday</a></td>
   </tr>
 <!-- Human Impact -->
   <tr>
@@ -39,21 +39,21 @@ permalink: /e-learning
   <tr>
     <td rowspan="2" align="center">13</td>
     <td align="center">1 - Apr 13, 14</td>
-    <td>Unit Intro/Resources</td>
+    <td><a href="/e-learning/13-1">Unit Intro/Resources</a></td>
   </tr>
   <tr>
     <td align="center">2 - Apr 15, 16</td>
-    <td>Sources?</td>
+    <td><a href="/e-learning/13-2">Sources?</a></td>
   </tr>
   <!-- Week 14 -->
   <tr>
     <td rowspan="2" align="center">14</td>
     <td align="center">1 - Apr 20, 21</td>
-    <td>MLA Citation</td>
+    <td><a href="/e-learning/14-1">MLA Citation</a></td>
   </tr>
   <tr>
     <td align="center">2 - Apr 22, 23</td>
-    <td>Debate</td>
+    <td><a href="/e-learning/14-2">Debate</a></td>
   </tr>
   <!-- Week 15 -->
   <tr>
