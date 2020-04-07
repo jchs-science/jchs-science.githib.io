@@ -145,10 +145,10 @@ Here is how you get a hold of me:
   * Office hours online.  There is a link here in Schoology to a Microsoft Team that when you click into it you can join a video feed.  There is also a chat client there.  During my 'Office Hours', I'll be sitting there with that window open waiting...
 
 ## Class Hours Schedule
-I have a 45 minute window during each of my normal class times.
-During **ANY** window you may log in and have a video conference with me.
-If after a week or two there are windows that no one is using, I reserve the right to change/remove windows of time.
-*(By ANY I mean that even if you aren't in a class you can still log during that window if that time works better for you)*
+Each 'day' (meaning M/T or W/R) there is a 15 minute class discussion at the beginning of the hour.
+After that is a 30 minute Q&A to answer questions.
+
+Every day from 10:00-10:45 there is an 'Office Hour' that **ANY** student can attend.
 
 <table style="border-collapse: collapse;" border="1">
   <tr>
@@ -160,37 +160,55 @@ If after a week or two there are windows that no one is using, I reserve the rig
     <th>Friday</th>
   </tr>
   <tr>
-    <td>9:00-9:45</td>
-    <td>Office Hours</td>
-    <td></td>
-    <td>Office Hours</td>
-    <td></td>
-    <td rowspan="3">Student Contact Time</td>
+    <td>9:00-9:15</td>
+    <td>B1 - Class Discussion</td>
+    <td rowspan="2">W1 - Class</td>
+    <td>B1 - Class Discussion</td>
+    <td rowspan="2">W1 - Class</td>
+    <td rowspan="5">Student Contact Time</td>
+  </tr>
+  <tr>
+    <td>9:15-9:45</td>
+    <td>B1 - Q&amp;A</td>
+    <td>B1 - Q&amp;A</td>
   </tr>
   <tr>
     <td>10:00-10:45</td>
-    <td>Office Hours</td>
-    <td>Office Hours</td>
-    <td>Office Hours</td>
-    <td>Office Hours</td>
+    <td colspan="4">Office Hours</td>
   </tr>
   <tr>
-    <td>11:00-11:45</td>
-    <td>Office Hours</td>
-    <td>Office Hours</td>
-    <td>Office Hours</td>
-    <td>Office Hours</td>
+    <td>11:00-11:15</td>
+    <td>B3 - Class Discussion</td>
+    <td>W3 - Class Discussion</td>
+    <td>B3 - Class Discussion</td>
+    <td>W3 - Class Discussion<br></td>
   </tr>
   <tr>
-    <td>1:00-1:45</td>
-    <td>Office Hours</td>
-    <td>Office Hours</td>
-    <td>Office Hours</td>
-    <td>Office Hours</td>
-    <td>Faculty meetings</td>
+    <td>11:15-11:45</td>
+    <td>B3 - Q&amp;A</td>
+    <td>W3 - Q&amp;A</td>
+    <td>B3 - Q&amp;A</td>
+    <td>W3 - Q&amp;A</td>
+  </tr>
+  <tr>
+    <td>1:00-1:15</td>
+    <td>B4 - Class Discussion</td>
+    <td>W4 - Class Discussion</td>
+    <td>B4 - Class Discussion</td>
+    <td>W4 - Class Discussion</td>
+    <td rowspan="2">Faculty Meetings</td>
+  </tr>
+  <tr>
+    <td>1:15-1:45</td>
+    <td>B4 - Q&amp;A</td>
+    <td>W4 - Q&amp;A</td>
+    <td>B4 - Q&amp;A</td>
+    <td>W4 - Q&amp;A</td>
   </tr>
 </table>
 
+
+****
 I'm available by appointment at any other time with at least 24 hours notice.
 
 Should the need arise after the first week or so, I'll consider removing some of the earlier time-slots in favor of some later in the day.
