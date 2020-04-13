@@ -39,11 +39,11 @@ permalink: /e-learning
   <tr>
     <td rowspan="2" align="center">13</td>
     <td align="center">1 - Apr 13, 14</td>
-    <td><a href="/e-learning/13-1">Unit Intro/Resources</a></td>
+    <td><a href="/e-learning/13-1">Renewable Energy Sources</a></td>
   </tr>
   <tr>
     <td align="center">2 - Apr 15, 16</td>
-    <td><a href="/e-learning/13-2">Sources?</a></td>
+    <td><a href="/e-learning/13-2">Quality of Sources</a></td>
   </tr>
   <!-- Week 14 -->
   <tr>
