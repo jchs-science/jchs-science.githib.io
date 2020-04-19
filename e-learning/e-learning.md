@@ -47,13 +47,9 @@ permalink: /e-learning
   </tr>
   <!-- Week 14 -->
   <tr>
-    <td rowspan="2" align="center">14</td>
-    <td align="center">1 - Apr 20, 21</td>
-    <td><a href="/e-learning/14-1">MLA Citation</a></td>
-  </tr>
-  <tr>
-    <td align="center">2 - Apr 22, 23</td>
-    <td><a href="/e-learning/14-2">Debate</a></td>
+    <td align="center">14</td>
+    <td align="center">1,2 - Apr 20-23</td>
+    <td><a href="/e-learning/14">Citing Sources</a></td>
   </tr>
   <!-- Week 15 -->
   <tr>
