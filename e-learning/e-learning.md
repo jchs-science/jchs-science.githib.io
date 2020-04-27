@@ -105,7 +105,9 @@ permalink: /e-learning
 
 # E-Learning with Mr. Hicks
 ## Video
-<iframe width="640" height="400" src="/e-learning/Syllabus.mp4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<video width="640" height="400" poster="Syllabus.png" controls>
+  <source src="Syllabus.mp4" type="video/mp4">
+</video>
 [*(Link to video in HD)*](https://www.loom.com/embed/4e4926fc98144ab9b24e7d4f07bca1d5)
 
 ## Overview

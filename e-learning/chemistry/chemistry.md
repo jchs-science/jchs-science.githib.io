@@ -9,8 +9,16 @@ This is the landing page for the chemistry unit of E-Learning.
 
 # Help with balancing equations
 ## Video - The new Easier Way
-<iframe width="640" height="400" src="/e-learning/chemistry/BalancingEq2_small.mp4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<video width="640" height="400"
+       poster="/e-learning/chemistry/BalancingEq2_small.png" 
+       controls>
+  <source src="/e-learning/chemistry/BalancingEq2_small.mp4" type="video/mp4">
+</video>
 
 ## Video - The old longer way
-<iframe width="640" height="400" src="/e-learning/chemistry/Balancing_Equations.mp4" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<video width="640" height="400"
+       poster="/e-learning/chemistry/Balancing_Equations.png" 
+       controls>
+  <source src="/e-learning/chemistry/Balancing_Equations.mp4" type="video/mp4">
+</video>
 [*(Link to video in HD)*](https://www.loom.com/embed/7351d1de1eb446d89e9fb45237d79a77)
