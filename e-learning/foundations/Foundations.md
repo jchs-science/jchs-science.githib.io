@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Wk13 - Big Numbers - Video
+title: E-Learning - Foundations Videos
 mathjax: true
 permalink: /e-learning/foundations
-nav_exclude: true
+nav_order: 100
 ---
 # 1 - Big Numbers
 The following is a video to help with filling out the first assignment posted in Schoology.
