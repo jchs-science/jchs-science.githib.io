@@ -6,6 +6,7 @@ parent: Mr. Hicks
 mathjax: true
 permalink: /mr-hicks/grading-policies
 ---
+# Grading Policies
 <video width="640" height="400"
        poster="/mr-hicks/vids/grading-policies.png"
        controls>

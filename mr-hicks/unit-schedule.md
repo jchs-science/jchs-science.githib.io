@@ -6,6 +6,8 @@ parent: Mr. Hicks
 mathjax: true
 permalink: /mr-hicks/unit-schedule
 ---
+# Unit Schedule
+
 All assignment numbers match up with the pages in the OneNote notebook.
 [Here is a link to the parent notebook.](https://usd475-my.sharepoint.com/:o:/g/personal/jeffreyhicks_usd475_org/Ev5RzL1Le8xOiJYuyba-qp0BUFaSZUgUYlGMzjUSEZt0ag?e=igjaJ0){: .btn .btn-outline}
 

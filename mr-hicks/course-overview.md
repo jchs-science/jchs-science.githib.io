@@ -6,7 +6,7 @@ parent: Mr. Hicks
 mathjax: true
 permalink: /mr-hicks/course-overview
 ---
-
+# Course Overview
 [Here is a link to the parent notebook.](https://usd475-my.sharepoint.com/:o:/g/personal/jeffreyhicks_usd475_org/Ev5RzL1Le8xOiJYuyba-qp0BUFaSZUgUYlGMzjUSEZt0ag?e=igjaJ0){: .btn .btn-outline}
 
 This is a course on Physical Science - all the science that involve tangible things that aren't living.
