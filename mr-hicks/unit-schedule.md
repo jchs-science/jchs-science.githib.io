@@ -62,7 +62,6 @@ All assignment numbers match up with the pages in the OneNote notebook.
     <td><ul>
             <li>Work time to finish 2.2 (DUE)</li>
             <li>Do 3.1</li>
-            <li>Do 3.2</li>
         </ul>
         
         <p style="text-align: center;"><strong>
@@ -73,6 +72,7 @@ All assignment numbers match up with the pages in the OneNote notebook.
 <tr style="background-color: #dae8fc;">
     <td>T - 15 Sep</td>
     <td><ul>
+            <li>Do 3.2</li>
             <li>4.1 (GRADED - due end of Wednesday)</li>
         </ul>
         
