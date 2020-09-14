@@ -29,7 +29,9 @@ All assignment numbers match up with the pages in the OneNote notebook.
             <li>Start notes together</li>
         </ul>
         
-        <p style="text-align: center;"><strong>HW - Finish notes for 1.1</strong></p>
+        <p style="text-align: center;"><strong>
+            HW - Finish notes for 1.1
+        </strong></p>
     </td>
 </tr>
 <tr>
@@ -57,7 +59,7 @@ All assignment numbers match up with the pages in the OneNote notebook.
         <p style="text-align: center;"><strong>HW - 2.2 - Graded - Due Monday</strong></p>
     </td>
 </tr>
-<tr style="background-color: #dae8fc;">
+<tr>
     <td>M - 14 Sep</td>
     <td><ul>
             <li>Work time to finish 2.2 (DUE)</li>
@@ -72,8 +74,10 @@ All assignment numbers match up with the pages in the OneNote notebook.
 <tr style="background-color: #dae8fc;">
     <td>T - 15 Sep</td>
     <td><ul>
-            <li>Do 3.2</li>
+            <li>Review 3.1</li>
+            <li>Do 3.2A/B</li>
             <li>4.1 (GRADED - due end of Wednesday)</li>
+            <li>IF you are done and IN CLASS ONLY - 3.3</li>
         </ul>
         
         <p style="text-align: center;"><strong>
@@ -81,7 +85,7 @@ All assignment numbers match up with the pages in the OneNote notebook.
         </strong></p>
     </td>
 </tr>
-<tr style="background-color: #dae8fc;">
+<tr >
     <td>W - 16 Sep</td>
     <td><ul>
             <li>Do 5.1</li>
@@ -93,7 +97,7 @@ All assignment numbers match up with the pages in the OneNote notebook.
         </strong></p>
     </td>
 </tr>
-<tr style="background-color: #dae8fc;">
+<tr >
     <td>R - 17 Sep</td>
     <td><ul>
             <li>Do 6.1 (Graded, Due Friday)</li>
@@ -104,7 +108,7 @@ All assignment numbers match up with the pages in the OneNote notebook.
         </strong></p>
     </td>
 </tr>
-<tr style="background-color: #dae8fc;">
+<tr >
     <td>F - 18 Sep</td>
     <td><ul>
             <li>Do 7.1 - Graded - Due Monday</li>
