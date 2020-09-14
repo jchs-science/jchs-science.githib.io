@@ -1,5 +1,4 @@
-th,
-td {
+@table td {
   @include fs-3;
   min-width: 120px;
   padding-top: $sp-2;
