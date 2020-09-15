@@ -71,7 +71,7 @@ All assignment numbers match up with the pages in the OneNote notebook.
         </strong></p>
     </td>
 </tr>
-<tr style="background-color: #dae8fc;">
+<tr>
     <td>T - 15 Sep</td>
     <td><ul>
             <li>Review 3.1</li>
@@ -85,7 +85,7 @@ All assignment numbers match up with the pages in the OneNote notebook.
         </strong></p>
     </td>
 </tr>
-<tr >
+<tr style="background-color: #dae8fc;">
     <td>W - 16 Sep</td>
     <td><ul>
             <li>Do 5.1</li>
