@@ -107,6 +107,7 @@ We can then determine how old something is by how little carbon-14 is left when 
 
 # Electrons
 Electrons are tiny (relative to protons and neutrons), negatively charged, sub-atomic particles that fly around the outside of every atom.
+Because electrons are on the outside, they are what interact with everything, so the electron determine how the atom interacts with things.
 
 | Mass | Charge | Location |
 |------|--------|----------|
