@@ -88,35 +88,48 @@ All assignment numbers match up with the pages in the OneNote notebook.
 <tr style="background-color: #dae8fc;">
     <td>W - 16 Sep</td>
     <td><ul>
+            <li>Review 4.1</li>
             <li>Do 5.1</li>
-            <li>Do 5.2</li>
         </ul>
         
         <p style="text-align: center;"><strong>
-            HW - Make sure 5.2 is done
+            HW - Make sure 5.1 is done - contest tomorrow
         </strong></p>
     </td>
 </tr>
 <tr >
     <td>R - 17 Sep</td>
     <td><ul>
-            <li>Do 6.1 (Graded, Due Friday)</li>
+            <li>5.1 - Vote for the best</li>
+            <li>Summary</li>
+            <li>Do 5.2</li>
         </ul>
         
         <p style="text-align: center;"><strong>
-            HW - 6.1 - Graded - Due Friday
+            HW - 5.2
         </strong></p>
     </td>
 </tr>
 <tr >
     <td>F - 18 Sep</td>
     <td><ul>
-            <li>Do 7.1 - Graded - Due Monday</li>
+            <li>Do 6.1 (Graded, Due Monday)</li>
+        </ul>
+        
+        <p style="text-align: center;"><strong>
+            HW - 6.1 - Graded - Due Monday
+        </strong></p>
+    </td>
+</tr>
+<tr >
+    <td>M - 21 Sep</td>
+    <td><ul>
+            <li>Do 7.1 - Graded - Due Tuesday</li>
             <li>Start Analogy Assignment</li>
         </ul>
         
         <p style="text-align: center;"><strong>
-            Hw - 7.1 - Graded - Due Monday
+            Hw - 7.1 - Graded - Due Tuesday
         </strong></p>
     </td>
 </tr>
