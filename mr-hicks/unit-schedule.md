@@ -121,18 +121,18 @@ All assignment numbers match up with the pages in the OneNote notebook.
 <tr >
     <td>M - 21 Sep</td>
     <td><ul>
-            <li>Do 6.1 (Graded, Due Monday)</li>
+            <li>Do 6.1 (Graded, Due Tuesday)</li>
         </ul>
         
         <p style="text-align: center;"><strong>
-            HW - 6.1 - Graded - Due Monday
+            HW - 6.1 - Graded - Due Tuesda
         </strong></p>
     </td>
 </tr>
 <tr >
     <td>Tues - 22 Sep</td>
     <td><ul>
-            <li>Do 7.1 - Graded - Due Tuesday</li>
+            <li>Do 7.1 - Graded - Due Wednesday</li>
             <li>Start Analogy Assignment</li>
         </ul>
         
