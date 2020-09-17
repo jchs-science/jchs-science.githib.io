@@ -34,3 +34,10 @@ It is the assignment that wraps everything together.
   * I will accept ALL assignments within a unit at any time for for full credit.  This means that if a student is late, they are not penalized if they turn it in within the unit.
   * I will accept the final assignment of each unit at ANY time during the semester, for full credit.  If a student does nothing during a unit, they can always do the last assignment to get a grade for that unit.
   * I will accept revisions on the final assignment from each unit at ANY time for full credit.  It is important that students learn to accept and incorporate feedback, and if they are willing to put in the time to honestly revise something, I'll grade it and give them what they are due.
+
+# Gradebook setup
+<video width="640" height="400"
+       poster="/mr-hicks/vids/grading-2.png"
+       controls>
+  <source src="/mr-hicks/vids/grading-2.mp4" type="video/mp4">
+</video>
