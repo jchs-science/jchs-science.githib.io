@@ -97,11 +97,19 @@ All assignment numbers match up with the pages in the OneNote notebook.
         </strong></p>
     </td>
 </tr>
-<tr style="background-color: #dae8fc;">
+<tr>
     <td>R - 17 Sep</td>
     <td><ul>
             <li>5.1 - Vote for the best</li>
-            <li>Summary</li>
+            <li>Start Summary</li>
+        </ul>
+    </td>
+</tr>
+<tr style="background-color: #dae8fc;">
+    <td>F - 18 Sep</td>
+    <td><ul>
+            <li>WHY?!?!?!</li>
+            <li>Finish Summary</li>
             <li>Do 5.2</li>
         </ul>
         
@@ -111,7 +119,7 @@ All assignment numbers match up with the pages in the OneNote notebook.
     </td>
 </tr>
 <tr >
-    <td>F - 18 Sep</td>
+    <td>M - 21 Sep</td>
     <td><ul>
             <li>Do 6.1 (Graded, Due Monday)</li>
         </ul>
@@ -122,14 +130,25 @@ All assignment numbers match up with the pages in the OneNote notebook.
     </td>
 </tr>
 <tr >
-    <td>M - 21 Sep</td>
+    <td>Tues - 22 Sep</td>
     <td><ul>
             <li>Do 7.1 - Graded - Due Tuesday</li>
             <li>Start Analogy Assignment</li>
         </ul>
         
         <p style="text-align: center;"><strong>
-            Hw - 7.1 - Graded - Due Tuesday
+            Hw - 7.1 - Graded - Due Wednesday
+        </strong></p>
+    </td>
+</tr>
+<tr >
+    <td>Wed - 23 Sep</td>
+    <td><ul>
+            <li>Workday - LAST DAY IN UNIT</li>
+        </ul>
+        
+        <p style="text-align: center;"><strong>
+            Hw - Analogy due Thursday
         </strong></p>
     </td>
 </tr>
