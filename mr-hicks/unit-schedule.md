@@ -118,37 +118,50 @@ All assignment numbers match up with the pages in the OneNote notebook.
         </strong></p>
     </td>
 </tr>
-<tr style="background-color: #dae8fc;">
+<tr>
     <td>M - 21 Sep</td>
     <td><ul>
-            <li>Do 6.1 (Graded, Due Tuesday)</li>
+            <li>Do 6.1 (Graded, Due Wednesday)</li>
         </ul>
         
         <p style="text-align: center;"><strong>
-            HW - 6.1 - Graded - Due Tuesda
+            HW - 6.1 - Graded - Due Wednesday
         </strong></p>
     </td>
 </tr>
-<tr >
+<tr style="background-color: #dae8fc;">
     <td>Tues - 22 Sep</td>
     <td><ul>
-            <li>Do 7.1 - Graded - Due Wednesday</li>
-            <li>Start Analogy Assignment</li>
+            <li>Finish 6.1 - Graded - Due Wednesday</li>
+            <li>Do 7.1 - Graded - Due Thursday</li>
+            <li>IF TIME - 5.2</li>
         </ul>
         
         <p style="text-align: center;"><strong>
-            Hw - 7.1 - Graded - Due Wednesday
+            Hw - 7.1 - Graded - Due Thursday
         </strong></p>
     </td>
 </tr>
-<tr >
+<tr>
     <td>Wed - 23 Sep</td>
     <td><ul>
-            <li>Workday - LAST DAY IN UNIT</li>
+            <li>Do 5.2</li>
+            <li>Introduce Asssessment - Due Friday</li>
         </ul>
         
         <p style="text-align: center;"><strong>
-            Hw - Analogy due Thursday
+            Hw - Analogy due Friday
+        </strong></p>
+    </td>
+</tr>
+<tr>
+    <td>Thursday - 24 Sep</td>
+    <td><ul>
+            <li>Workday</li>
+        </ul>
+        
+        <p style="text-align: center;"><strong>
+            Hw - Analogy due Friday
         </strong></p>
     </td>
 </tr>
