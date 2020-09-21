@@ -105,7 +105,7 @@ All assignment numbers match up with the pages in the OneNote notebook.
         </ul>
     </td>
 </tr>
-<tr style="background-color: #dae8fc;">
+<tr>
     <td>F - 18 Sep</td>
     <td><ul>
             <li>WHY?!?!?!</li>
@@ -118,7 +118,7 @@ All assignment numbers match up with the pages in the OneNote notebook.
         </strong></p>
     </td>
 </tr>
-<tr >
+<tr style="background-color: #dae8fc;">
     <td>M - 21 Sep</td>
     <td><ul>
             <li>Do 6.1 (Graded, Due Tuesday)</li>
