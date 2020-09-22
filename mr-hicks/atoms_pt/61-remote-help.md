@@ -86,15 +86,55 @@ Remember, the question is:
     Q1 - Do things have an exact size?
 
 ## 4.1 - Observations
+For this you are looking at the summary graph that I made.
+Linked below for convienence.
+
+[Link to the summary chart](/mr-hicks/atoms_pt/summary.png){: .btn .btn-outline}
+
+Look at the blue dots because those are the measurements that students made of the candy bars.
+Make observations about the blue dots in the graphs.
+Note, you don't necessarily make notes for each, just the interesting ones.
+
+For example, look at mass.
+Are those values closer together than the others?
+Why might that be?
+That is an observation you could make.
 
 ## 4.2 - Conclusion
+Note, every student was given a fun-sized candy bar.
+
+And the equipment used is shown in the picture.
+(Mr. Hicks has cooler toys...)
+
+<figure>
+<img src="/mr-hicks/atoms_pt/equipment.jpeg" alt="Length" width="50%"/>
+<figcaption>Mass of the candy bar</figcaption>
+</figure>
+
+Now, for the claim, evidence, and reasoning.
+  * Claim is your answer, are do things have an exact size, or don't they.
+  * Evidence are the observations that SUPPORT your claim.  The easiest way is to just copy and paste the relevent observations from your observations above.
+  * Reason is what connects your observation to your claim.  Explain WHY your observation supports your claim.
 
 
 # 5 - Observations & Conclusions - Q2
+Remember the question for this part is:
 
+    Q2:  What happens to the density of a chocolate bar (or anything) as you decrease its size?
 
 ## 5.1 - Observations
+Now go back and look at the last to plots in the summary, Density, and Density without outliers.
+
+Compare the values Mr. Hicks got with his much larger candy bar (the lines), with the dots of values measured by students.
+
+Are they the same?
+Are they different?
+That is what you are trying to answer.
 
 ## 5.2 - Conclusion
+For the claim, evidence, and reasoning.
+  * Claim is your answer, are do things have an exact size, or don't they.
+  * Evidence are the observations that SUPPORT your claim.  The easiest way is to just copy and paste the relevent observations from your observations above.
+  * Reason is what connects your observation to your claim.  Explain WHY your observation supports your claim.
 
 ##
