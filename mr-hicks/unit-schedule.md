@@ -142,7 +142,7 @@ All assignment numbers match up with the pages in the OneNote notebook.
         </strong></p>
     </td>
 </tr>
-<tr style="background-color: #dae8fc;">
+<tr>
     <td>Wed - 23 Sep</td>
     <td><ul>
             <li>Do 5.2</li>
@@ -154,7 +154,7 @@ All assignment numbers match up with the pages in the OneNote notebook.
         </strong></p>
     </td>
 </tr>
-<tr>
+<tr style="background-color: #dae8fc;">
     <td>Thursday - 24 Sep</td>
     <td><ul>
             <li>Workday</li>
