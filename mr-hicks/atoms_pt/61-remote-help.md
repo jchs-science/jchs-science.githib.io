@@ -9,6 +9,13 @@ permalink: /mr-hicks/atoms_pt/61-remote-help
 # Introduction to Help
 **insert a video here**
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 # 1 - Lab Introduction
 For this lab there are 2 questions.
 For each, you need to have a hypothesis, a statement of what you think the answer to the question is.
