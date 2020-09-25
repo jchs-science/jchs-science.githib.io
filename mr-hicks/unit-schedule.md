@@ -154,7 +154,7 @@ All assignment numbers match up with the pages in the OneNote notebook.
         </strong></p>
     </td>
 </tr>
-<tr style="background-color: #dae8fc;">
+<tr>
     <td>Thursday - 24 Sep</td>
     <td><ul>
             <li>Workday</li>
@@ -162,6 +162,17 @@ All assignment numbers match up with the pages in the OneNote notebook.
         
         <p style="text-align: center;"><strong>
             Hw - Analogy due Friday
+        </strong></p>
+    </td>
+</tr>
+<tr style="background-color: #dae8fc;">
+    <td>Friday - 25 Sep</td>
+    <td><ul>
+            <li>Workday</li>
+        </ul>
+        
+        <p style="text-align: center;"><strong>
+            Hw - Analogy due TODaY!!!
         </strong></p>
     </td>
 </tr>
