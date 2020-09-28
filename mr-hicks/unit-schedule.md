@@ -19,7 +19,7 @@ All assignment numbers match up with the pages in the OneNote notebook.
     </tr>
 </thead>
 <tbody>
-<tr>
+<tr style="background-color: #dae8fc;">
     <td>Monday - 28 Sep</td>
     <td>
         <ul>
