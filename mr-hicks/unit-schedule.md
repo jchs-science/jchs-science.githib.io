@@ -6,11 +6,6 @@ parent: Mr. Hicks
 mathjax: true
 permalink: /mr-hicks/unit-schedule
 ---
-# Unit Schedule
-
-All assignment numbers match up with the pages in the OneNote notebook.
-[Here is a link to the parent notebook.](https://usd475-my.sharepoint.com/:o:/g/personal/jeffreyhicks_usd475_org/Ev5RzL1Le8xOiJYuyba-qp0BUFaSZUgUYlGMzjUSEZt0ag?e=igjaJ0){: .btn .btn-outline}
-
 <table class="s_table_border" border="1">
 <thead>
     <tr>
@@ -20,6 +15,20 @@ All assignment numbers match up with the pages in the OneNote notebook.
 </thead>
 <tbody>
 <tr style="background-color: #dae8fc;">
+    <td>Tuesday - 29 Sep</td>
+    <td>
+        <ul>
+            <li>Wrap up from the demonstration</li>
+            <li>Simple Reactions Lab - Due Thursday</li>
+            <li>Bonding Notes</li>
+        </ul>
+        
+        <!-- <p style="text-align: center;"><strong>
+            
+        </strong></p> -->
+    </td>
+</tr> 
+<tr>
     <td>Monday - 28 Sep</td>
     <td>
         <ul>
@@ -36,8 +45,6 @@ All assignment numbers match up with the pages in the OneNote notebook.
 </tbody>
 </table>
 
-<video width="640" height="400"
-       poster="/mr-hicks/vids/unit-schedule.png"
-       controls>
-  <source src="/mr-hicks/vids/unit-schedule.mp4" type="video/mp4">
-</video>
+# Parent Links
+  * [Here is a link to the parent notebook.](https://usd475-my.sharepoint.com/:o:/g/personal/jeffreyhicks_usd475_org/Ev5RzL1Le8xOiJYuyba-qp0BUFaSZUgUYlGMzjUSEZt0ag?e=igjaJ0){: .btn .btn-outline}
+  * [Video overview of the unit schedule](https://jchs-science.github.io/mr-hicks/vids/unit-schedule.mp4){: .btn .btn-outline}
