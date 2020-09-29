@@ -15,6 +15,21 @@ permalink: /mr-hicks/unit-schedule
 </thead>
 <tbody>
 <tr style="background-color: #dae8fc;">
+    <td>Wednesday - 30 Sep</td>
+    <td>
+        <ul>
+            <li>How To - Unit 1 Revisions</li>
+            <li>Questions over - 3 Bonding Notes</li>
+            <li>4 - Mr. Hicks' Bonding Notes</li>
+            <li>5 - Bonding Basics</li>
+        </ul>
+        
+        <!-- <p style="text-align: center;"><strong>
+            
+        </strong></p> -->
+    </td>
+</tr> 
+<tr>
     <td>Tuesday - 29 Sep</td>
     <td>
         <ul>
