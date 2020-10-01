@@ -14,23 +14,18 @@ permalink: /mr-hicks/unit-schedule
     </tr>
 </thead>
 <tbody>
-<<!-- tr style="background-color: #dae8fc;">
+<tr style="background-color: #dae8fc;">
     <td>Thursday - 1 Oct</td>
     <td>
         <ul>
             <li>Answer ??? over balancing (6,7)</li>
             <li>8 - PHET - Balancing Equations</li>
             <li>9 - Practice Balancing</li>
-            <li>11 - Balancing Equation - Escape Room</li>
-            <li>12 - Balancing Summary (GRADED - Schoology)</li>
+            <li>11 - Balancing Equation - Escape Room</li></li>
         </ul>
-        
-        <p style="text-align: center;"><strong>
-            12 - Balancing Summary (GRADED - in Schoology)
-        </strong></p>
     </td>
-</t -->r>
-<tr style="background-color: #dae8fc;">
+</tr>
+<tr>
     <td>Thursday - 1 Oct</td>
     <td>
         <ul>
