@@ -14,6 +14,22 @@ permalink: /mr-hicks/unit-schedule
     </tr>
 </thead>
 <tbody>
+<<!-- tr style="background-color: #dae8fc;">
+    <td>Thursday - 1 Oct</td>
+    <td>
+        <ul>
+            <li>Answer ??? over balancing (6,7)</li>
+            <li>8 - PHET - Balancing Equations</li>
+            <li>9 - Practice Balancing</li>
+            <li>11 - Balancing Equation - Escape Room</li>
+            <li>12 - Balancing Summary (GRADED - Schoology)</li>
+        </ul>
+        
+        <p style="text-align: center;"><strong>
+            12 - Balancing Summary (GRADED - in Schoology)
+        </strong></p>
+    </td>
+</t -->r>
 <tr style="background-color: #dae8fc;">
     <td>Thursday - 1 Oct</td>
     <td>
@@ -22,12 +38,12 @@ permalink: /mr-hicks/unit-schedule
             <li>Questions over - 5 - Bonding Basics</li>
             <li>6 - Pair bonding</li>
             <li>7 - Why we balance equations</li>
-            <li>8 - PHET - Balancing Equations</li>
+            
         </ul>
         
-        <!-- <p style="text-align: center;"><strong>
-            
-        </strong></p> -->
+        <p style="text-align: center;"><strong>
+            Finish 7 - Why we balance equations
+        </strong></p>
     </td>
 </tr>
 <tr >
