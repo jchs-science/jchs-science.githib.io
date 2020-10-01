@@ -15,6 +15,22 @@ permalink: /mr-hicks/unit-schedule
 </thead>
 <tbody>
 <tr style="background-color: #dae8fc;">
+    <td>Thursday - 1 Oct</td>
+    <td>
+        <ul>
+            <li>15 minute - Wrap up 5 - Bonding Basics</li>
+            <li>Questions over - 5 - Bonding Basics</li>
+            <li>6 - Pair bonding</li>
+            <li>7 - Why we balance equations</li>
+            <li>8 - PHET - Balancing Equations</li>
+        </ul>
+        
+        <!-- <p style="text-align: center;"><strong>
+            
+        </strong></p> -->
+    </td>
+</tr>
+<tr >
     <td>Wednesday - 30 Sep</td>
     <td>
         <ul>
@@ -28,7 +44,7 @@ permalink: /mr-hicks/unit-schedule
             
         </strong></p> -->
     </td>
-</tr> 
+</tr>
 <tr>
     <td>Tuesday - 29 Sep</td>
     <td>
