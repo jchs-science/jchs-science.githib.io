@@ -15,13 +15,14 @@ permalink: /mr-hicks/unit-schedule
 </thead>
 <tbody>
 <tr style="background-color: #dae8fc;">
-    <td>Thursday - 1 Oct</td>
+    <td>Friday - 2 Oct</td>
     <td>
+        <i>(We'll come back to 5, 6, 7 on Monday - I have a better way, it is the way...)</i>
         <ul>
-            <li>Answer ??? over balancing (6,7)</li>
+            <li>Story Time - Teaching/Learing Science</li>
             <li>8 - PHET - Balancing Equations</li>
             <li>9 - Practice Balancing</li>
-            <li>11 - Balancing Equation - Escape Room</li></li>
+            <li>11 - Balancing Equation - Escape Room</li>
         </ul>
     </td>
 </tr>
