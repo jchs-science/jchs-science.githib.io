@@ -54,11 +54,12 @@ permalink: /mr-hicks/unit-schedule
         </strong></p> -->
     </td>
 </tr>
-<tr>
-    <td>Tuesday - 6 Sep</td>
+<tr style="background-color: #dae8fc;">
+    <td>Tuesday - 6 Oct</td>
     <td>
         <ul>
             <li>??? over 9 - Balancing Equations</li>
+            <li>10 - Practice 2</li>
             <li>13 - Balancing Summary - Graded in Schoology Due Thursday</li>
             <li>14 - Phase Notes</li>
         </ul>
@@ -68,7 +69,7 @@ permalink: /mr-hicks/unit-schedule
         </strong></p>
     </td>
 </tr> 
-<tr style="background-color: #dae8fc;">
+<tr>
     <td>Monday - 5 Oct</td>
     <td>
         <ul>
