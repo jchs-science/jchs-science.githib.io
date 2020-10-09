@@ -14,21 +14,21 @@ permalink: /mr-hicks/unit-schedule
     </tr>
 </thead>
 <tbody>
-<tr>
+<tr style="background-color: #dae8fc;">
     <td>Friday - 9 Oct</td>
     <td>
         <ul>
             <li>15 min to finish 18 - Ice Cream Writeup</li>
-            <li>19 - Rates Demonstrations</li>
-            <li>20 - Types Demonstrations</li>
+            <li>19 - optional - Salting the Roads</li>
+            <li>20 - Demos Types/Rates</li>
         </ul>
         
-        <!-- <p style="text-align: center;"><strong>
-            
-        </strong></p> -->
+        <p style="text-align: center;"><strong>
+            18 - ICE CREAM!!! - Graded, in Schoology - Due Monday
+        </strong></p>
     </td>
 </tr>
-<tr style="background-color: #dae8fc;">
+<tr>
     <td>Thursday - 8 Oct</td>
     <td>
         <ul>
