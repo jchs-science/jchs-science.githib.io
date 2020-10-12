@@ -14,7 +14,34 @@ permalink: /mr-hicks/unit-schedule
     </tr>
 </thead>
 <tbody>
+<tr>
+    <td>Wednesday - 14 Oct</td>
+    <td>
+        <ul>
+            <li>Workday</li>
+        </ul>
+        
+        <p style="text-align: center;"><strong>
+            22 - Assessment - Due Tuesday!!
+        </strong></p>
+    </td>
+</tr> 
 <tr style="background-color: #dae8fc;">
+    <td>Tuesday - 13 Oct</td>
+    <td>
+        <ul>
+            <li>??? 15 - Types of Reactions</li>
+            <li>??? 21 - Rates of Reactions</li>
+            <li>Introduce: 22 - Assessment</li>
+            <li>Work time</li>
+        </ul>
+        
+        <!-- <p style="text-align: center;"><strong>
+            
+        </strong></p> -->
+    </td>
+</tr>
+<tr>
     <td>Friday - 9 Oct</td>
     <td>
         <ul>
