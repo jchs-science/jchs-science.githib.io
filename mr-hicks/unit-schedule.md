@@ -22,7 +22,7 @@ permalink: /mr-hicks/unit-schedule
         </ul>
         
         <p style="text-align: center;"><strong>
-            22 - Assessment - Due Tuesday!!
+            22 - Assessment - Due TODAY-Wednesday!!
         </strong></p>
     </td>
 </tr> 
