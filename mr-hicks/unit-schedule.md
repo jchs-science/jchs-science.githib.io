@@ -14,7 +14,19 @@ permalink: /mr-hicks/unit-schedule
     </tr>
 </thead>
 <tbody>
-<tr style="background-color: #dae8fc;">
+    <tr style="background-color: #dae8fc;">
+    <td>Thursday - 15 Oct</td>
+    <td>
+        <ul>
+            <li>??? 1 - The Problem</li>
+            <li>??? About climate change</li>
+            <li>2 - Notes - Renewable Energy</li>
+            <li>3 - Comparison & Contrast</li>
+        </ul>
+        <center><b>HW - 3 - Get done what you can!! Due - Tuesday (some time to work on Monday)</b></center>
+    </td>
+</tr>
+<tr>
     <td>Thursday - 15 Oct</td>
     <td>
         <ul>
