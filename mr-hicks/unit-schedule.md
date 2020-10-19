@@ -15,7 +15,7 @@ permalink: /mr-hicks/unit-schedule
 </thead>
 <tbody>
 <tr style="background-color: #dae8fc;">
-    <td>Friday - 16 Oct</td>
+    <td>Monday - 19 Oct</td>
     <td>
         <ul>
             <li>3 - Comparison & Contrast (Schoology)</li>
