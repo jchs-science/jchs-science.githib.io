@@ -14,7 +14,17 @@ permalink: /mr-hicks/unit-schedule
     </tr>
 </thead>
 <tbody>
-    <tr style="background-color: #dae8fc;">
+<tr style="background-color: #dae8fc;">
+    <td>Friday - 16 Oct</td>
+    <td>
+        <ul>
+            <li>3 - Comparison & Contrast (Schoology)</li>
+            <li>4 - Fact vs Opinion (OneNote)</li>
+        </ul>
+        <center><b>HW - 3 - Get done what you can!! Due - Tuesday (some time to work on Monday)</b></center>
+    </td>
+</tr>
+<tr>
     <td>Friday - 16 Oct</td>
     <td>
         <ul>
