@@ -15,6 +15,14 @@ permalink: /mr-hicks/unit-schedule
 </thead>
 <tbody>
 <tr style="background-color: #dae8fc;">
+    <td>Tuesday - 20 Oct</td>
+    <td>
+        <ul>
+            <li>Movie Catchup Day</li>
+        </ul>
+    </td>
+</tr>
+<tr>
     <td>Monday - 19 Oct</td>
     <td>
         <ul>
