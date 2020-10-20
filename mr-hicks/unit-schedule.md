@@ -14,6 +14,44 @@ permalink: /mr-hicks/unit-schedule
     </tr>
 </thead>
 <tbody>
+<tr>
+    <td>Wk 9 - 26-29 Oct</td>
+    <td>
+        <ul>
+            <li>Work Day</li>
+        </ul>
+        <center><b>
+            Finish outline and revise any FINAL assignments for other grades.</b></center>
+    </td>
+</tr>
+<tr>
+    <td>Friday - 23 Oct</td>
+    <td>
+        <ul>
+            <li>Outline</li>
+        </ul>
+    </td>
+</tr>
+<tr>
+    <td>Thursday - 22 Oct</td>
+    <td>
+        <ul>
+            <li>5 - Evidence</li>
+            <li>6 - Sourcecs</li>
+        </ul>
+    </td>
+</tr>
+<tr>
+    <td>Wednesday - 21 Oct</td>
+    <td>
+        <ul>
+            <li>FINAL ASSIGNMENT REVIEW</li>
+            <li>Go over 5 & 6</li>
+            <li>5 - Evidence</li>
+            <li>6 - Sourcecs</li>
+        </ul>
+    </td>
+</tr>
 <tr style="background-color: #dae8fc;">
     <td>Tuesday - 20 Oct</td>
     <td>
