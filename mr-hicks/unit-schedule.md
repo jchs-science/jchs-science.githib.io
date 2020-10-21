@@ -33,17 +33,17 @@ permalink: /mr-hicks/unit-schedule
         </ul>
     </td>
 </tr>
-<tr>
+<tr style="background-color: #dae8fc;">
     <td>Thursday - 22 Oct</td>
     <td>
         <ul>
-            <li>FINAL ASSIGNMENT REVIEW (videos)</li>
+            <li>Revision Help Videos</li>
             <li>5 - Evidence</li>
             <li>6 - Sourcecs</li>
         </ul>
     </td>
 </tr>
-<tr style="background-color: #dae8fc;">
+<tr>
     <td>Wednesday - 21 Oct</td>
     <td>
         <ul>
