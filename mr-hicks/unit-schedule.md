@@ -28,7 +28,8 @@ permalink: /mr-hicks/unit-schedule
     <td>Friday - 23 Oct</td>
     <td>
         <ul>
-            <li>Outline</li>
+            <li>7 - Sorting Evidence</li>
+            <li>8 - Outline</li>
         </ul>
     </td>
 </tr>
@@ -36,23 +37,24 @@ permalink: /mr-hicks/unit-schedule
     <td>Thursday - 22 Oct</td>
     <td>
         <ul>
-            <li>5 - Evidence</li>
-            <li>6 - Sourcecs</li>
-        </ul>
-    </td>
-</tr>
-<tr>
-    <td>Wednesday - 21 Oct</td>
-    <td>
-        <ul>
-            <li>FINAL ASSIGNMENT REVIEW</li>
-            <li>Go over 5 & 6</li>
+            <li>FINAL ASSIGNMENT REVIEW (videos)</li>
             <li>5 - Evidence</li>
             <li>6 - Sourcecs</li>
         </ul>
     </td>
 </tr>
 <tr style="background-color: #dae8fc;">
+    <td>Wednesday - 21 Oct</td>
+    <td>
+        <ul>
+            <li>Go over 5 & 6</li>
+            <li>5 - Evidence</li>
+            <li>6 - Sourcecs</li>
+            <li>Optional if you are going for a 4...</li>
+        </ul>
+    </td>
+</tr>
+<tr>
     <td>Tuesday - 20 Oct</td>
     <td>
         <ul>
