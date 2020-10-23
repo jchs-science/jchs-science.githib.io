@@ -24,7 +24,7 @@ permalink: /mr-hicks/unit-schedule
             Finish outline and revise any FINAL assignments for other grades.</b></center>
     </td>
 </tr>
-<tr>
+<tr style="background-color: #dae8fc;">
     <td>Friday - 23 Oct</td>
     <td>
         <ul>
@@ -33,7 +33,7 @@ permalink: /mr-hicks/unit-schedule
         </ul>
     </td>
 </tr>
-<tr style="background-color: #dae8fc;">
+<tr>
     <td>Thursday - 22 Oct</td>
     <td>
         <ul>
