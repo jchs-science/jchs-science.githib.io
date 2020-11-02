@@ -14,85 +14,35 @@ permalink: /mr-hicks/unit-schedule
     </tr>
 </thead>
 <tbody>
-<tr style="background-color: #dae8fc;">
-    <td>Wk 9 - 26-29 Oct</td>
+<tr<!--  style="background-color: #dae8fc;" -->>
+    <td>Tuesday - 3 Nov</td>
     <td>
         <ul>
-            <li>Work Day</li>
+            <li>1 - Speed, Distance, and Time</li>
         </ul>
         <center><b>
-            Finish outline and revise any FINAL assignments for other grades.</b></center>
+            We are going outside! Dress appropriately!!!
+        </b></center>
     </td>
 </tr>
-<tr>
-    <td>Friday - 23 Oct</td>
+<tr style="background-color: #dae8fc;">
+    <td>Monday - 2 Nov</td>
     <td>
         <ul>
-            <li>7 - Sorting Evidence</li>
-            <li>8 - Outline</li>
+            <li>??? OneNote ???</li>
+            <li>Sharing what we learned about our energy</li>
+            <li>Hydro-electric?</li>
+            <li>Solar?</li>
+            <li>Geothermal?</li>
+            <li>Wind?</li>
+            <li>What Else???</li>
         </ul>
+        <!-- <center><b>
+
+            </b></center> -->
     </td>
 </tr>
-<tr>
-    <td>Thursday - 22 Oct</td>
-    <td>
-        <ul>
-            <li>Revision Help Videos</li>
-            <li>5 - Evidence</li>
-            <li>6 - Sourcecs</li>
-        </ul>
-    </td>
-</tr>
-<tr>
-    <td>Wednesday - 21 Oct</td>
-    <td>
-        <ul>
-            <li>Go over 5 & 6</li>
-            <li>5 - Evidence</li>
-            <li>6 - Sourcecs</li>
-            <li>Optional if you are going for a 4...</li>
-        </ul>
-    </td>
-</tr>
-<tr>
-    <td>Tuesday - 20 Oct</td>
-    <td>
-        <ul>
-            <li>Movie Catchup Day</li>
-        </ul>
-    </td>
-</tr>
-<tr>
-    <td>Monday - 19 Oct</td>
-    <td>
-        <ul>
-            <li>3 - Comparison & Contrast (Schoology)</li>
-            <li>4 - Fact vs Opinion (OneNote)</li>
-        </ul>
-        <center><b>HW - 3 - Get done what you can!! Due - Tuesday (some time to work on Monday)</b></center>
-    </td>
-</tr>
-<tr>
-    <td>Friday - 16 Oct</td>
-    <td>
-        <ul>
-            <li>??? 1 - The Problem</li>
-            <li>??? About climate change</li>
-            <li>2 - Notes - Renewable Energy</li>
-            <li>3 - Comparison & Contrast</li>
-        </ul>
-        <center><b>HW - 3 - Get done what you can!! Due - Tuesday (some time to work on Monday)</b></center>
-    </td>
-</tr>
-<tr>
-    <td>Thursday - 15 Oct</td>
-    <td>
-        <ul>
-            <li>FINISH 22 from Chemistry</li>
-            <li>1 - The Problem from 3 - Renewable Energy</li>
-        </ul>
-    </td>
-</tr>
+
 </tbody>
 </table>
 
