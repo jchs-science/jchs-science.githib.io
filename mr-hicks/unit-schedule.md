@@ -14,18 +14,18 @@ permalink: /mr-hicks/unit-schedule
     </tr>
 </thead>
 <tbody>
-<tr>
+<tr style="background-color: #dae8fc;">
     <td>Tuesday - 3 Nov</td>
     <td>
         <ul>
-            <li>1 - Speed, Distance, and Time</li>
+            <li>1 - Distance and Time</li>
         </ul>
         <center><b>
             We are going outside! Dress appropriately!!!
         </b></center>
     </td>
 </tr>
-<tr style="background-color: #dae8fc;">
+<tr>
     <td>Monday - 2 Nov</td>
     <td>
         <ul>
