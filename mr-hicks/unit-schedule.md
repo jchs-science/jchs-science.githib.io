@@ -14,7 +14,7 @@ permalink: /mr-hicks/unit-schedule
     </tr>
 </thead>
 <tbody>
-<tr<!--  style="background-color: #dae8fc;" -->>
+<tr>
     <td>Tuesday - 3 Nov</td>
     <td>
         <ul>
