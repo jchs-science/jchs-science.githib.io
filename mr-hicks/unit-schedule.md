@@ -14,8 +14,8 @@ permalink: /mr-hicks/unit-schedule
     </tr>
 </thead>
 <tbody>
-<tr style="background-color: #dae8fc;">
-    <td>Tuesday - 3 Nov</td>
+<tr>
+    <td>Wednesday - 4 Nov</td>
     <td>
         <ul>
             <li>1 - Distance and Time</li>
@@ -23,6 +23,14 @@ permalink: /mr-hicks/unit-schedule
         <center><b>
             We are going outside! Dress appropriately!!!
         </b></center>
+    </td>
+</tr>
+<tr style="background-color: #dae8fc;">
+    <td>Tuesday - 3 Nov</td>
+    <td>
+        <ul>
+            <li>2 - Metric System</li>
+        </ul>
     </td>
 </tr>
 <tr>
