@@ -15,6 +15,18 @@ permalink: /mr-hicks/unit-schedule
 </thead>
 <tbody>
 <tr style="background-color: #dae8fc;">
+    <td>Thursday - 5 Nov</td>
+    <td>
+        <ul>
+            <li>3 - M*** in Science</li>
+            <li>2 - Metric System</li>
+        </ul>
+        <center><b>
+            We are going outside! Dress appropriately!!!
+        </b></center>
+    </td>
+</tr>
+<tr>
     <td>Wednesday - 4 Nov</td>
     <td>
         <ul>
