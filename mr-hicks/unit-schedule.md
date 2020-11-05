@@ -21,9 +21,6 @@ permalink: /mr-hicks/unit-schedule
             <li>3 - M*** in Science</li>
             <li>2 - Metric System</li>
         </ul>
-        <center><b>
-            We are going outside! Dress appropriately!!!
-        </b></center>
     </td>
 </tr>
 <tr>
