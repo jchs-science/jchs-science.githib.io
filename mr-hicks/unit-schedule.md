@@ -15,6 +15,18 @@ permalink: /mr-hicks/unit-schedule
 </thead>
 <tbody>
 <tr style="background-color: #dae8fc;">
+    <td>Friday - 6 Nov</td>
+    <td>
+        <ul>
+            <li>2 - Metric System</li>
+            <li>4 - Paper Airplane</li>
+        </ul>
+        <center><b>
+            4 is GRADED and is in Schoology!
+        </b></center>
+    </td>
+</tr>
+<tr>
     <td>Thursday - 5 Nov</td>
     <td>
         <ul>
