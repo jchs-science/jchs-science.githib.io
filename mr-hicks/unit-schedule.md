@@ -14,7 +14,51 @@ permalink: /mr-hicks/unit-schedule
     </tr>
 </thead>
 <tbody>
-<tr style="background-color: #dae8fc;">
+<tr>
+    <td>Friday - 13 Nov</td>
+    <td>
+        <ul>
+            <li>6 - Measures Lab</li>
+        </ul>
+    </td>
+</tr>
+<tr>
+    <td>Thursday - 12 Nov</td>
+    <td>
+        <ul>
+            <li>Pre-ACT</li>
+        </ul>
+    </td>
+</tr>
+<tr>
+    <td>Wednesday - 11 Nov</td>
+    <td>
+        <center><b>
+            No school.  Happy Veteran's Day!
+        </b></center>
+    </td>
+</tr>
+<tr>
+    <td>Tuesday - 10 Nov</td>
+    <td>
+        <ul>
+            <li>Metric Olympics</li>
+        </ul>
+    </td>
+</tr>
+<tr  style="background-color: #dae8fc;">
+    <td>Monday - 9 Nov</td>
+    <td>
+        <ul>
+            <li>4-Paper Airplane (15 minutes)</li>
+            <li>5 - Bank Statements</li>
+        </ul>
+        <center><b>
+            4 is due!!!
+        </b></center>
+    </td>
+</tr>
+<tr>
     <td>Friday - 6 Nov</td>
     <td>
         <ul>
@@ -71,7 +115,6 @@ permalink: /mr-hicks/unit-schedule
             </b></center> -->
     </td>
 </tr>
-
 </tbody>
 </table>
 
