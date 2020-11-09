@@ -18,7 +18,7 @@ permalink: /mr-hicks/unit-schedule
     <td>Friday - 13 Nov</td>
     <td>
         <ul>
-            <li>6 - Measures Lab</li>
+            <li>8 - Metric Olympics</li>
         </ul>
     </td>
 </tr>
@@ -42,7 +42,9 @@ permalink: /mr-hicks/unit-schedule
     <td>Tuesday - 10 Nov</td>
     <td>
         <ul>
-            <li>Metric Olympics</li>
+            <li>Finish 5 - Bank Statements</li>
+            <li>6 - Scale</li>
+            <li>7 - Conversions</li>
         </ul>
     </td>
 </tr>
