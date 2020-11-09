@@ -38,17 +38,17 @@ permalink: /mr-hicks/unit-schedule
         </b></center>
     </td>
 </tr>
-<tr>
+<tr style="background-color: #dae8fc;">
     <td>Tuesday - 10 Nov</td>
     <td>
         <ul>
             <li>Finish 5 - Bank Statements</li>
-            <li>6 - Scale</li>
+            <li>6 - Scales</li>
             <li>7 - Conversions</li>
         </ul>
     </td>
 </tr>
-<tr  style="background-color: #dae8fc;">
+<tr>
     <td>Monday - 9 Nov</td>
     <td>
         <ul>
