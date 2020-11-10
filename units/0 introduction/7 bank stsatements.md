@@ -30,6 +30,6 @@ mathjax: true
 [c2-2](./bank statements/C314/2.pdf)
 [c2-3](./bank statements/C314/3.pdf)
 
-[A-All](./Bank Statements A-All.pdf)
-[B-All](./Bank Statements B-All.pdf)
-[c-All](./Bank Statements C-All.pdf)
+[A-All](./bank statements/Bank Statements A-All.pdf)
+[B-All](./bank statements/Bank Statements B-All.pdf)
+[C-All](./bank statements/Bank Statements C-All.pdf)
