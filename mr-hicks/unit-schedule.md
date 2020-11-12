@@ -18,13 +18,14 @@ permalink: /mr-hicks/unit-schedule
     <td>Friday - 13 Nov</td>
     <td>
         <ul>
+            <li>Grade Tracking</li>
             <li>6 - Scales</li>
             <li>7 - Conversions</li>
-            <li>8 - Metric Olympics</li>
+            <li>REVISE - 4 Airplane</li>
         </ul>
     </td>
 </tr>
-<tr>
+<tr style="background-color: #dae8fc;">
     <td>Thursday - 12 Nov</td>
     <td>
         <ul>
@@ -40,7 +41,7 @@ permalink: /mr-hicks/unit-schedule
         </b></center>
     </td>
 </tr>
-<tr style="background-color: #dae8fc;">
+<tr>
     <td>Tuesday - 10 Nov</td>
     <td>
         <ul>
