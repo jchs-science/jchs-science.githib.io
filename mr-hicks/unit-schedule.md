@@ -14,6 +14,58 @@ permalink: /mr-hicks/unit-schedule
     </tr>
 </thead>
 <tbody>
+<tr>
+    <td>Friday - 20 Nov</td>
+    <td>
+        <ul>
+            <li></li>
+        </ul>
+    </td>
+</tr>
+<tr>
+    <td>Thursday - 19 Nov</td>
+    <td>
+        <ul>
+            <li>1 - Motion Notes</li>
+            <li>2 - Graph Matching</li>
+        </ul>
+    </td>
+</tr>
+<tr>
+    <td>Wednesday - 18 Nov</td>
+    <td>
+        <ul>
+            <li>11 - Paper Tower</li>
+        </ul>
+        <center><b>
+            11 is GRADED
+        </b></center>
+    </td> 
+</tr>
+<tr>
+    <td>Tuesday - 17 Nov</td>
+    <td>
+        <ul>
+            <li>9 - Graph Questions</li>
+            <li>10 - Graphing Assignment</li>
+        </ul>
+        <center><b>
+            10 is GRADED
+        </b></center>
+    </td>
+</tr>
+<tr>
+    <td>Monday - 16 Nov</td>
+    <td>
+        <ul>
+            <li>7 - Conversions</li>
+            <li>8 - Graph Notes</li>
+        </ul>
+        <center><b>
+            4 is due!!!
+        </b></center>
+    </td>
+</tr>
 <tr style="background-color: #dae8fc;">
     <td>Friday - 13 Nov</td>
     <td>
