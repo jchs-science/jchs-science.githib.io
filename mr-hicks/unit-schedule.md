@@ -61,9 +61,6 @@ permalink: /mr-hicks/unit-schedule
             <li>7 - Conversions</li>
             <li>8 - Graph Notes</li>
         </ul>
-        <center><b>
-            4 is due!!!
-        </b></center>
     </td>
 </tr>
 <tr style="background-color: #dae8fc;">
