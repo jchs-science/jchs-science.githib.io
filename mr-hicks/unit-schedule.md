@@ -54,7 +54,7 @@ permalink: /mr-hicks/unit-schedule
         </b></center>
     </td>
 </tr>
-<tr>
+<tr style="background-color: #dae8fc;">
     <td>Monday - 16 Nov</td>
     <td>
         <ul>
@@ -63,7 +63,7 @@ permalink: /mr-hicks/unit-schedule
         </ul>
     </td>
 </tr>
-<tr style="background-color: #dae8fc;">
+<tr>
     <td>Friday - 13 Nov</td>
     <td>
         <ul>
