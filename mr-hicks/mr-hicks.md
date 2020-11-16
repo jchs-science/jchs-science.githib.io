@@ -16,3 +16,5 @@ Follow the links above to get to the different sections that are relevent to the
        controls>
   <source src="/mr-hicks/vids/Grading.mp4" type="video/mp4">
 </video>
+
+  * [Airplane Video](/mr-hicks/vids/4 - Paper Airplane.mp4)
