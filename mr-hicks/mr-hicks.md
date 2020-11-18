@@ -18,3 +18,4 @@ Follow the links above to get to the different sections that are relevent to the
 </video>
 
   * [Airplane Video](/mr-hicks/vids/4 - Paper Airplane.mp4)
+  * [Paper Tower Video](/mr-hicks/vids/PaperTower.mp4)
