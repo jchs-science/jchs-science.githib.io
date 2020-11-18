@@ -26,6 +26,7 @@ permalink: /mr-hicks/unit-schedule
     <td>Thursday - 19 Nov</td>
     <td>
         <ul>
+            <li>Grade Update</li>
             <li>1 - Motion Notes</li>
             <li>2 - Graph Matching</li>
         </ul>
