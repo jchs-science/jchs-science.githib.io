@@ -22,17 +22,21 @@ permalink: /mr-hicks/unit-schedule
         </ul>
     </td>
 </tr>
-<tr>
+<tr style="background-color: #dae8fc;">
     <td>Thursday - 19 Nov</td>
     <td>
         <ul>
             <li>Grade Update</li>
             <li>1 - Motion Notes</li>
             <li>2 - Graph Matching</li>
+            <center><b>
+                Two things, these are in the new section U5 - Mechanics,
+                and the remote kids CAN'T do 2, so just make sure you have 10 and 11 done.
+            </b></center>
         </ul>
     </td>
 </tr>
-<tr style="background-color: #dae8fc;">
+<tr>
     <td>Wednesday - 18 Nov</td>
     <td>
         <ul>
