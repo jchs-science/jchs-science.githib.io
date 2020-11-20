@@ -14,15 +14,19 @@ permalink: /mr-hicks/unit-schedule
     </tr>
 </thead>
 <tbody>
-<tr>
+<tr style="background-color: #dae8fc;">
     <td>Friday - 20 Nov</td>
     <td>
         <ul>
-            <li></li>
+            <li>Update Grades</li>
+            <li>Work Day</li>
+            <center><b>
+                Don't let me talk all hour!!!  You need time to work!!!
+            </b></center>
         </ul>
     </td>
 </tr>
-<tr style="background-color: #dae8fc;">
+<tr>
     <td>Thursday - 19 Nov</td>
     <td>
         <ul>
