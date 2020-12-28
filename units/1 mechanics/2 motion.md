@@ -6,7 +6,7 @@ nav_order: 2
 mathjax: true
 ---
 
-# Motion
+# Describing Motion
 {: .no_toc }
 
 <!-- table of contents for the page -->
@@ -19,6 +19,85 @@ mathjax: true
 ---
 # Vocabulary
 In order to describe motion, we need some to all have the same definitions for a couple of words.
+
+  * Position
+  * Distance
+  * Speed/Velocity
+  * Acceleration
+  * Time
+  * Change
+
+**Position** is where something is.
+Is it over here, is it over there?
+
+**Distance** is how far.
+To go from one position to another position is a distance.
+Measured in meters.
+
+**Speed/Velocity** is how fast.
+When you move from one place to the next that takes time.
+Relating position and time gives you speed.
+Velocity is just like speed but also has a direction.
+
+**Accleration** is speeding up or slowing down.
+When you press on the gas pedal in a car, you accelerate.
+When you press on the brake, you are also accelerating, it is just negative.
+
+**Time** is how long.
+
+## Summary Table
+
+| Vocabulary | Unit | Description |
+|---|:---:|---|
+| Position | -- | Where |
+| Distance | m (meters) | How far |
+| Speed/Velocity | $$\frac{m}{s}$$ $$\left(\frac{\text{meter}}{\text{second}}\right)$$ | How fast |
+| Acceleration | $$\frac{m}{s^2}$$ $$\left(\frac{\text{meter}}{\text{second squared}}\right)$$ | Speeding up OR slowing down OR changing direction |
+| Time | s (second) | How long |
+| Change | -- | New number |
+
+# Types of Graphs
+
+## Summary Table
+<table>
+<thead>
+  <tr>
+    <th>Shape</th>
+    <th>Meaning</th>
+    <th>Picture</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Flat</td>
+    <td>Constant</td>
+    <td>
+      <figure>
+        <img src="./images/1.1-motion-position.png" alt="drawing" width="50"/>
+        <figcaption>Motion graph for an object with constant position.</figcaption>
+      </figure>
+    </td>
+  </tr>
+  <tr>
+    <td>Straight, but not flat</td>
+    <td>Changing</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Curved</td>
+    <td>Changing-changing</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+# Vocabulary + Graphs = Describing Motion
+
+
+
+
+
+------
 
 ## Position
 Position is where something is.
